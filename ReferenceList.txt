@@ -1,0 +1,3 @@
+https://developers.themoviedb.org/3/getting-started/introduction
+https://github.com/nicklimmm/movie-analysis
+https://www.themoviedb.org/talk/621b62abd18572001df182ea #Limit to page less then 500
