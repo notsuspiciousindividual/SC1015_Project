@@ -34,3 +34,5 @@ Dataset (uncleaned)
 -> Machine learning, what classification (Decision Tree & KNN Model)
 -> additional machine learning to find which model is best for our oscard award learning
 -> video to summarise our learning and project
+
+idk testing pls ignore
