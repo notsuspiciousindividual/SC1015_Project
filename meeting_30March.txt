@@ -1,0 +1,36 @@
+Which future movie will be best picture
+Main aim: Is to understand what factors help a movie to win best picture
+What type of machine learning model should we use to predict the next picture winning
+Conclude with video and findings
+
+
+EDA Part:
+Remove Movies released 2023 >
+Remove movies without runtime
+Remove movies without release date
+Bring genre's
+Put Column with "Best Winning"
+
+Training,Test:
+Decision Tree Algorithm
+Compare with other algorithm (KNN Model)
+Take account how many null data we have
+
+Correlation between the whatever to bestPicture
+
+- What percentage of budget is the revenue
+
+
+
+revenue / budget * 100 = percentageOverall (to regulate the inflation)
+
+See which one has higher correlation so that we understand which properties 
+help win an oscar (heatmap)
+
+Dataset (uncleaned)
+-> Cleaning
+-> EDA to clean more
+-> visualize using graphs
+-> Machine learning, what classification (Decision Tree & KNN Model)
+-> additional machine learning to find which model is best for our oscard award learning
+-> video to summarise our learning and project
