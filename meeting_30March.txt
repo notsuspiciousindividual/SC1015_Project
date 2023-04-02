@@ -8,7 +8,7 @@ EDA Part:
 Remove Movies released 2023 >
 Remove movies without runtime
 Remove movies without release date
-Bring genre's
+Bring genre's 
 Put Column with "Best Winning"
 
 Training,Test:
@@ -31,6 +31,8 @@ Dataset (uncleaned)
 -> Cleaning
 -> EDA to clean more
 -> visualize using graphs
+-> sampling + balancing 
+decide which variables to use (avoid over-fitting)
 -> Machine learning, what classification (Decision Tree & KNN Model)
 -> additional machine learning to find which model is best for our oscard award learning
 -> video to summarise our learning and project
