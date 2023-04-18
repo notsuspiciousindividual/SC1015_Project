@@ -1,0 +1,5099 @@
+,year_film,film,winner
+0,1927,The Noose,False
+1,1927,The Last Command,True
+2,1927,A Ship Comes In,False
+3,1927,7th Heaven,True
+4,1927,Sadie Thompson,False
+5,1927,The Dove;,True
+6,1927,The Devil Dancer;,False
+7,1927,Sunrise,True
+8,1927,Two Arabian Knights,True
+9,1927,Speedy,False
+10,1927,Sorrell and Son,False
+11,1927,The Crowd,False
+12,1927,Wings,True
+13,1927,The Racket,False
+14,1927,Chang,False
+15,1927,The Jazz Singer,False
+16,1927,Glorious Betsy,False
+17,1927,Underworld,True
+18,1927,The Private Life of Helen of Troy,False
+19,1928,Thunderbolt,False
+20,1928,In Old Arizona,True
+21,1928,Alibi,False
+22,1928,The Valiant,False
+23,1928,Madame X,False
+24,1928,The Barker,False
+25,1928,The Letter,False
+26,1928,Coquette,True
+27,1928,The Bridge of San Luis Rey,True
+28,1928,Dynamite,False
+29,1928,Alibi;,False
+30,1928,Street Angel,False
+31,1928,Our Dancing Daughters,False
+32,1928,White Shadows in the South Seas,True
+33,1928,Four Devils;,False
+34,1928,The Divine Lady,True
+35,1928,Drag;,False
+36,1928,The Broadway Melody,True
+37,1928,Hollywood Revue,False
+38,1928,In Old Arizona;,False
+39,1928,The Cop;,False
+40,1928,The Last of Mrs. Cheyney,False
+41,1928,The Patriot,True
+42,1928,A Woman of Affairs;,False
+43,1929,Disraeli,True
+44,1929,The Green Goddess,False
+45,1929,The Big Pond,False
+46,1929,Bulldog Drummond,False
+47,1929,The Rogue Song,False
+48,1929,The Devil's Holiday,False
+49,1929,Sarah and Son,False
+50,1929,Anna Christie,False
+51,1929,The Divorcee,True
+52,1929,Their Own Desire,False
+53,1929,The Trespasser,False
+54,1929,King of Jazz,True
+55,1929,The Love Parade,False
+56,1929,Sally,False
+57,1929,The Vagabond King,False
+58,1929,Hell's Angels,False
+59,1929,With Byrd at the South Pole,True
+60,1929,Anna Christie;,False
+61,1929,All Quiet on the Western Front,True
+62,1929,Hallelujah,False
+63,1929,The Big House,True
+64,1929,The Case of Sergeant Grischa,False
+65,1929,Raffles,False
+66,1929,Song of the Flame,False
+67,1929,Street of Chance,False
+68,1930,A Free Soul,True
+69,1930,The Royal Family of Broadway,False
+70,1930,The Front Page,False
+71,1930,Morocco,False
+72,1930,Min and Bill,True
+73,1930,Holiday,False
+74,1930,Cimarron,True
+75,1930,Just Imagine,False
+76,1930,Svengali,False
+77,1930,Whoopee!,False
+78,1930,The Right to Love,False
+79,1930,Tabu,True
+80,1930,Skippy,True
+81,1930,East Lynne,False
+82,1930,Trader Horn,False
+83,1930,The Criminal Code,False
+84,1930,Little Caesar,False
+85,1930,The Dawn Patrol,True
+86,1930,The Doorway to Hell,False
+87,1930,Laughter,False
+88,1930,The Public Enemy,False
+89,1930,Smart Money,False
+90,1931,The Champ,True
+91,1931,The Guardsman,False
+92,1931,Dr. Jekyll and Mr. Hyde,True
+93,1931,Emma,False
+94,1931,The Sin of Madelon Claudet,True
+95,1931,À Nous la Liberté,False
+96,1931,Arrowsmith,False
+97,1931,Transatlantic,True
+98,1931,Shanghai Express,True
+99,1931,Bad Girl,True
+100,1931,Five Star Final,False
+101,1931,Grand Hotel,True
+102,1931,One Hour with You,False
+103,1931,The Smiling Lieutenant,False
+104,1931,Flowers and Trees,True
+105,1931,It's Got Me Again,False
+106,1931,Mickey's Orphans,False
+107,1931,The Loud Mouth,False
+108,1931,The Music Box,True
+109,1931,Scratch-As-Catch-Can,False
+110,1931,Stout Hearts and Willing Hands,False
+111,1931,Screen Souvenirs,False
+112,1931,Swing High,False
+113,1931,Wrestling Swordfish,True
+114,1931,Lady and Gent,False
+115,1931,The Star Witness,False
+116,1931,What Price Hollywood?,False
+117,1932,Berkeley Square,False
+118,1932,The Private Life of Henry VIII,True
+119,1932,I Am a Fugitive from a Chain Gang,False
+120,1932,Morning Glory,True
+121,1932,Lady for a Day,False
+122,1932,Cavalcade,True
+123,1932,When Ladies Meet,False
+124,1932,A Farewell to Arms,True
+125,1932,Reunion in Vienna,False
+126,1932,The Sign of the Cross,False
+127,1932,42nd Street,False
+128,1932,She Done Him Wrong,False
+129,1932,Smilin' Through,False
+130,1932,State Fair,False
+131,1932,Building a Building,False
+132,1932,The Merry Old Soul,False
+133,1932,The Three Little Pigs,True
+134,1932,Mister Mugg,False
+135,1932,A Preferred List,False
+136,1932,So This Is Harris,True
+137,1932,Krakatoa,True
+138,1932,Menu,False
+139,1932,The Sea,False
+140,1932,Gold Diggers of 1933,False
+141,1932,Little Women,True
+142,1932,One Way Passage,True
+143,1932,The Prizefighter and the Lady,False
+144,1932,Rasputin and the Empress,False
+145,1934,It Happened One Night,True
+146,1934,The Affairs of Cellini,False
+147,1934,The Thin Man,False
+148,1934,Of Human Bondage,False
+149,1934,The Barretts of Wimpole Street,False
+150,1934,The Merry Widow,True
+151,1934,Imitation of Life,False
+152,1934,Viva Villa!,True
+153,1934,Cleopatra,True
+154,1934,Operator 13,False
+155,1934,Eskimo,True
+156,1934,The Lost Patrol,False
+157,1934,One Night of Love,True
+158,1934,Flying Down to Rio,False
+159,1934,The Gay Divorcee,True
+160,1934,She Loves Me Not,False
+161,1934,Flirtation Walk,False
+162,1934,Here Comes the Navy,False
+163,1934,The House of Rothschild,False
+164,1934,The White Parade,False
+165,1934,Holiday Land,False
+166,1934,Jolly Little Elves,False
+167,1934,The Tortoise and the Hare,True
+168,1934,La Cucaracha,True
+169,1934,Men in Black,False
+170,1934,"What, No Men!",False
+171,1934,Bosom Friends,False
+172,1934,City of Wax,True
+173,1934,Strikes and Spares,False
+174,1934,Hide-Out,False
+175,1934,Manhattan Melodrama,True
+176,1934,The Richest Girl in the World,False
+177,1935,The Informer,True
+178,1935,Black Fury,False
+179,1935,Escape Me Never,False
+180,1935,Private Worlds,False
+181,1935,Dangerous,True
+182,1935,Alice Adams,False
+183,1935,Becky Sharp,False
+184,1935,The Dark Angel,True
+185,1935,Top Hat,False
+186,1935,David Copperfield,False
+187,1935,Les Miserables,False
+188,1935,The Lives of a Bengal Lancer,True
+189,1935,Barbary Coast,False
+190,1935,The Crusades,False
+191,1935,A Midsummer Night's Dream,True
+192,1935,Go into Your Dance;,False
+193,1935,Broadway Melody of 1936;,True
+194,1935,King of Burlesque,False
+195,1935,Big Broadcast of 1936;,False
+196,1935,She,False
+197,1935,Captain Blood,False
+198,1935,Peter Ibbetson,False
+199,1935,Roberta,False
+200,1935,Gold Diggers of 1935,True
+201,1935,Broadway Melody of 1936,False
+202,1935,Mutiny on the Bounty,True
+203,1935,Ruggles of Red Gap,False
+204,1935,The Calico Dragon,False
+205,1935,Three Orphan Kittens,True
+206,1935,Who Killed Cock Robin?,False
+207,1935,How to Sleep,True
+208,1935,"Oh, My Nerves",False
+209,1935,Tit for Tat,False
+210,1935,Audioscopiks,False
+211,1935,Camera Thrills,False
+212,1935,Wings over Mt. Everest,True
+213,1935,Bride of Frankenstein,False
+214,1935,I Dream Too Much,False
+215,1935,Love Me Forever,False
+216,1935,Naughty Marietta,True
+217,1935,"$1,000 a Minute",False
+218,1935,Thanks a Million,False
+219,1935,G-Men,False
+220,1935,The Gay Deception,False
+221,1935,The Scoundrel,True
+222,1936,The Story of Louis Pasteur,True
+223,1936,My Man Godfrey,False
+224,1936,Come and Get It,True
+225,1936,Pigskin Parade,False
+226,1936,Romeo and Juliet,False
+227,1936,The General Died at Dawn,False
+228,1936,Theodora Goes Wild,False
+229,1936,Valiant Is the Word for Carrie,False
+230,1936,The Great Ziegfeld,True
+231,1936,The Gorgeous Hussy,False
+232,1936,These Three,False
+233,1936,Anthony Adverse,True
+234,1936,Dodsworth,True
+235,1936,Lloyds of London,False
+236,1936,The Magnificent Brute,False
+237,1936,Winterset,False
+238,1936,The Charge of the Light Brigade,True
+239,1936,The Garden of Allah,False
+240,1936,The Last of the Mohicans,False
+241,1936,Gold Diggers of 1937,False
+242,1936,Cain and Mabel,False
+243,1936,Born to Dance,False
+244,1936,One in a Million,False
+245,1936,Dancing Pirate,False
+246,1936,Mr. Deeds Goes to Town,True
+247,1936,A Tale of Two Cities,False
+248,1936,Suzy,False
+249,1936,Trail of the Lonesome Pine,False
+250,1936,Pennies from Heaven,False
+251,1936,Swing Time,True
+252,1936,"Sing, Baby, Sing",False
+253,1936,Libeled Lady,False
+254,1936,Three Smart Girls,False
+255,1936,The Country Cousin,True
+256,1936,Old Mill Pond,False
+257,1936,Sinbad the Sailor,False
+258,1936,Give Me Liberty,True
+259,1936,La Fiesta de Santa Barbara,False
+260,1936,Popular Science J-6-2,False
+261,1936,Bored of Education,True
+262,1936,Moscow Moods,False
+263,1936,"Wanted, a Master",False
+264,1936,Double or Nothing,False
+265,1936,Dummy Ache,False
+266,1936,The Public Pays,True
+267,1936,Banjo on My Knee,False
+268,1936,General Spanky,False
+269,1936,San Francisco,True
+270,1936,The Texas Rangers,False
+271,1936,That Girl from Paris,False
+272,1936,Fury,False
+273,1936,After the Thin Man,False
+274,1937,Conquest,False
+275,1937,Night Must Fall,False
+276,1937,Captains Courageous,True
+277,1937,The Life of Emile Zola,True
+278,1937,Topper,False
+279,1937,Camille,False
+280,1937,The Good Earth,True
+281,1937,Stella Dallas,False
+282,1937,In Old Chicago,True
+283,1937,Stage Door,False
+284,1937,Dead End,False
+285,1937,Every Day's a Holiday,False
+286,1937,Lost Horizon,True
+287,1937,Manhattan Merry-Go-Round,False
+288,1937,The Prisoner of Zenda,False
+289,1937,Souls at Sea,False
+290,1937,Walter Wanger's Vogues of 1938,False
+291,1937,Wee Willie Winkie,False
+292,1937,You're a Sweetheart,False
+293,1937,Wings over Honolulu,False
+294,1937,Varsity Show,False
+295,1937,"Ready, Willing and Able",False
+296,1937,A Day at the Races,False
+297,1937,Ali Baba Goes to Town,False
+298,1937,Thin Ice,False
+299,1937,A Damsel in Distress,True
+300,1937,The Awful Truth,True
+301,1937,Make a Wish,False
+302,1937,Maytime,False
+303,1937,One Hundred Men and a Girl,True
+304,1937,Portia on Trial,False
+305,1937,Quality Street,False
+306,1937,Snow White and the Seven Dwarfs,False
+307,1937,Something to Sing About,False
+308,1937,Way Out West,False
+309,1937,Mr. Dodd Takes the Air,False
+310,1937,Waikiki Wedding,True
+311,1937,Shall We Dance,False
+312,1937,Artists and Models,False
+313,1937,Educated Fish,False
+314,1937,The Little Match Girl,False
+315,1937,The Old Mill,True
+316,1937,The Man without a Country,False
+317,1937,Penny Wisdom,True
+318,1937,Popular Science J-7-1,False
+319,1937,A Night at the Movies,False
+320,1937,The Private Life of the Gannets,True
+321,1937,Romance of Radium,False
+322,1937,Deep South,False
+323,1937,Should Wives Work?,False
+324,1937,Torture Money,True
+325,1937,The Girl Said No,False
+326,1937,Hitting a New High,False
+327,1937,The Hurricane,True
+328,1937,Wells Fargo,False
+329,1937,Black Legion,False
+330,1937,A Star Is Born,True
+331,1938,Algiers,False
+332,1938,Angels with Dirty Faces,False
+333,1938,The Citadel,False
+334,1938,Boys Town,True
+335,1938,Kentucky,True
+336,1938,Four Daughters,False
+337,1938,Marie Antoinette,False
+338,1938,If I Were King,False
+339,1938,White Banners,False
+340,1938,Jezebel,True
+341,1938,Three Comrades,False
+342,1938,Of Human Hearts,False
+343,1938,Merrily We Live,False
+344,1938,The Adventures of Robin Hood,True
+345,1938,The Adventures of Tom Sawyer,False
+346,1938,Carefree,False
+347,1938,The Goldwyn Follies,False
+348,1938,Holiday,False
+349,1938,Mad about Music,False
+350,1938,Army Girl,False
+351,1938,The Buccaneer,False
+352,1938,The Great Waltz,True
+353,1938,Suez,False
+354,1938,Vivacious Lady,False
+355,1938,The Young in Heart,False
+356,1938,You Can't Take It with You,True
+357,1938,Test Pilot,False
+358,1938,Block-Heads,False
+359,1938,Blockade,False
+360,1938,Breaking the Ice,False
+361,1938,Pacific Liner,False
+362,1938,Alexander's Ragtime Band,True
+363,1938,Girls' School,False
+364,1938,Storm over Bengal,False
+365,1938,Sweethearts,False
+366,1938,There Goes My Heart,False
+367,1938,Tropic Holiday,False
+368,1938,Mannequin,False
+369,1938,Under Western Stars,False
+370,1938,Going Places,False
+371,1938,The Lady Objects,False
+372,1938,That Certain Age,False
+373,1938,The Big Broadcast of 1938,True
+374,1938,Grand Illusion,False
+375,1938,Brave Little Tailor,False
+376,1938,Ferdinand the Bull,True
+377,1938,Good Scouts,False
+378,1938,Hunky and Spunky,False
+379,1938,Mother Goose Goes Hollywood,False
+380,1938,The Great Heart,False
+381,1938,That Mothers Might Live,True
+382,1938,Timber Toppers,False
+383,1938,Declaration of Independence,True
+384,1938,Swingtime in the Movies,False
+385,1938,They're Always Caught,False
+386,1938,The Cowboy and the Lady,True
+387,1938,Pygmalion,True
+388,1939,"Goodbye, Mr. Chips",True
+389,1939,Babes in Arms,False
+390,1939,Juarez,False
+391,1939,Beau Geste,False
+392,1939,Stagecoach,True
+393,1939,Dark Victory,False
+394,1939,Love Affair,False
+395,1939,Ninotchka,False
+396,1939,Gone with the Wind,True
+397,1939,Drums along the Mohawk,False
+398,1939,Captain Fury,False
+399,1939,First Love,False
+400,1939,Man of Conquest,False
+401,1939,The Private Lives of Elizabeth and Essex,False
+402,1939,The Great Victor Herbert,False
+403,1939,Gunga Din,False
+404,1939,Intermezzo,False
+405,1939,Lady of the Tropics,False
+406,1939,Of Mice and Men,False
+407,1939,Only Angels Have Wings,False
+408,1939,Wuthering Heights,True
+409,1939,Four Feathers,False
+410,1939,The Mikado,False
+411,1939,Eternally Yours,False
+412,1939,Golden Boy,False
+413,1939,Gulliver's Travels,False
+414,1939,The Man in the Iron Mask,False
+415,1939,Nurse Edith Cavell,False
+416,1939,The Wizard of Oz,True
+417,1939,The Hunchback of Notre Dame,False
+418,1939,She Married a Cop,False
+419,1939,Swanee River,False
+420,1939,They Shall Have Music,False
+421,1939,Way Down South,False
+422,1939,Second Fiddle,False
+423,1939,Detouring America,False
+424,1939,Peace on Earth,False
+425,1939,The Pointer,False
+426,1939,The Ugly Duckling,True
+427,1939,Busy Little Bears,True
+428,1939,Information Please,False
+429,1939,Prophet without Honor,False
+430,1939,Sword Fishing,False
+431,1939,Drunk Driving,False
+432,1939,Five Times Five,False
+433,1939,Sons of Liberty,True
+434,1939,Balalaika,False
+435,1939,When Tomorrow Comes,True
+436,1939,The Rains Came,True
+437,1939,Topper Takes a Trip,False
+438,1939,Union Pacific,False
+439,1939,Bachelor Mother,False
+440,1939,Mr. Smith Goes to Washington,True
+441,1939,Young Mr. Lincoln,False
+442,1940,The Great Dictator,False
+443,1940,Abe Lincoln in Illinois,False
+444,1940,The Philadelphia Story,True
+445,1940,Foreign Correspondent,False
+446,1940,The Westerner,True
+447,1940,They Knew What They Wanted,False
+448,1940,The Letter,False
+449,1940,Kitty Foyle,True
+450,1940,Our Town,False
+451,1940,The Grapes of Wrath,True
+452,1940,"All This, and Heaven Too",False
+453,1940,Primrose Path,False
+454,1940,Arizona,False
+455,1940,The Boys from Syracuse,False
+456,1940,The Dark Command,False
+457,1940,Lillian Russell,False
+458,1940,My Favorite Wife,False
+459,1940,"My Son, My Son!",False
+460,1940,Pride and Prejudice,True
+461,1940,The Sea Hawk,False
+462,1940,Bitter Sweet,False
+463,1940,Down Argentine Way,False
+464,1940,The Thief of Bagdad,True
+465,1940,Boom Town,False
+466,1940,The Long Voyage Home,False
+467,1940,Rebecca,True
+468,1940,Spring Parade,False
+469,1940,Waterloo Bridge,False
+470,1940,The Blue Bird,False
+471,1940,Northwest Passage,False
+472,1940,North West Mounted Police,True
+473,1940,The Fight for Life,False
+474,1940,The House of the Seven Gables,False
+475,1940,The Howards of Virginia,False
+476,1940,The Mark of Zorro,False
+477,1940,One Million B.C.,False
+478,1940,Pinocchio,True
+479,1940,Hit Parade of 1941,False
+480,1940,Irene,False
+481,1940,Second Chorus,False
+482,1940,Tin Pan Alley,True
+483,1940,You'll Find Out,False
+484,1940,Music in My Heart,False
+485,1940,Rhythm on the River,False
+486,1940,The Milky Way,True
+487,1940,Puss Gets the Boot,False
+488,1940,A Wild Hare,False
+489,1940,London Can Take It,False
+490,1940,More about Nostradamus,False
+491,1940,Quicker 'N a Wink,True
+492,1940,Siege,False
+493,1940,Eyes of the Navy,False
+494,1940,Service with the Colors,False
+495,1940,"Teddy, the Rough Rider",True
+496,1940,Behind the News,False
+497,1940,Captain Caution,False
+498,1940,Strike Up the Band,True
+499,1940,Too Many Husbands,False
+500,1940,Dr. Cyclops,False
+501,1940,The Invisible Man Returns,False
+502,1940,Swiss Family Robinson,False
+503,1940,Typhoon,False
+504,1940,Women in War,False
+505,1940,Angels over Broadway,False
+506,1940,Dr. Ehrlich's Magic Bullet,False
+507,1940,The Great McGinty,True
+508,1940,"Arise, My Love",True
+509,1940,Comrade X,False
+510,1940,"Edison, the Man",False
+511,1941,Sergeant York,True
+512,1941,Penny Serenade,False
+513,1941,The Devil and Miss Jones,False
+514,1941,How Green Was My Valley,True
+515,1941,The Maltese Falcon,False
+516,1941,The Little Foxes,False
+517,1941,Hold Back the Dawn,False
+518,1941,Suspicion,True
+519,1941,Ball of Fire,False
+520,1941,The Great Lie,True
+521,1941,The Flame of New Orleans,False
+522,1941,Ladies in Retirement,False
+523,1941,Sis Hopkins,False
+524,1941,The Son of Monte Cristo,False
+525,1941,Sundown,False
+526,1941,When Ladies Meet,False
+527,1941,Blossoms in the Dust,True
+528,1941,Louisiana Purchase,False
+529,1941,The Chocolate Soldier,False
+530,1941,Dr. Jekyll and Mr. Hyde,False
+531,1941,Sun Valley Serenade,False
+532,1941,Aloma of the South Seas,False
+533,1941,Billy the Kid,False
+534,1941,Blood and Sand,True
+535,1941,Dive Bomber,False
+536,1941,Adventure in the Bronx,False
+537,1941,Bomber,False
+538,1941,Christmas under Fire,False
+539,1941,Churchill's Island,True
+540,1941,Letter from Home,False
+541,1941,Life of a Thoroughbred,False
+542,1941,Norway in Revolt,False
+543,1941,A Place to Live,False
+544,1941,Russian Soil,False
+545,1941,Soldiers of the Sky,False
+546,1941,War Clouds in the Pacific,False
+547,1941,All That Money Can Buy,True
+548,1941,Back Street,False
+549,1941,Cheers for Miss Bishop,False
+550,1941,King of the Zombies,False
+551,1941,Lydia,False
+552,1941,Mercy Island,False
+553,1941,So Ends Our Night,False
+554,1941,Tanks a Million,False
+555,1941,That Uncertain Feeling,False
+556,1941,This Woman Is Mine,False
+557,1941,All-American Co-Ed,False
+558,1941,Birth of the Blues,False
+559,1941,Buck Privates,False
+560,1941,Dumbo,True
+561,1941,Ice-Capades,False
+562,1941,The Strawberry Blonde,False
+563,1941,Sunny,False
+564,1941,You'll Never Get Rich,False
+565,1941,Ridin' on a Rainbow,False
+566,1941,Blues in the Night,False
+567,1941,Las Vegas Nights,False
+568,1941,Lady Be Good,True
+569,1941,One Foot in Heaven,False
+570,1941,Boogie Woogie Bugle Boy of Company B,False
+571,1941,Hiawatha's Rabbit Hunt,False
+572,1941,How War Came,False
+573,1941,Lend a Paw,True
+574,1941,The Night before Christmas,False
+575,1941,Rhapsody in Rivets,False
+576,1941,Rhythm in the Ranks,False
+577,1941,The Rookie Bear,False
+578,1941,Superman,False
+579,1941,Truant Officer Donald,False
+580,1941,Army Champions,False
+581,1941,Beauty and the Beach,False
+582,1941,Down on the Farm,False
+583,1941,Forty Boys and a Song,False
+584,1941,Kings of the Turf,False
+585,1941,Of Pups and Puzzles,True
+586,1941,Sagebrush and Silver,False
+587,1941,Alive in the Deep,False
+588,1941,Forbidden Passage,False
+589,1941,The Gay Parisian,False
+590,1941,Main Street on the March!,True
+591,1941,The Tanks Are Coming,False
+592,1941,Appointment for Love,False
+593,1941,The Devil Pays Off,False
+594,1941,The Men in Her Life,False
+595,1941,Skylark,False
+596,1941,That Hamilton Woman,True
+597,1941,Topper Returns,False
+598,1941,Flight Command,False
+599,1941,I Wanted Wings,True
+600,1941,The Invisible Woman,False
+601,1941,The Sea Wolf,False
+602,1941,A Yank in the R.A.F.,False
+603,1941,Citizen Kane,True
+604,1941,"Tall, Dark and Handsome",False
+605,1941,"Tom, Dick and Harry",False
+606,1941,Here Comes Mr. Jordan,True
+607,1941,The Lady Eve,False
+608,1941,Meet John Doe,False
+609,1941,Night Train,False
+610,1942,Yankee Doodle Dandy,True
+611,1942,Random Harvest,False
+612,1942,The Pied Piper,False
+613,1942,Wake Island,False
+614,1942,Johnny Eager,True
+615,1942,Tortilla Flat,False
+616,1942,Mrs. Miniver,True
+617,1942,My Sister Eileen,False
+618,1942,The Magnificent Ambersons,False
+619,1942,George Washington Slept Here,False
+620,1942,The Shanghai Gesture,False
+621,1942,Silver Queen,False
+622,1942,The Spoilers,False
+623,1942,"Take a Letter, Darling",False
+624,1942,The Talk of the Town,False
+625,1942,This above All,True
+626,1942,Arabian Nights,False
+627,1942,Captains of the Clouds,False
+628,1942,Jungle Book,False
+629,1942,My Gal Sal,True
+630,1942,Kings Row,False
+631,1942,Moontide,False
+632,1942,Ten Gentlemen from West Point,False
+633,1942,The Black Swan,True
+634,1942,To the Shores of Tripoli,False
+635,1942,"Africa, Prelude to Victory",False
+636,1942,The Battle of Midway,True
+637,1942,Combat Report,False
+638,1942,Conquer by the Clock,False
+639,1942,The Grain That Built a Hemisphere,False
+640,1942,"Henry Browne, Farmer",False
+641,1942,High over the Borders,False
+642,1942,High Stakes in the East,False
+643,1942,Inside Fighting China,False
+644,1942,It's Everybody's War,False
+645,1942,Kokoda Front Line!,True
+646,1942,Listen to Britain,False
+647,1942,Little Belgium,False
+648,1942,Little Isles of Freedom,False
+649,1942,Mr. Blabbermouth!,False
+650,1942,Mr. Gardenia Jones,False
+651,1942,Moscow Strikes Back,True
+652,1942,The New Spirit,False
+653,1942,Prelude to War,True
+654,1942,The Price of Victory,False
+655,1942,A Ship Is Born,False
+656,1942,Twenty-One Miles,False
+657,1942,We Refuse to Die,False
+658,1942,White Eagle,False
+659,1942,Winning Your Wings,False
+660,1942,The Pride of the Yankees,True
+661,1942,Bambi,False
+662,1942,The Corsican Brothers,False
+663,1942,Flying Tigers,False
+664,1942,The Gold Rush,False
+665,1942,I Married a Witch,False
+666,1942,Joan of Paris,False
+667,1942,Klondike Fury,False
+668,1942,"Now, Voyager",True
+669,1942,To Be or Not to Be,False
+670,1942,Flying with Music,False
+671,1942,For Me and My Gal,False
+672,1942,It Started with Eve,False
+673,1942,Johnny Doughboy,False
+674,1942,You Were Never Lovelier,False
+675,1942,Always in My Heart,False
+676,1942,Babes on Broadway,False
+677,1942,Youth on Parade,False
+678,1942,Orchestra Wives,False
+679,1942,Hellzapoppin',False
+680,1942,The Mayor of 44th Street,False
+681,1942,Holiday Inn,True
+682,1942,All Out for 'V',False
+683,1942,Blitz Wolf,False
+684,1942,Der Fuehrer's Face,True
+685,1942,Juke Box Jamboree,False
+686,1942,Pigs in a Polka,False
+687,1942,Tulips Shall Grow,False
+688,1942,Desert Wonderland,False
+689,1942,Marines in the Making,False
+690,1942,Speaking of Animals and Their Families,True
+691,1942,United States Marine Band,False
+692,1942,Beyond the Line of Duty,True
+693,1942,Don't Talk,False
+694,1942,Private Smith of the U.S.A.,False
+695,1942,Friendly Enemies,False
+696,1942,Once upon a Honeymoon,False
+697,1942,Road to Morocco,False
+698,1942,Desperate Journey,False
+699,1942,Invisible Agent,False
+700,1942,The Navy Comes Through,False
+701,1942,One of Our Aircraft Is Missing,False
+702,1942,Reap the Wild Wind,True
+703,1942,The Invaders,True
+704,1942,The War against Mrs. Hadley,False
+705,1942,Woman of the Year,True
+706,1943,Watch on the Rhine,True
+707,1943,Madame Curie,False
+708,1943,The More the Merrier,True
+709,1943,Sahara,False
+710,1943,The Constant Nymph,False
+711,1943,The Song of Bernadette,True
+712,1943,So Proudly We Hail!,False
+713,1943,For Whom the Bell Tolls,True
+714,1943,Five Graves to Cairo,False
+715,1943,Flight for Freedom,False
+716,1943,Mission to Moscow,False
+717,1943,The North Star,False
+718,1943,The Gang's All Here,False
+719,1943,Phantom of the Opera,True
+720,1943,Thousands Cheer,False
+721,1943,Corvette K-225,False
+722,1943,Heaven Can Wait,False
+723,1943,Lassie Come Home,False
+724,1943,Casablanca,True
+725,1943,Baptism of Fire,False
+726,1943,The Battle of Russia,False
+727,1943,Desert Victory,True
+728,1943,For God and Country,False
+729,1943,Report from the Aleutians,False
+730,1943,Silent Village,False
+731,1943,War Department Report,False
+732,1943,"We've Come a Long, Long Way",False
+733,1943,Bismarck Convoy Smashed,False
+734,1943,Children of Mars,False
+735,1943,Day of Battle,False
+736,1943,December 7th,True
+737,1943,The Dutch Tradition,False
+738,1943,Kill or Be Killed,False
+739,1943,The Labor Front,False
+740,1943,Land of My Mother,False
+741,1943,Letter from Livingston,False
+742,1943,Life Line,False
+743,1943,Plan for Destruction,False
+744,1943,The Rear Gunner,False
+745,1943,Servant of a Nation,False
+746,1943,Swedes in America,False
+747,1943,Task Force,False
+748,1943,To the People of the United States,False
+749,1943,Tomorrow We Fly,False
+750,1943,The Voice That Thrilled the World,False
+751,1943,Water--Friend or Enemy,False
+752,1943,Wings Up,False
+753,1943,Youth in Crisis,False
+754,1943,Air Force,True
+755,1943,The Amazing Mrs. Holliday,False
+756,1943,Commandos Strike at Dawn,False
+757,1943,The Fallen Sparrow,False
+758,1943,Hangmen Also Die,False
+759,1943,Hi Diddle Diddle,False
+760,1943,In Old Oklahoma,False
+761,1943,Johnny Come Lately,False
+762,1943,The Kansan,False
+763,1943,Lady of Burlesque,False
+764,1943,The Moon and Sixpence,False
+765,1943,Victory through Air Power,False
+766,1943,Coney Island,False
+767,1943,Hit Parade of 1943,False
+768,1943,Saludos Amigos,False
+769,1943,The Sky's the Limit,False
+770,1943,Something to Shout About,False
+771,1943,Stage Door Canteen,False
+772,1943,Star Spangled Rhythm,False
+773,1943,This Is the Army,True
+774,1943,Cabin in the Sky,False
+775,1943,Hers to Hold,False
+776,1943,Thank Your Lucky Stars,False
+777,1943,"Hello, Frisco, Hello",True
+778,1943,In Which We Serve,False
+779,1943,The Ox-Bow Incident,False
+780,1943,The Dizzy Acrobat,False
+781,1943,The 500 Hats of Bartholomew Cubbins,False
+782,1943,Greetings Bait!,False
+783,1943,Imagination,False
+784,1943,Reason and Emotion,False
+785,1943,Yankee Doodle Mouse,True
+786,1943,Amphibious Fighters,True
+787,1943,Cavalcade of Dance with Veloz and Yolanda,False
+788,1943,Champions Carry On,False
+789,1943,Hollywood in Uniform,False
+790,1943,Seeing Hands,False
+791,1943,Heavenly Music,True
+792,1943,Letter to a Hero,False
+793,1943,Mardi Gras,False
+794,1943,Women at War,False
+795,1943,Riding High,False
+796,1943,So This Is Washington,False
+797,1943,This Land Is Mine,True
+798,1943,Bombardier,False
+799,1943,Crash Dive,True
+800,1943,Stand By for Action,False
+801,1943,Action in the North Atlantic,False
+802,1943,Destination Tokyo,False
+803,1943,The Human Comedy,True
+804,1943,Shadow of a Doubt,False
+805,1943,Princess O'Rourke,True
+806,1943,Holy Matrimony,False
+807,1944,Going My Way,True
+808,1944,The Seventh Cross,False
+809,1944,Mr. Skeffington,False
+810,1944,Gaslight,True
+811,1944,Mrs. Parkington,False
+812,1944,Double Indemnity,False
+813,1944,None but the Lonely Heart,True
+814,1944,Dragon Seed,False
+815,1944,Address Unknown,False
+816,1944,The Adventures of Mark Twain,False
+817,1944,Casanova Brown,False
+818,1944,No Time for Love,False
+819,1944,Song of the Open Road,False
+820,1944,Step Lively,False
+821,1944,The Climax,False
+822,1944,The Desert Song,False
+823,1944,Kismet,False
+824,1944,Lady in the Dark,False
+825,1944,The Princess and the Pirate,False
+826,1944,Wilson,True
+827,1944,Laura,True
+828,1944,Lifeboat,False
+829,1944,The Uninvited,False
+830,1944,The White Cliffs of Dover,False
+831,1944,Home in Indiana,False
+832,1944,Meet Me in St. Louis,False
+833,1944,The Fighting Lady,True
+834,1944,Resisting Enemy Interrogation,False
+835,1944,Arturo Toscanini,False
+836,1944,New Americans,False
+837,1944,With the Marines at Tarawa,True
+838,1944,Janie,False
+839,1944,The Bridge of San Luis Rey,False
+840,1944,Christmas Holiday,False
+841,1944,The Fighting Seabees,False
+842,1944,The Hairy Ape,False
+843,1944,It Happened Tomorrow,False
+844,1944,Jack London,False
+845,1944,Since You Went Away,True
+846,1944,Summer Storm,False
+847,1944,Three Russian Girls,False
+848,1944,Up in Mabel's Room,False
+849,1944,Voice in the Wind,False
+850,1944,Woman of the Town,False
+851,1944,Brazil,False
+852,1944,Cover Girl,True
+853,1944,Higher and Higher,False
+854,1944,Hollywood Canteen,False
+855,1944,Irish Eyes Are Smiling,False
+856,1944,Knickerbocker Holiday,False
+857,1944,"Lady, Let's Dance",False
+858,1944,The Merry Monahans,False
+859,1944,Minstrel Man,False
+860,1944,Sensations of 1945,False
+861,1944,Up in Arms,False
+862,1944,Follow the Boys,False
+863,1944,Sweet and Low-Down,False
+864,1944,And to Think I Saw It on Mulberry Street,False
+865,1944,"Dog, Cat and Canary",False
+866,1944,Fish Fry,False
+867,1944,How to Play Football,False
+868,1944,Mouse Trouble,True
+869,1944,My Boy Johnny,False
+870,1944,Swooner Crooner,False
+871,1944,Blue Grass Gentlemen,False
+872,1944,Jammin' the Blues,False
+873,1944,Movie Pests,False
+874,1944,Screen Snapshots' 50th Anniversary of Motion Pictures,False
+875,1944,Who's Who in Animal Land,True
+876,1944,Bombalera,False
+877,1944,I Won't Play,True
+878,1944,Main Street Today,False
+879,1944,His Butler's Sister,False
+880,1944,Music in Manhattan,False
+881,1944,Days of Glory,False
+882,1944,Secret Command,False
+883,1944,The Story of Dr. Wassell,False
+884,1944,Thirty Seconds over Tokyo,True
+885,1944,A Guy Named Joe,False
+886,1944,None Shall Escape,False
+887,1944,The Sullivans,False
+888,1944,Hail the Conquering Hero,False
+889,1944,The Miracle of Morgan's Creek,False
+890,1944,Two Girls and a Sailor,False
+891,1944,Wing and a Prayer,False
+892,1945,The Lost Weekend,True
+893,1945,The Keys of the Kingdom,False
+894,1945,A Song to Remember,False
+895,1945,The Corn Is Green,False
+896,1945,A Tree Grows in Brooklyn,True
+897,1945,G. I. Joe,False
+898,1945,A Medal for Benny,False
+899,1945,Mildred Pierce,True
+900,1945,The Valley of Decision,False
+901,1945,Love Letters,False
+902,1945,National Velvet,True
+903,1945,Blood on the Sun,True
+904,1945,Experiment Perilous,False
+905,1945,Frenchman's Creek,True
+906,1945,San Antonio,False
+907,1945,A Thousand and One Nights,False
+908,1945,The Picture of Dorian Gray,True
+909,1945,Leave Her to Heaven,True
+910,1945,The Spanish Main,False
+911,1945,The Southerner,False
+912,1945,The Last Bomb,False
+913,1945,The True Glory,True
+914,1945,Hitler Lives?,True
+915,1945,Library of Congress,False
+916,1945,To the Shores of Iwo Jima,False
+917,1945,"Objective, Burma!",False
+918,1945,Brewster's Millions,False
+919,1945,Captain Kidd,False
+920,1945,The Enchanted Cottage,False
+921,1945,Flame of Barbary Coast,False
+922,1945,G. I. Honeymoon,False
+923,1945,Guest in the House,False
+924,1945,Guest Wife,False
+925,1945,The Man Who Walked Alone,False
+926,1945,Paris--Underground,False
+927,1945,Spellbound,True
+928,1945,This Love of Ours,False
+929,1945,The Woman in the Window,False
+930,1945,Anchors Aweigh,True
+931,1945,Belle of the Yukon,False
+932,1945,Can't Help Singing,False
+933,1945,Hitchhike to Happiness,False
+934,1945,Incendiary Blonde,False
+935,1945,Rhapsody in Blue,False
+936,1945,Sunbonnet Sue,False
+937,1945,The Three Caballeros,False
+938,1945,Tonight and Every Night,False
+939,1945,Why Girls Leave Home,False
+940,1945,Here Come the Waves,False
+941,1945,Earl Carroll Vanities,False
+942,1945,Sing Your Way Home,False
+943,1945,State Fair,True
+944,1945,Donald's Crime,False
+945,1945,Jasper and the Beanstalk,False
+946,1945,Life with Feathers,False
+947,1945,Mighty Mouse in Gypsy Life,False
+948,1945,The Poet and Peasant,False
+949,1945,Quiet Please!,True
+950,1945,Rippling Romance,False
+951,1945,Along the Rainbow Trail,False
+952,1945,Screen Snapshots' 25th Anniversary,False
+953,1945,Stairway to Light,True
+954,1945,Story of a Dog,False
+955,1945,White Rhapsody,False
+956,1945,Your National Gallery,False
+957,1945,A Gun in His Hand,False
+958,1945,The Jury Goes Round 'N' Round,False
+959,1945,The Little Witch,False
+960,1945,Star in the Night,True
+961,1945,The Bells of St. Mary's,True
+962,1945,Lady on a Train,False
+963,1945,They Were Expendable,False
+964,1945,Three Is a Family,False
+965,1945,The Unseen,False
+966,1945,Captain Eddie,False
+967,1945,Wonder Man,True
+968,1945,The Affairs of Susan,False
+969,1945,The House on 92nd Street,True
+970,1945,Dillinger,False
+971,1945,Marie-Louise,True
+972,1945,Music for Millions,False
+973,1945,Salty O'Rourke,False
+974,1945,"What Next, Corporal Hargrove?",False
+975,1945,Pride of the Marines,False
+976,1946,The Best Years of Our Lives,True
+977,1946,Henry V,False
+978,1946,It's a Wonderful Life,False
+979,1946,The Green Years,False
+980,1946,Notorious,False
+981,1946,To Each His Own,True
+982,1946,Brief Encounter,False
+983,1946,Duel in the Sun,False
+984,1946,Sister Kenny,False
+985,1946,The Spiral Staircase,False
+986,1946,The Razor's Edge,True
+987,1946,Saratoga Trunk,False
+988,1946,Anna and the King of Siam,True
+989,1946,Kitty,False
+990,1946,Caesar and Cleopatra,False
+991,1946,The Yearling,True
+992,1946,The Killers,False
+993,1946,Atomic Power,False
+994,1946,Life at the Zoo,False
+995,1946,Paramount News Issue #37 (Twentieth Anniversary Issue!  1927.....1947),False
+996,1946,Seeds of Destiny,True
+997,1946,Traffic with the Devil,False
+998,1946,Humoresque,False
+999,1946,Blue Skies,False
+1000,1946,Centennial Summer,False
+1001,1946,The Jolson Story,True
+1002,1946,Night and Day,False
+1003,1946,The Dolly Sisters,False
+1004,1946,Canyon Passage,False
+1005,1946,The Harvey Girls,True
+1006,1946,The Cat Concerto,True
+1007,1946,Chopin's Musical Moments,False
+1008,1946,John Henry and the Inky Poo,False
+1009,1946,Squatter's Rights,False
+1010,1946,Walky Talky Hawky,False
+1011,1946,Dive-Hi Champs,False
+1012,1946,Facing Your Danger,True
+1013,1946,Golden Horses,False
+1014,1946,Smart as a Fox,False
+1015,1946,Sure Cures,False
+1016,1946,A Boy and His Dog,True
+1017,1946,College Queen,False
+1018,1946,Hiss and Yell,False
+1019,1946,The Luckiest Guy in the World,False
+1020,1946,Blithe Spirit,True
+1021,1946,A Stolen Life,False
+1022,1946,The Dark Mirror,False
+1023,1946,The Strange Love of Martha Ivers,False
+1024,1946,The Stranger,False
+1025,1946,Vacation from Marriage,True
+1026,1946,The Blue Dahlia,False
+1027,1946,Children of Paradise,False
+1028,1946,Road to Utopia,False
+1029,1946,The Seventh Veil,True
+1030,1946,Open City,False
+1031,1947,A Double Life,True
+1032,1947,Life with Father,False
+1033,1947,Mourning Becomes Electra,False
+1034,1947,Ride the Pink Horse,False
+1035,1947,Miracle on 34th Street,True
+1036,1947,Crossfire,False
+1037,1947,Kiss of Death,False
+1038,1947,Possessed,False
+1039,1947,Smash-Up--The Story of a Woman,False
+1040,1947,The Farmer's Daughter,True
+1041,1947,The Paradine Case,False
+1042,1947,Gentleman's Agreement,True
+1043,1947,The Egg and I,False
+1044,1947,The Foxes of Harrow,False
+1045,1947,Great Expectations,True
+1046,1947,Black Narcissus,True
+1047,1947,The Ghost and Mrs. Muir,False
+1048,1947,Design for Death,True
+1049,1947,Journey into Medicine,False
+1050,1947,The World Is Rich,False
+1051,1947,First Steps,True
+1052,1947,Passport to Nowhere,False
+1053,1947,School in the Mailbox,False
+1054,1947,Body and Soul,True
+1055,1947,Odd Man Out,False
+1056,1947,Captain from Castile,False
+1057,1947,Forever Amber,False
+1058,1947,Fiesta,False
+1059,1947,Mother Wore Tights,True
+1060,1947,My Wild Irish Rose,False
+1061,1947,Road to Rio,False
+1062,1947,"The Time, the Place and the Girl",False
+1063,1947,The Perils of Pauline,False
+1064,1947,Good News,False
+1065,1947,Song of the South,True
+1066,1947,Chip An' Dale,False
+1067,1947,Dr. Jekyll and Mr. Mouse,False
+1068,1947,Pluto's Blue Note,False
+1069,1947,Tubby the Tuba,False
+1070,1947,Tweetie Pie,True
+1071,1947,"Brooklyn, U.S.A.",False
+1072,1947,Good-bye Miss Turlock,True
+1073,1947,Moon Rockets,False
+1074,1947,Now You See It,False
+1075,1947,So You Want to Be in Pictures,False
+1076,1947,Champagne for Two,False
+1077,1947,Climbing the Matterhorn,True
+1078,1947,Fight of the Wild Stallions,False
+1079,1947,Give Us the Earth,False
+1080,1947,A Voice Is Born: The Story of Niklos Gafni,False
+1081,1947,The Bishop's Wife,True
+1082,1947,T-Men,False
+1083,1947,Green Dolphin Street,True
+1084,1947,Unconquered,False
+1085,1947,A Cage of Nightingales,False
+1086,1947,It Happened on Fifth Avenue,False
+1087,1947,The Bachelor and the Bobby-Soxer,True
+1088,1947,Monsieur Verdoux,False
+1089,1947,Shoe-Shine,False
+1090,1947,Boomerang!,False
+1091,1948,When My Baby Smiles at Me,False
+1092,1948,Hamlet,True
+1093,1948,Sitting Pretty,False
+1094,1948,I Remember Mama,False
+1095,1948,The Treasure of the Sierra Madre,True
+1096,1948,The Luck of the Irish,False
+1097,1948,"Sorry, Wrong Number",False
+1098,1948,Johnny Belinda,True
+1099,1948,Key Largo,True
+1100,1948,The Red Shoes,True
+1101,1948,A Foreign Affair,False
+1102,1948,The Naked City,True
+1103,1948,Green Grass of Wyoming,False
+1104,1948,Joan of Arc,True
+1105,1948,The Loves of Carmen,False
+1106,1948,The Three Musketeers,False
+1107,1948,B. F.'s Daughter,False
+1108,1948,The Emperor Waltz,False
+1109,1948,The Quiet One,False
+1110,1948,The Secret Land,True
+1111,1948,Heart to Heart,False
+1112,1948,Operation Vittles,False
+1113,1948,Toward Independence,True
+1114,1948,Red River,False
+1115,1948,Easter Parade,True
+1116,1948,The Pirate,False
+1117,1948,Romance on the High Seas,False
+1118,1948,The Paleface,True
+1119,1948,Casbah,False
+1120,1948,That Lady in Ermine,False
+1121,1948,Wet Blanket Policy,False
+1122,1948,The Little Orphan,True
+1123,1948,Mickey and the Seal,False
+1124,1948,Mouse Wreckers,False
+1125,1948,Robin Hoodlum,False
+1126,1948,Tea for Two Hundred,False
+1127,1948,Annie Was a Wonder,False
+1128,1948,Cinderella Horse,False
+1129,1948,So You Want to Be on the Radio,False
+1130,1948,Symphony of a City,True
+1131,1948,You Can't Win,False
+1132,1948,Calgary Stampede,False
+1133,1948,Going to Blazes,False
+1134,1948,Samba-Mania,False
+1135,1948,Seal Island,True
+1136,1948,Snow Capers,False
+1137,1948,Moonrise,False
+1138,1948,The Snake Pit,True
+1139,1948,Deep Waters,False
+1140,1948,Portrait of Jennie,True
+1141,1948,Louisiana Story,False
+1142,1948,The Search,True
+1143,1949,All the King's Men,True
+1144,1949,The Hasty Heart,False
+1145,1949,Sands of Iwo Jima,False
+1146,1949,Twelve O'Clock High,True
+1147,1949,Pinky,False
+1148,1949,The Heiress,True
+1149,1949,My Foolish Heart,False
+1150,1949,"Edward, My Son",False
+1151,1949,Come to the Stable,False
+1152,1949,Madame Bovary,False
+1153,1949,Little Women,True
+1154,1949,Saraband,False
+1155,1949,Battleground,True
+1156,1949,Prince of Foxes,False
+1157,1949,The Barkleys of Broadway,False
+1158,1949,Jolson Sings Again,False
+1159,1949,Sand,False
+1160,1949,She Wore a Yellow Ribbon,True
+1161,1949,The Adventures of Don Juan,True
+1162,1949,Mother Is a Freshman,False
+1163,1949,The Fallen Idol,False
+1164,1949,A Letter to Three Wives,True
+1165,1949,Daybreak in Udi,True
+1166,1949,Kenji Comes Home,False
+1167,1949,A Chance to Live,True
+1168,1949,1848,False
+1169,1949,The Rising Tide,False
+1170,1949,So Much for So Little,True
+1171,1949,Champion,True
+1172,1949,The Window,False
+1173,1949,Beyond the Forest,False
+1174,1949,Look for the Silver Lining,False
+1175,1949,On the Town,True
+1176,1949,Neptune's Daughter,True
+1177,1949,It's a Great Feeling,False
+1178,1949,So Dear to My Heart,False
+1179,1949,Canary Row,False
+1180,1949,For Scent-Imental Reasons,True
+1181,1949,Hatch Up Your Troubles,False
+1182,1949,The Magic Fluke,False
+1183,1949,Toy Tinkers,False
+1184,1949,Aquatic House-Party,True
+1185,1949,Roller Derby Girl,False
+1186,1949,So You Think You're Not Guilty,False
+1187,1949,Spills and Chills,False
+1188,1949,Water Trix,False
+1189,1949,The Boy and the Eagle,False
+1190,1949,Chase of Death,False
+1191,1949,The Grass Is Always Greener,False
+1192,1949,Snow Carnival,False
+1193,1949,Van Gogh,True
+1194,1949,"Once More, My Darling",False
+1195,1949,Mighty Joe Young,True
+1196,1949,Tulsa,False
+1197,1949,It Happens Every Spring,False
+1198,1949,The Stratton Story,True
+1199,1949,White Heat,False
+1200,1949,The Bicycle Thief,False
+1201,1949,Paisan,False
+1202,1949,Passport to Pimlico,False
+1203,1949,The Quiet One,False
+1204,1950,The Magnificent Yankee,False
+1205,1950,Cyrano de Bergerac,True
+1206,1950,Father of the Bride,False
+1207,1950,Broken Arrow,False
+1208,1950,Mister 880,False
+1209,1950,The Asphalt Jungle,False
+1210,1950,All about Eve,True
+1211,1950,Born Yesterday,True
+1212,1950,Caged,False
+1213,1950,Harvey,True
+1214,1950,The Red Danube,False
+1215,1950,Sunset Blvd.,True
+1216,1950,Samson and Delilah,True
+1217,1950,The Furies,False
+1218,1950,The Third Man,True
+1219,1950,The Flame and the Arrow,False
+1220,1950,King Solomon's Mines,True
+1221,1950,The Black Rose,False
+1222,1950,That Forsyte Woman,False
+1223,1950,The Titan: Story of Michelangelo,True
+1224,1950,With These Hands,False
+1225,1950,The Fight: Science against Cancer,False
+1226,1950,The Stairs,False
+1227,1950,Why Korea?,True
+1228,1950,No Sad Songs for Me,False
+1229,1950,Annie Get Your Gun,True
+1230,1950,Cinderella,False
+1231,1950,I'll Get By,False
+1232,1950,Three Little Words,False
+1233,1950,The West Point Story,False
+1234,1950,The Toast of New Orleans,False
+1235,1950,"Captain Carey, U.S.A.",True
+1236,1950,Singing Guns,False
+1237,1950,Wabash Avenue,False
+1238,1950,Gerald McBoing-Boing,True
+1239,1950,Jerry's Cousin,False
+1240,1950,Trouble Indemnity,False
+1241,1950,Blaze Busters,False
+1242,1950,Grandad of Races,True
+1243,1950,Wrong Way Butch,False
+1244,1950,Grandma Moses,False
+1245,1950,In Beaver Valley,True
+1246,1950,My Country 'Tis of Thee,False
+1247,1950,Louisa,False
+1248,1950,Our Very Own,False
+1249,1950,Trio,False
+1250,1950,Destination Moon,True
+1251,1950,Bitter Rice,False
+1252,1950,The Gunfighter,False
+1253,1950,Mystery Street,False
+1254,1950,Panic in the Streets,True
+1255,1950,When Willie Comes Marching Home,False
+1256,1950,Adam's Rib,False
+1257,1950,The Men,False
+1258,1950,No Way Out,False
+1259,1951,The African Queen,True
+1260,1951,Bright Victory,False
+1261,1951,Death of a Salesman,False
+1262,1951,Quo Vadis,False
+1263,1951,A Streetcar Named Desire,True
+1264,1951,Come Fill the Cup,False
+1265,1951,Detective Story,False
+1266,1951,The Blue Veil,False
+1267,1951,The Mating Season,False
+1268,1951,Fourteen Hours,False
+1269,1951,House on Telegraph Hill,False
+1270,1951,La Ronde,False
+1271,1951,Too Young to Kiss,False
+1272,1951,An American in Paris,True
+1273,1951,David and Bathsheba,False
+1274,1951,On the Riviera,False
+1275,1951,Tales of Hoffmann,False
+1276,1951,The Frogmen,False
+1277,1951,A Place in the Sun,True
+1278,1951,Strangers on a Train,False
+1279,1951,Show Boat,False
+1280,1951,Kind Lady,False
+1281,1951,The Model and the Marriage Broker,False
+1282,1951,The Mudlark,False
+1283,1951,I Was a Communist for the F.B.I.,False
+1284,1951,Kon-Tiki,True
+1285,1951,Benjy,True
+1286,1951,One Who Came Back,False
+1287,1951,The Seeing Eye,False
+1288,1951,Decision before Dawn,False
+1289,1951,The Well,False
+1290,1951,Alice in Wonderland,False
+1291,1951,Here Comes the Groom,True
+1292,1951,The Strip,False
+1293,1951,Golden Girl,False
+1294,1951,Royal Wedding,False
+1295,1951,"Rich, Young and Pretty",False
+1296,1951,"Lambert, the Sheepish Lion",False
+1297,1951,Rooty Toot Toot,False
+1298,1951,The Two Mouseketeers,True
+1299,1951,Ridin' the Rails,False
+1300,1951,The Story of Time,False
+1301,1951,World of Kids,True
+1302,1951,Balzac,False
+1303,1951,Danger under the Sea,False
+1304,1951,Nature's Half Acre,True
+1305,1951,The Great Caruso,True
+1306,1951,I Want You,False
+1307,1951,Two Tickets to Broadway,False
+1308,1951,When Worlds Collide,True
+1309,1951,Bullfighter and the Lady,False
+1310,1951,Seven Days to Noon,True
+1311,1951,Teresa,False
+1312,1951,The Big Carnival,False
+1313,1951,Go for Broke!,False
+1314,1952,High Noon,True
+1315,1952,My Cousin Rachel,False
+1316,1952,The Big Sky,False
+1317,1952,Sudden Fear,False
+1318,1952,Viva Zapata!,True
+1319,1952,"Come Back, Little Sheba",True
+1320,1952,The Star,False
+1321,1952,The Member of the Wedding,False
+1322,1952,The Bad and the Beautiful,True
+1323,1952,Singin' in the Rain,False
+1324,1952,Carrie,False
+1325,1952,Rashomon,False
+1326,1952,Hans Christian Andersen,False
+1327,1952,The Merry Widow,False
+1328,1952,Moulin Rouge,True
+1329,1952,The Snows of Kilimanjaro,False
+1330,1952,Navajo,False
+1331,1952,Ivanhoe,False
+1332,1952,Million Dollar Mermaid,False
+1333,1952,The Quiet Man,True
+1334,1952,Affair in Trinidad,False
+1335,1952,Five Fingers,False
+1336,1952,The Hoaxters,False
+1337,1952,The Sea around Us,True
+1338,1952,Devil Take Us,False
+1339,1952,The Garden Spider (Epeira Diadema),False
+1340,1952,Man Alive!,False
+1341,1952,Neighbours,True
+1342,1952,Flat Top,False
+1343,1952,Miracle of Fatima,False
+1344,1952,The Thief,False
+1345,1952,The Jazz Singer,False
+1346,1952,The Medium,False
+1347,1952,With a Song in My Heart,True
+1348,1952,Son of Paleface,False
+1349,1952,Because You're Mine,False
+1350,1952,Just for You,False
+1351,1952,The Greatest Show on Earth,True
+1352,1952,Johann Mouse,True
+1353,1952,Little Johnny Jet,False
+1354,1952,Madeline,False
+1355,1952,Pink and Blue Blues,False
+1356,1952,Romance of Transportation,False
+1357,1952,Athletes of the Saddle,False
+1358,1952,Desert Killer,False
+1359,1952,Light in the Window: The Art of Vermeer,True
+1360,1952,Royal Scotland,False
+1361,1952,Bridge of Time,False
+1362,1952,Thar She Blows!,False
+1363,1952,Water Birds,True
+1364,1952,Breaking the Sound Barrier,True
+1365,1952,The Promoter,False
+1366,1952,Plymouth Adventure,True
+1367,1952,My Son John,False
+1368,1952,The Narrow Margin,False
+1369,1952,The Pride of St. Louis,False
+1370,1952,The Sniper,False
+1371,1952,The Man in the White Suit,False
+1372,1952,The Atomic City,False
+1373,1952,The Lavender Hill Mob,True
+1374,1952,Pat and Mike,False
+1375,1953,Stalag 17,True
+1376,1953,From Here to Eternity,True
+1377,1953,Mogambo,False
+1378,1953,Roman Holiday,True
+1379,1953,The Moon Is Blue,False
+1380,1953,Hondo,False
+1381,1953,Torch Song,False
+1382,1953,Pickup on South Street,False
+1383,1953,Julius Caesar,True
+1384,1953,Martin Luther,False
+1385,1953,The President's Lady,False
+1386,1953,Knights of the Round Table,False
+1387,1953,The Robe,True
+1388,1953,The Story of Three Loves,False
+1389,1953,Young Bess,False
+1390,1953,The Four Poster,False
+1391,1953,All the Brothers Were Valiant,False
+1392,1953,Beneath the 12-Mile Reef,False
+1393,1953,Shane,True
+1394,1953,The Actress,False
+1395,1953,Dream Wife,False
+1396,1953,The Band Wagon,False
+1397,1953,How to Marry a Millionaire,False
+1398,1953,The Conquest of Everest,False
+1399,1953,The Living Desert,True
+1400,1953,A Queen Is Crowned,False
+1401,1953,The Alaskan Eskimo,True
+1402,1953,The Living City,False
+1403,1953,Operation Blue Jay,False
+1404,1953,They Planted a Stone,False
+1405,1953,The Word,False
+1406,1953,Crazylegs,False
+1407,1953,Above and Beyond,False
+1408,1953,Lili,True
+1409,1953,This Is Cinerama,False
+1410,1953,Call Me Madam,True
+1411,1953,"The 5,000 Fingers of Dr. T",False
+1412,1953,Kiss Me Kate,False
+1413,1953,Small Town Girl,False
+1414,1953,Miss Sadie Thompson,False
+1415,1953,Calamity Jane,True
+1416,1953,The Caddy,False
+1417,1953,Christopher Crumpet,False
+1418,1953,From A to Z-Z-Z-Z,False
+1419,1953,Rugged Bear,False
+1420,1953,The Tell Tale Heart,False
+1421,1953,"Toot, Whistle, Plunk and Boom",True
+1422,1953,Christ among the Primitives,False
+1423,1953,Herring Hunt,False
+1424,1953,Joy of Living,False
+1425,1953,The Merry Wives of Windsor Overture,True
+1426,1953,Wee Water Wonders,False
+1427,1953,Bear Country,True
+1428,1953,Ben and Me,False
+1429,1953,Return to Glennascaul,False
+1430,1953,Vesuvius Express,False
+1431,1953,Winter Paradise,False
+1432,1953,The Mississippi Gambler,False
+1433,1953,The War of the Worlds,True
+1434,1953,The Captain's Paradise,False
+1435,1953,Little Fugitive,False
+1436,1953,The Cruel Sea,False
+1437,1953,The Desert Rats,False
+1438,1953,The Naked Spur,False
+1439,1953,Take the High Ground,False
+1440,1953,Titanic,True
+1441,1954,The Caine Mutiny,False
+1442,1954,On the Waterfront,True
+1443,1954,A Star Is Born,False
+1444,1954,Adventures of Robinson Crusoe,False
+1445,1954,The Barefoot Contessa,True
+1446,1954,Carmen Jones,False
+1447,1954,The Country Girl,True
+1448,1954,Magnificent Obsession,False
+1449,1954,Executive Suite,False
+1450,1954,Le Plaisir,False
+1451,1954,Brigadoon,False
+1452,1954,Desiree,False
+1453,1954,Red Garters,False
+1454,1954,"20,000 Leagues under the Sea",True
+1455,1954,Rogue Cop,False
+1456,1954,The Egyptian,False
+1457,1954,Rear Window,False
+1458,1954,The Silver Chalice,False
+1459,1954,Three Coins in the Fountain,True
+1460,1954,The Earrings of Madame de...,False
+1461,1954,Indiscretion of an American Wife,False
+1462,1954,It Should Happen to You,False
+1463,1954,Sabrina,True
+1464,1954,Gate of Hell,True
+1465,1954,There's No Business Like Show Business,False
+1466,1954,The Stratford Adventure,False
+1467,1954,The Vanishing Prairie,True
+1468,1954,Jet Carrier,False
+1469,1954,Rembrandt: A Self-Portrait,False
+1470,1954,Thursday's Children,True
+1471,1954,Genevieve,False
+1472,1954,The High and the Mighty,True
+1473,1954,Seven Brides for Seven Brothers,True
+1474,1954,White Christmas,False
+1475,1954,Susan Slept Here,False
+1476,1954,Crazy Mixed Up Pup,False
+1477,1954,Pigs Is Pigs,False
+1478,1954,Sandy Claws,False
+1479,1954,"Touché, Pussy Cat",False
+1480,1954,When Magoo Flew,True
+1481,1954,The First Piano Quartette,False
+1482,1954,The Strauss Fantasy,False
+1483,1954,This Mechanical Age,True
+1484,1954,Beauty and the Bull,False
+1485,1954,Siam,False
+1486,1954,A Time Out of War,True
+1487,1954,The Glenn Miller Story,True
+1488,1954,Hell and High Water,False
+1489,1954,Them!,False
+1490,1954,"Bread, Love and Dreams",False
+1491,1954,Broken Lance,True
+1492,1954,Forbidden Games,False
+1493,1954,Night People,False
+1494,1954,Knock on Wood,False
+1495,1955,Marty,True
+1496,1955,The Man with the Golden Arm,False
+1497,1955,Bad Day at Black Rock,False
+1498,1955,Trial,False
+1499,1955,Mister Roberts,True
+1500,1955,Rebel without a Cause,False
+1501,1955,Summertime,False
+1502,1955,The Rose Tattoo,True
+1503,1955,Pete Kelly's Blues,False
+1504,1955,East of Eden,True
+1505,1955,Blackboard Jungle,False
+1506,1955,Daddy Long Legs,False
+1507,1955,Guys and Dolls,False
+1508,1955,Picnic,True
+1509,1955,Queen Bee,False
+1510,1955,A Man Called Peter,False
+1511,1955,To Catch a Thief,True
+1512,1955,I'll Cry Tomorrow,True
+1513,1955,The Pickwick Papers,False
+1514,1955,Ugetsu,False
+1515,1955,Love Is a Many-Splendored Thing,True
+1516,1955,The Virgin Queen,False
+1517,1955,Heartbreak Ridge,False
+1518,1955,Helen Keller in Her Story,True
+1519,1955,The Battle of Gettysburg,False
+1520,1955,Men against the Arctic,True
+1521,1955,Battle Cry,False
+1522,1955,It's Always Fair Weather,False
+1523,1955,Oklahoma!,True
+1524,1955,The Tender Trap,False
+1525,1955,Unchained,False
+1526,1955,Good Will to Men,False
+1527,1955,The Legend of Rock-a-bye Point,False
+1528,1955,No Hunting,False
+1529,1955,Speedy Gonzales,True
+1530,1955,Gadgets Galore,False
+1531,1955,Survival City,True
+1532,1955,3rd Ave. El,False
+1533,1955,Three Kisses,False
+1534,1955,The Face of Lincoln,True
+1535,1955,On the Twelfth Day...,False
+1536,1955,Switzerland,False
+1537,1955,24-Hour Alert,False
+1538,1955,Not as a Stranger,False
+1539,1955,The Bridges at Toko-Ri,True
+1540,1955,The Dam Busters,False
+1541,1955,The Rains of Ranchipur,False
+1542,1955,Love Me or Leave Me,True
+1543,1955,The Private War of Major Benson,False
+1544,1955,The Sheep Has Five Legs,False
+1545,1955,Strategic Air Command,False
+1546,1955,The Court-Martial of Billy Mitchell,False
+1547,1955,Interrupted Melody,True
+1548,1955,Mr. Hulot's Holiday,False
+1549,1955,The Seven Little Foys,False
+1550,1956,The King and I,True
+1551,1956,Richard III,False
+1552,1956,Bus Stop,False
+1553,1956,Friendly Persuasion,False
+1554,1956,Lust for Life,True
+1555,1956,The Bold and the Brave,False
+1556,1956,Baby Doll,False
+1557,1956,Anastasia,True
+1558,1956,The Rainmaker,False
+1559,1956,The Bad Seed,False
+1560,1956,Written on the Wind,True
+1561,1956,The Magnificent Seven,False
+1562,1956,The Proud and Profane,False
+1563,1956,Somebody Up There Likes Me,True
+1564,1956,Teenage Rebel,False
+1565,1956,The Harder They Fall,False
+1566,1956,Stagecoach to Fury,False
+1567,1956,Around the World in 80 Days,True
+1568,1956,The Eddy Duchin Story,False
+1569,1956,War and Peace,False
+1570,1956,The Power and the Prize,False
+1571,1956,The Solid Gold Cadillac,True
+1572,1956,Giant,True
+1573,1956,The Naked Eye,False
+1574,1956,The Silent World,True
+1575,1956,Where Mountains Float,False
+1576,1956,A City Decides,False
+1577,1956,The Dark Wave,False
+1578,1956,The House without a Name,False
+1579,1956,Man in Space,False
+1580,1956,The True Story of the Civil War,True
+1581,1956,The Captain of Kopenick,False
+1582,1956,Gervaise,False
+1583,1956,Harp of Burma,False
+1584,1956,La Strada,True
+1585,1956,Qivitoq,False
+1586,1956,Between Heaven and Hell,False
+1587,1956,The Best Things in Life Are Free,False
+1588,1956,High Society,False
+1589,1956,Meet Me in Las Vegas,False
+1590,1956,Julie,False
+1591,1956,The Man Who Knew Too Much,True
+1592,1956,Gerald McBoing-Boing on Planet Moo,False
+1593,1956,The Jaywalker,False
+1594,1956,Mister Magoo's Puddle Jumper,True
+1595,1956,Crashing the Water Barrier,True
+1596,1956,I Never Forget a Face,False
+1597,1956,Time Stood Still,False
+1598,1956,The Bespoke Overcoat,True
+1599,1956,Cow Dog,False
+1600,1956,Samoa,False
+1601,1956,Forbidden Planet,False
+1602,1956,The Ten Commandments,True
+1603,1956,The Brave One,True
+1604,1956,The Proud and the Beautiful,False
+1605,1956,Umberto D.,False
+1606,1956,The Ladykillers,False
+1607,1956,The Red Balloon,True
+1608,1957,A Hatful of Rain,False
+1609,1957,The Bridge on the River Kwai,True
+1610,1957,Witness for the Prosecution,False
+1611,1957,Wild Is the Wind,False
+1612,1957,Sayonara,True
+1613,1957,A Farewell to Arms,False
+1614,1957,Peyton Place,False
+1615,1957,"Heaven Knows, Mr. Allison",False
+1616,1957,Raintree County,False
+1617,1957,The Three Faces of Eve,True
+1618,1957,The Bachelor Party,False
+1619,1957,Funny Face,False
+1620,1957,Pal Joey,False
+1621,1957,An Affair to Remember,False
+1622,1957,Les Girls,True
+1623,1957,12 Angry Men,False
+1624,1957,Albert Schweitzer,True
+1625,1957,On the Bowery,False
+1626,1957,Torero!,False
+1627,1957,Gunfight at the O.K. Corral,False
+1628,1957,The Devil Came at Night,False
+1629,1957,Gates of Paris,False
+1630,1957,Mother India,False
+1631,1957,The Nights of Cabiria,True
+1632,1957,Nine Lives,False
+1633,1957,Boy on a Dolphin,False
+1634,1957,Perri,False
+1635,1957,The Joker Is Wild,True
+1636,1957,April Love,False
+1637,1957,Tammy and the Bachelor,False
+1638,1957,Birds Anonymous,True
+1639,1957,One Droopy Knight,False
+1640,1957,Tabasco Road,False
+1641,1957,Trees and Jamaica Daddy,False
+1642,1957,The Truth about Mother Goose,False
+1643,1957,A Chairy Tale,False
+1644,1957,City of Gold,False
+1645,1957,Foothold on Antarctica,False
+1646,1957,Portugal,False
+1647,1957,The Wetback Hound,True
+1648,1957,The Enemy Below,True
+1649,1957,The Spirit of St. Louis,False
+1650,1957,Designing Woman,True
+1651,1957,Man of a Thousand Faces,False
+1652,1957,The Tin Star,False
+1653,1957,Vitelloni,False
+1654,1958,Cat on a Hot Tin Roof,False
+1655,1958,Separate Tables,True
+1656,1958,The Brothers Karamazov,False
+1657,1958,The Big Country,True
+1658,1958,Some Came Running,False
+1659,1958,Teacher's Pet,False
+1660,1958,I Want to Live!,True
+1661,1958,Auntie Mame,False
+1662,1958,Lonelyhearts,False
+1663,1958,"Bell, Book and Candle",False
+1664,1958,A Certain Smile,False
+1665,1958,Gigi,True
+1666,1958,Vertigo,False
+1667,1958,The Defiant Ones,True
+1668,1958,Desire under the Elms,False
+1669,1958,The Young Lions,False
+1670,1958,The Buccaneer,False
+1671,1958,The Inn of the Sixth Happiness,False
+1672,1958,Antarctic Crossing,False
+1673,1958,The Hidden World,False
+1674,1958,Psychiatric Nursing,False
+1675,1958,White Wilderness,True
+1676,1958,Ama Girls,True
+1677,1958,Employees Only,False
+1678,1958,Journey into Spring,False
+1679,1958,The Living Stone,False
+1680,1958,Overture,False
+1681,1958,Cowboy,False
+1682,1958,Arms and the Man,False
+1683,1958,La Venganza,False
+1684,1958,My Uncle,True
+1685,1958,The Road a Year Long,False
+1686,1958,The Usual Unidentified Thieves,False
+1687,1958,The Old Man and the Sea,True
+1688,1958,The Bolshoi Ballet,False
+1689,1958,Damn Yankees,False
+1690,1958,Mardi Gras,False
+1691,1958,Houseboat,False
+1692,1958,Marjorie Morningstar,False
+1693,1958,Knighty Knight Bugs,True
+1694,1958,Paul Bunyan,False
+1695,1958,Sidney's Family Tree,False
+1696,1958,Grand Canyon,True
+1697,1958,The Kiss,False
+1698,1958,Snows of Aorangi,False
+1699,1958,T Is for Tumbleweed,False
+1700,1958,South Pacific,True
+1701,1958,A Time to Love and a Time to Die,False
+1702,1958,tom thumb,True
+1703,1958,Torpedo Run,False
+1704,1958,The Horse's Mouth,False
+1705,1958,The Goddess,False
+1706,1958,The Sheepman,False
+1707,1959,Ben-Hur,True
+1708,1959,The Last Angry Man,False
+1709,1959,Anatomy of a Murder,False
+1710,1959,The Young Philadelphians,False
+1711,1959,The Nun's Story,False
+1712,1959,"Suddenly, Last Summer",False
+1713,1959,Room at the Top,True
+1714,1959,Imitation of Life,False
+1715,1959,The Diary of Anne Frank,True
+1716,1959,Career,False
+1717,1959,The Big Fisherman,False
+1718,1959,Journey to the Center of the Earth,False
+1719,1959,North by Northwest,False
+1720,1959,The Five Pennies,False
+1721,1959,The Gazebo,False
+1722,1959,Some Like It Hot,True
+1723,1959,The Best of Everything,False
+1724,1959,The Race for Space,False
+1725,1959,Serengeti Shall Not Die,True
+1726,1959,Donald in Mathmagic Land,False
+1727,1959,From Generation to Generation,False
+1728,1959,Glass,True
+1729,1959,On the Beach,False
+1730,1959,Black Orpheus,True
+1731,1959,The Bridge,False
+1732,1959,The Great War,False
+1733,1959,Paw,False
+1734,1959,The Village on the River,False
+1735,1959,Li'l Abner,False
+1736,1959,Porgy and Bess,True
+1737,1959,Say One for Me,False
+1738,1959,Sleeping Beauty,False
+1739,1959,The Hanging Tree,False
+1740,1959,A Hole in the Head,True
+1741,1959,The Young Land,False
+1742,1959,Mexicali Shmoes,False
+1743,1959,Moonbird,True
+1744,1959,Noah's Ark,False
+1745,1959,The Violinist,False
+1746,1959,Between the Tides,False
+1747,1959,The Golden Fish,True
+1748,1959,Mysteries of the Deep,False
+1749,1959,"The Running, Jumping and Standing-Still Film",False
+1750,1959,Skyscraper,False
+1751,1959,Libel!,False
+1752,1959,The 400 Blows,False
+1753,1959,Operation Petticoat,False
+1754,1959,Pillow Talk,True
+1755,1959,Wild Strawberries,False
+1756,1960,Elmer Gantry,True
+1757,1960,The Entertainer,False
+1758,1960,Inherit the Wind,False
+1759,1960,"Murder, Inc.",False
+1760,1960,Spartacus,True
+1761,1960,Sunrise at Campobello,False
+1762,1960,The Sundowners,False
+1763,1960,Butterfield 8,True
+1764,1960,The Dark at the Top of the Stairs,False
+1765,1960,Psycho,False
+1766,1960,The Apartment,True
+1767,1960,Visit to a Small Planet,False
+1768,1960,Cimarron,False
+1769,1960,It Started in Naples,False
+1770,1960,Pepe,False
+1771,1960,Sons and Lovers,True
+1772,1960,The Facts of Life,True
+1773,1960,The Rise and Fall of Legs Diamond,False
+1774,1960,Seven Thieves,False
+1775,1960,Can-Can,False
+1776,1960,Midnight Lace,False
+1777,1960,The Horse with the Flying Tail,True
+1778,1960,Rebel in Paradise,False
+1779,1960,Beyond Silence,False
+1780,1960,A City Called Copenhagen,False
+1781,1960,George Grosz' Interregnum,False
+1782,1960,Giuseppina,True
+1783,1960,Universe,False
+1784,1960,Kapo,False
+1785,1960,La Vérité,False
+1786,1960,Macario,False
+1787,1960,The Ninth Circle,False
+1788,1960,The Virgin Spring,True
+1789,1960,Exodus,True
+1790,1960,The Magnificent Seven,False
+1791,1960,Bells Are Ringing,False
+1792,1960,Let's Make Love,False
+1793,1960,Song without End (The Story of Franz Liszt),True
+1794,1960,Never on Sunday,True
+1795,1960,High Time,False
+1796,1960,Goliath II,False
+1797,1960,High Note,False
+1798,1960,Mouse and Garden,False
+1799,1960,Munro,True
+1800,1960,A Place in the Sun,False
+1801,1960,The Creation of Woman,False
+1802,1960,Day of the Painter,True
+1803,1960,Islands of the Sea,False
+1804,1960,A Sport Is Born,False
+1805,1960,The Alamo,True
+1806,1960,The Last Voyage,False
+1807,1960,The Time Machine,True
+1808,1960,Tunes of Glory,False
+1809,1960,The Angry Silence,False
+1810,1960,"Hiroshima, Mon Amour",False
+1811,1961,Fanny,False
+1812,1961,Judgment at Nuremberg,True
+1813,1961,The Mark,False
+1814,1961,West Side Story,True
+1815,1961,Pocketful of Miracles,False
+1816,1961,Two Women,True
+1817,1961,Summer and Smoke,False
+1818,1961,The Children's Hour,False
+1819,1961,The Roman Spring of Mrs. Stone,False
+1820,1961,The Absent Minded Professor,False
+1821,1961,The Hustler,True
+1822,1961,El Cid,False
+1823,1961,Flower Drum Song,False
+1824,1961,"One, Two, Three",False
+1825,1961,A Majority of One,False
+1826,1961,One-Eyed Jacks,False
+1827,1961,Claudelle Inglish,False
+1828,1961,La Dolce Vita,True
+1829,1961,Yojimbo,False
+1830,1961,Babes in Toyland,False
+1831,1961,Back Street,False
+1832,1961,La Grande Olimpiade (Olympic Games 1960),False
+1833,1961,Le Ciel et la Boue (Sky Above and Mud Beneath),True
+1834,1961,Breaking the Language Barrier,False
+1835,1961,Cradle of Genius,False
+1836,1961,Kahl,False
+1837,1961,L'Uomo in Grigio (The Man in Gray),False
+1838,1961,Project Hope,True
+1839,1961,The Parent Trap,False
+1840,1961,Harry and the Butler,False
+1841,1961,Immortal Love,False
+1842,1961,The Important Man,False
+1843,1961,Placido,False
+1844,1961,Through a Glass Darkly,True
+1845,1961,Breakfast at Tiffany's,True
+1846,1961,Khovanshchina,False
+1847,1961,Paris Blues,False
+1848,1961,Bachelor in Paradise,False
+1849,1961,Town without Pity,False
+1850,1961,Aquamania,False
+1851,1961,Beep Prepared,False
+1852,1961,Ersatz (The Substitute),True
+1853,1961,Nelly's Folly,False
+1854,1961,The Pied Piper of Guadalupe,False
+1855,1961,Ballon Vole (Play Ball!),False
+1856,1961,The Face of Jesus,False
+1857,1961,Rooftops of New York,False
+1858,1961,Seawards the Great Ships,True
+1859,1961,"Very Nice, Very Nice",False
+1860,1961,The Guns of Navarone,True
+1861,1961,Ballad of a Soldier,False
+1862,1961,General Della Rovere,False
+1863,1961,Lover Come Back,False
+1864,1961,Splendor in the Grass,True
+1865,1962,Birdman of Alcatraz,False
+1866,1962,To Kill a Mockingbird,True
+1867,1962,Sweet Bird of Youth,True
+1868,1962,Billy Budd,False
+1869,1962,The Miracle Worker,True
+1870,1962,Long Day's Journey into Night,False
+1871,1962,The Manchurian Candidate,False
+1872,1962,Period of Adjustment,False
+1873,1962,The Pigeon That Took Rome,False
+1874,1962,Lawrence of Arabia,True
+1875,1962,Mutiny on the Bounty,False
+1876,1962,That Touch of Mink,False
+1877,1962,The Longest Day,True
+1878,1962,Two for the Seesaw,False
+1879,1962,Gypsy,False
+1880,1962,Hatari!,False
+1881,1962,The Man Who Shot Liberty Valance,False
+1882,1962,Phaedra,False
+1883,1962,What Ever Happened to Baby Jane?,True
+1884,1962,Bon Voyage!,False
+1885,1962,My Geisha,False
+1886,1962,The Wonderful World of the Brothers Grimm,True
+1887,1962,David and Lisa,False
+1888,1962,Alvorada (Brazil's Changing Face),False
+1889,1962,Black Fox,True
+1890,1962,Dylan Thomas,True
+1891,1962,The John Glenn Story,False
+1892,1962,The Road to the Wall,False
+1893,1962,Electra,False
+1894,1962,The Four Days of Naples,False
+1895,1962,Keeper of Promises (The Given Word),False
+1896,1962,Sundays and Cybele,True
+1897,1962,Tlayucan,False
+1898,1962,Freud,False
+1899,1962,Taras Bulba,False
+1900,1962,Billy Rose's Jumbo,False
+1901,1962,Gigot,False
+1902,1962,Meredith Willson's The Music Man,True
+1903,1962,Days of Wine and Roses,True
+1904,1962,Tender Is the Night,False
+1905,1962,Walk on the Wild Side,False
+1906,1962,The Hole,True
+1907,1962,Icarus Montgolfier Wright,False
+1908,1962,Now Hear This,False
+1909,1962,Self Defense--For Cowards,False
+1910,1962,Symposium on Popular Songs,False
+1911,1962,Big City Blues,False
+1912,1962,The Cadillac,False
+1913,1962,The Cliff Dwellers (formerly titled 'One Plus One'),False
+1914,1962,Heureux Anniversaire (Happy Anniversary),True
+1915,1962,Pan,False
+1916,1962,Lolita,False
+1917,1962,Divorce--Italian Style,True
+1918,1962,Last Year at Marienbad,False
+1919,1962,Through a Glass Darkly,False
+1920,1963,This Sporting Life,False
+1921,1963,Lilies of the Field,True
+1922,1963,Twilight of Honor,False
+1923,1963,"Captain Newman, M.D.",False
+1924,1963,Hud,True
+1925,1963,The Cardinal,False
+1926,1963,The L-Shaped Room,False
+1927,1963,Love with the Proper Stranger,False
+1928,1963,The V.I.P.s,True
+1929,1963,America America,True
+1930,1963,Cleopatra,True
+1931,1963,Come Blow Your Horn,False
+1932,1963,The Balcony,False
+1933,1963,The Caretakers,False
+1934,1963,Federico Fellini's 8-1/2,True
+1935,1963,The Stripper,False
+1936,1963,Toys in the Attic,False
+1937,1963,Wives and Lovers,False
+1938,1963,The Leopard,False
+1939,1963,A New Kind of Love,False
+1940,1963,Tom Jones,True
+1941,1963,Le Maillon et la Chaine (The Link and the Chain),False
+1942,1963,Robert Frost: A Lover's Quarrel with the World,True
+1943,1963,Terminus,False
+1944,1963,The Yanks Are Coming,False
+1945,1963,Chagall,True
+1946,1963,The Five Cities of June,False
+1947,1963,The Spirit of America,False
+1948,1963,Thirty Million Letters,False
+1949,1963,To Live Again,False
+1950,1963,The Great Escape,False
+1951,1963,How the West Was Won,True
+1952,1963,Knife in the Water,False
+1953,1963,Los Tarantos,False
+1954,1963,The Red Lanterns,False
+1955,1963,Twin Sisters of Kyoto,False
+1956,1963,55 Days at Peking,False
+1957,1963,Bye Bye Birdie,False
+1958,1963,Irma La Douce,True
+1959,1963,Sundays and Cybele,False
+1960,1963,The Sword in the Stone,False
+1961,1963,Papa's Delicate Condition,True
+1962,1963,Charade,False
+1963,1963,Mondo Cane,False
+1964,1963,Automania 2000,False
+1965,1963,The Critic,True
+1966,1963,The Game (Igra),False
+1967,1963,My Financial Career,False
+1968,1963,Pianissimo,False
+1969,1963,The Concert,False
+1970,1963,Home-Made Car,False
+1971,1963,An Occurrence at Owl Creek Bridge,True
+1972,1963,Six-Sided Triangle,False
+1973,1963,That's Me,False
+1974,1963,A Gathering of Eagles,False
+1975,1963,"It's a Mad, Mad, Mad, Mad World",True
+1976,1963,The Birds,False
+1977,1963,The Four Days of Naples,False
+1978,1964,My Fair Lady,True
+1979,1964,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False
+1980,1964,Seven Days in May,False
+1981,1964,The Best Man,False
+1982,1964,Topkapi,True
+1983,1964,Mary Poppins,True
+1984,1964,The Pumpkin Eater,False
+1985,1964,Marriage Italian Style,False
+1986,1964,The Unsinkable Molly Brown,False
+1987,1964,Seance on a Wet Afternoon,False
+1988,1964,The Chalk Garden,False
+1989,1964,Zorba the Greek,True
+1990,1964,"Hush...Hush, Sweet Charlotte",False
+1991,1964,The Americanization of Emily,False
+1992,1964,What a Way to Go!,False
+1993,1964,Fate Is the Hunter,False
+1994,1964,Cheyenne Autumn,False
+1995,1964,A House Is Not a Home,False
+1996,1964,Kisses for My President,False
+1997,1964,The Night of the Iguana,True
+1998,1964,The Visit,False
+1999,1964,The Finest Hours,False
+2000,1964,Four Days in November,False
+2001,1964,The Human Dutch,False
+2002,1964,Jacques-Yves Cousteau's World without Sun,True
+2003,1964,"Over There, 1914-18",False
+2004,1964,Breaking the Habit,False
+2005,1964,Children Without,False
+2006,1964,Kenojuak,False
+2007,1964,Nine from Little Rock,True
+2008,1964,140 Days under the World,False
+2009,1964,Raven's End,False
+2010,1964,Sallah,False
+2011,1964,The Umbrellas of Cherbourg,False
+2012,1964,Woman in the Dunes,False
+2013,1964,"Yesterday, Today and Tomorrow",True
+2014,1964,The Fall of the Roman Empire,False
+2015,1964,The Pink Panther,False
+2016,1964,A Hard Day's Night,False
+2017,1964,Robin and the 7 Hoods,False
+2018,1964,Dear Heart,False
+2019,1964,Where Love Has Gone,False
+2020,1964,Christmas Cracker,False
+2021,1964,How to Avoid Friendship,False
+2022,1964,Nudnik #2,False
+2023,1964,The Pink Phink,True
+2024,1964,Casals Conducts: 1964,True
+2025,1964,Help! My Snowman's Burning Down,False
+2026,1964,The Legend of Jimmy Blue Eyes,False
+2027,1964,Goldfinger,True
+2028,1964,The Lively Set,False
+2029,1964,7 Faces of Dr. Lao,False
+2030,1964,Becket,True
+2031,1964,Father Goose,True
+2032,1964,"One Potato, Two Potato",False
+2033,1964,The Organizer,False
+2034,1964,That Man from Rio,False
+2035,1965,The Spy Who Came In from the Cold,False
+2036,1965,Cat Ballou,True
+2037,1965,Othello,False
+2038,1965,The Pawnbroker,False
+2039,1965,A Thousand Clowns,True
+2040,1965,The Flight of the Phoenix,False
+2041,1965,Darling,True
+2042,1965,The Collector,False
+2043,1965,Inside Daisy Clover,False
+2044,1965,A Patch of Blue,True
+2045,1965,King Rat,False
+2046,1965,Ship of Fools,True
+2047,1965,The Slender Thread,False
+2048,1965,The Agony and the Ecstasy,False
+2049,1965,Doctor Zhivago,True
+2050,1965,The Greatest Story Ever Told,False
+2051,1965,In Harm's Way,False
+2052,1965,Morituri,False
+2053,1965,A Rage to Live,False
+2054,1965,The Sound of Music,True
+2055,1965,Woman in the Dunes,False
+2056,1965,The Battle of the Bulge...The Brave Rifles,False
+2057,1965,The Eleanor Roosevelt Story,True
+2058,1965,The Forth Road Bridge,False
+2059,1965,Let My People Go,False
+2060,1965,To Die in Madrid,False
+2061,1965,Mural on Our Street,False
+2062,1965,Ouverture,False
+2063,1965,Point of View,False
+2064,1965,To Be Alive!,True
+2065,1965,Yeats Country,False
+2066,1965,Blood on the Land,False
+2067,1965,Dear John,False
+2068,1965,Kwaidan,False
+2069,1965,Marriage Italian Style,False
+2070,1965,The Shop on Main Street,True
+2071,1965,The Umbrellas of Cherbourg,False
+2072,1965,The Pleasure Seekers,False
+2073,1965,The Sandpiper,True
+2074,1965,What's New Pussycat?,False
+2075,1965,Clay or The Origin of Species,False
+2076,1965,The Dot and the Line,True
+2077,1965,The Thieving Magpie (La Gazza Ladra),False
+2078,1965,The Chicken (Le Poulet),True
+2079,1965,Fortress of Peace,False
+2080,1965,Skaterdater,False
+2081,1965,Snow,False
+2082,1965,Time Piece,False
+2083,1965,Shenandoah,False
+2084,1965,The Great Race,True
+2085,1965,Von Ryan's Express,False
+2086,1965,Thunderball,True
+2087,1965,Casanova '70,False
+2088,1965,Those Magnificent Men in Their Flying Machines,False
+2089,1965,The Train,False
+2090,1966,The Russians Are Coming The Russians Are Coming,False
+2091,1966,Alfie,False
+2092,1966,The Sand Pebbles,False
+2093,1966,A Man for All Seasons,True
+2094,1966,Georgy Girl,False
+2095,1966,The Fortune Cookie,True
+2096,1966,The Shop on Main Street,False
+2097,1966,Morgan!,False
+2098,1966,Who's Afraid of Virginia Woolf?,True
+2099,1966,Hawaii,False
+2100,1966,You're a Big Boy Now,False
+2101,1966,The Gospel According to St. Matthew,False
+2102,1966,Is Paris Burning?,False
+2103,1966,Mister Buddwing,False
+2104,1966,Fantastic Voyage,True
+2105,1966,Gambit,False
+2106,1966,Juliet of the Spirits,False
+2107,1966,The Oscar,False
+2108,1966,Seconds,False
+2109,1966,The Professionals,False
+2110,1966,Mandragola,False
+2111,1966,Blow-Up,False
+2112,1966,The Face of Genius,False
+2113,1966,Helicopter Canada,False
+2114,1966,Le Volcan Interdit (The Forbidden Volcano),False
+2115,1966,The Really Big Family,False
+2116,1966,The War Game,True
+2117,1966,Adolescence,False
+2118,1966,Cowboy,False
+2119,1966,The Odds Against,False
+2120,1966,Saint Matthew Passion,False
+2121,1966,A Year toward Tomorrow,True
+2122,1966,Grand Prix,True
+2123,1966,The Battle of Algiers,False
+2124,1966,Loves of a Blonde,False
+2125,1966,A Man and a Woman,True
+2126,1966,Pharaoh,False
+2127,1966,Three,False
+2128,1966,The Bible,False
+2129,1966,Born Free,True
+2130,1966,A Funny Thing Happened on the Way to the Forum,True
+2131,1966,Return of the Seven,False
+2132,1966,The Singing Nun,False
+2133,1966,Stop the World--I Want to Get Off,False
+2134,1966,An American Dream,False
+2135,1966,The Drag,False
+2136,1966,Herb Alpert and the Tijuana Brass Double Feature,True
+2137,1966,The Pink Blueprint,False
+2138,1966,Turkey the Bridge,False
+2139,1966,Wild Wings,True
+2140,1966,The Winning Strain,False
+2141,1966,Khartoum,False
+2142,1966,The Naked Prey,False
+2143,1967,In the Heat of the Night,True
+2144,1967,Cool Hand Luke,True
+2145,1967,The Whisperers,False
+2146,1967,Wait until Dark,False
+2147,1967,Guess Who's Coming to Dinner,True
+2148,1967,Barefoot in the Park,False
+2149,1967,Bonnie and Clyde,True
+2150,1967,Camelot,True
+2151,1967,The Taming of the Shrew,False
+2152,1967,In Cold Blood,False
+2153,1967,The Happiest Millionaire,False
+2154,1967,The Graduate,True
+2155,1967,The Anderson Platoon,True
+2156,1967,Festival,False
+2157,1967,Harvest,False
+2158,1967,A King's Story,False
+2159,1967,A Time for Burning,False
+2160,1967,Monument to the Dream,False
+2161,1967,The Redwoods,True
+2162,1967,See You at the Pillar,False
+2163,1967,While I Run This Race,False
+2164,1967,Beach Red,False
+2165,1967,Closely Watched Trains,True
+2166,1967,El Amor Brujo,False
+2167,1967,I Even Met Happy Gypsies,False
+2168,1967,Live for Life,False
+2169,1967,Portrait of Chieko,False
+2170,1967,Far from the Madding Crowd,False
+2171,1967,Thoroughly Modern Millie,True
+2172,1967,Valley of the Dolls,False
+2173,1967,The Jungle Book,False
+2174,1967,Banning,False
+2175,1967,Casino Royale,False
+2176,1967,Doctor Dolittle,True
+2177,1967,The Box,True
+2178,1967,Hypothese Beta,False
+2179,1967,What on Earth!,False
+2180,1967,Paddle to the Sea,False
+2181,1967,A Place to Stand,True
+2182,1967,Sky over Holland,False
+2183,1967,"Stop, Look and Listen",False
+2184,1967,The Dirty Dozen,True
+2185,1967,Tobruk,False
+2186,1967,Ulysses,False
+2187,1967,Divorce American Style,False
+2188,1967,La Guerre Est Finie,False
+2189,1967,Two for the Road,False
+2190,1968,The Heart Is a Lonely Hunter,False
+2191,1968,The Fixer,False
+2192,1968,Charly,True
+2193,1968,The Subject Was Roses,True
+2194,1968,Faces,False
+2195,1968,Star!,False
+2196,1968,The Lion in Winter,True
+2197,1968,Isadora,False
+2198,1968,Funny Girl,True
+2199,1968,"Rachel, Rachel",False
+2200,1968,Rosemary's Baby,True
+2201,1968,Oliver!,True
+2202,1968,The Shoes of the Fisherman,False
+2203,1968,Ice Station Zebra,False
+2204,1968,Romeo and Juliet,True
+2205,1968,Planet of the Apes,False
+2206,1968,The Battle of Algiers,False
+2207,1968,A Few Notes on Our Food Problem,False
+2208,1968,Journey into Self,True
+2209,1968,The Legendary Champions,False
+2210,1968,Other Voices,False
+2211,1968,Young Americans,False
+2212,1968,The House That Ananda Built,False
+2213,1968,The Revolving Door,False
+2214,1968,A Space to Grow,False
+2215,1968,A Way Out of the Wilderness,False
+2216,1968,Why Man Creates,True
+2217,1968,Bullitt,True
+2218,1968,The Odd Couple,False
+2219,1968,Wild in the Streets,False
+2220,1968,The Boys of Paul Street,False
+2221,1968,The Firemen's Ball,False
+2222,1968,The Girl with the Pistol,False
+2223,1968,Stolen Kisses,False
+2224,1968,War and Peace,True
+2225,1968,The Fox,False
+2226,1968,Finian's Rainbow,False
+2227,1968,The Young Girls of Rochefort,False
+2228,1968,Chitty Chitty Bang Bang,False
+2229,1968,For Love of Ivy,False
+2230,1968,The Thomas Crown Affair,True
+2231,1968,The House That Jack Built,False
+2232,1968,The Magic Pear Tree,False
+2233,1968,Windy Day,False
+2234,1968,Winnie the Pooh and the Blustery Day,True
+2235,1968,The Dove,False
+2236,1968,Duo,False
+2237,1968,Prelude,False
+2238,1968,Robert Kennedy Remembered,True
+2239,1968,2001: A Space Odyssey,True
+2240,1968,Hot Millions,False
+2241,1968,The Producers,True
+2242,1969,"Goodbye, Mr. Chips",False
+2243,1969,True Grit,True
+2244,1969,The Reivers,False
+2245,1969,Bob & Carol & Ted & Alice,False
+2246,1969,Easy Rider,False
+2247,1969,"They Shoot Horses, Don't They?",True
+2248,1969,The Sterile Cuckoo,False
+2249,1969,The Happy Ending,False
+2250,1969,The Prime of Miss Jean Brodie,True
+2251,1969,Last Summer,False
+2252,1969,Cactus Flower,True
+2253,1969,"Gaily, Gaily",False
+2254,1969,"Hello, Dolly!",True
+2255,1969,Sweet Charity,False
+2256,1969,Butch Cassidy and the Sundance Kid,True
+2257,1969,Anne of the Thousand Days,True
+2258,1969,Alice's Restaurant,False
+2259,1969,Midnight Cowboy,True
+2260,1969,Arthur Rubinstein - The Love of Life,True
+2261,1969,Before the Mountain Was Moved,False
+2262,1969,In the Year of the Pig,False
+2263,1969,The Olympics in Mexico,False
+2264,1969,The Wolf Men,False
+2265,1969,Czechoslovakia 1968,True
+2266,1969,An Impression of John Steinbeck: Writer,False
+2267,1969,Jenny Is a Good Thing,False
+2268,1969,Leo Beuerman,False
+2269,1969,The Secret of Santa Vittoria,False
+2270,1969,Z,True
+2271,1969,Ådalen '31,False
+2272,1969,The Battle of Neretva,False
+2273,1969,The Brothers Karamazov,False
+2274,1969,My Night at Maud's,False
+2275,1969,The Wild Bunch,False
+2276,1969,Paint Your Wagon,False
+2277,1969,It's Tough to Be a Bird,True
+2278,1969,Of Men and Demons,False
+2279,1969,Walking,False
+2280,1969,Blake,False
+2281,1969,The Magic Machines,True
+2282,1969,People Soup,False
+2283,1969,"Krakatoa, East of Java",False
+2284,1969,Marooned,True
+2285,1969,"Goodbye, Columbus",False
+2286,1969,The Damned,False
+2287,1970,I Never Sang for My Father,False
+2288,1970,The Great White Hope,False
+2289,1970,Five Easy Pieces,False
+2290,1970,Patton,True
+2291,1970,Little Big Man,False
+2292,1970,Ryan's Daughter,True
+2293,1970,Women in Love,True
+2294,1970,Diary of a Mad Housewife,False
+2295,1970,The Landlord,False
+2296,1970,Airport,True
+2297,1970,The Molly Maguires,False
+2298,1970,Scrooge,False
+2299,1970,Cromwell,True
+2300,1970,Darling Lili,False
+2301,1970,The Hawaiians,False
+2302,1970,Fellini Satyricon,False
+2303,1970,Chariots of the Gods,False
+2304,1970,Jack Johnson,False
+2305,1970,King: A Filmed Record...Montgomery to Memphis,False
+2306,1970,Say Goodbye,False
+2307,1970,Woodstock,True
+2308,1970,The Gifts,False
+2309,1970,Interviews with My Lai Veterans,True
+2310,1970,A Long Way from Nowhere,False
+2311,1970,Oisin,False
+2312,1970,Time Is Running Out,False
+2313,1970,First Love,False
+2314,1970,Hoa-Binh,False
+2315,1970,Investigation of a Citizen above Suspicion,True
+2316,1970,Paix Sur Les Champs,False
+2317,1970,Tristana,False
+2318,1970,Love Story,True
+2319,1970,Sunflower,False
+2320,1970,The Baby Maker,False
+2321,1970,A Boy Named Charlie Brown,False
+2322,1970,Let It Be,True
+2323,1970,Lovers and Other Strangers,True
+2324,1970,Pieces of Dreams,False
+2325,1970,Madron,False
+2326,1970,The Further Adventures of Uncle Sam: Part Two,False
+2327,1970,Is It Always Right to Be Right?,True
+2328,1970,The Shepherd,False
+2329,1970,The Resurrection of Broncho Billy,True
+2330,1970,Shut Up...I'm Crying,False
+2331,1970,Sticky My Fingers...Fleet My Feet,False
+2332,1970,Tora! Tora! Tora!,True
+2333,1970,M*A*S*H,True
+2334,1970,Joe,False
+2335,1970,My Night at Maud's,False
+2336,1971,Sunday Bloody Sunday,False
+2337,1971,The French Connection,True
+2338,1971,Kotch,False
+2339,1971,Sometimes a Great Notion,False
+2340,1971,The Last Picture Show,True
+2341,1971,McCabe & Mrs. Miller,False
+2342,1971,Klute,True
+2343,1971,"Mary, Queen of Scots",False
+2344,1971,Carnal Knowledge,False
+2345,1971,Who Is Harry Kellerman and Why Is He Saying Those Terrible Things about Me?,False
+2346,1971,The Go-Between,False
+2347,1971,The Andromeda Strain,False
+2348,1971,Nicholas and Alexandra,True
+2349,1971,Fiddler on the Roof,True
+2350,1971,Death in Venice,False
+2351,1971,What's the Matter with Helen?,False
+2352,1971,A Clockwork Orange,False
+2353,1971,Alaska Wilderness Lake,False
+2354,1971,The Hellstrom Chronicle,True
+2355,1971,On Any Sunday,False
+2356,1971,The RA Expeditions,False
+2357,1971,The Sorrow and the Pity,False
+2358,1971,Adventures in Perception,False
+2359,1971,Art Is...,False
+2360,1971,The Numbers Start with the River,False
+2361,1971,Sentinels of Silence,True
+2362,1971,Somebody Waiting,False
+2363,1971,Dodes'ka-Den,False
+2364,1971,The Emigrants,False
+2365,1971,The Garden of the Finzi Continis,True
+2366,1971,The Policeman,False
+2367,1971,Tchaikovsky,False
+2368,1971,Straw Dogs,False
+2369,1971,Summer of '42,True
+2370,1971,The Boy Friend,False
+2371,1971,Willy Wonka and the Chocolate Factory,False
+2372,1971,Bless the Beasts & Children,False
+2373,1971,Shaft,True
+2374,1971,The Crunch Bird,True
+2375,1971,Evolution,False
+2376,1971,The Selfish Giant,False
+2377,1971,Good Morning,False
+2378,1971,The Rehearsal,False
+2379,1971,Diamonds Are Forever,False
+2380,1971,Bedknobs and Broomsticks,True
+2381,1971,When Dinosaurs Ruled the Earth,False
+2382,1971,The Conformist,False
+2383,1971,The Hospital,True
+2384,1971,Investigation of a Citizen above Suspicion,False
+2385,1972,The Godfather,True
+2386,1972,Sleuth,False
+2387,1972,The Ruling Class,False
+2388,1972,Sounder,False
+2389,1972,The Heartbreak Kid,False
+2390,1972,Cabaret,True
+2391,1972,Lady Sings the Blues,False
+2392,1972,The Emigrants,False
+2393,1972,Butterflies Are Free,True
+2394,1972,Pete 'n' Tillie,False
+2395,1972,Fat City,False
+2396,1972,Young Winston,False
+2397,1972,1776,False
+2398,1972,Travels with My Aunt,True
+2399,1972,Deliverance,False
+2400,1972,Ape and Super-Ape,False
+2401,1972,Malcolm X,False
+2402,1972,Manson,False
+2403,1972,Marjoe,True
+2404,1972,The Silent Revolution,False
+2405,1972,Hundertwasser's Rainy Day,False
+2406,1972,K-Z,False
+2407,1972,Selling Out,False
+2408,1972,This Tiny World,True
+2409,1972,The Tide of Traffic,False
+2410,1972,The Hot Rock,False
+2411,1972,The Dawns Here Are Quiet,False
+2412,1972,The Discreet Charm of the Bourgeoisie,True
+2413,1972,I Love You Rosa,False
+2414,1972,My Dearest Señorita,False
+2415,1972,The New Land,False
+2416,1972,images,False
+2417,1972,Limelight,True
+2418,1972,Napoleon and Samantha,False
+2419,1972,Man of La Mancha,False
+2420,1972,Ben,False
+2421,1972,The Little Ark,False
+2422,1972,The Life and Times of Judge Roy Bean,False
+2423,1972,The Poseidon Adventure,True
+2424,1972,The Stepmother,False
+2425,1972,A Christmas Carol,True
+2426,1972,Kama Sutra Rides Again,False
+2427,1972,Tup Tup,False
+2428,1972,Frog Story,False
+2429,1972,Norman Rockwell's World...An American Dream,True
+2430,1972,Solo,False
+2431,1972,The Candidate,True
+2432,1972,Murmur of the Heart,False
+2433,1973,Last Tango in Paris,False
+2434,1973,Save the Tiger,True
+2435,1973,The Last Detail,False
+2436,1973,Serpico,False
+2437,1973,Bang the Drum Slowly,False
+2438,1973,The Paper Chase,True
+2439,1973,A Touch of Class,True
+2440,1973,Cinderella Liberty,False
+2441,1973,"Summer Wishes, Winter Dreams",False
+2442,1973,American Graffiti,False
+2443,1973,Paper Moon,True
+2444,1973,Brother Sun Sister Moon,False
+2445,1973,The Sting,True
+2446,1973,Tom Sawyer,False
+2447,1973,Cries and Whispers,True
+2448,1973,Jonathan Livingston Seagull,False
+2449,1973,Ludwig,False
+2450,1973,Always a New Beginning,False
+2451,1973,Battle of Berlin,False
+2452,1973,The Great American Cowboy,True
+2453,1973,Journey to the Outer Limits,False
+2454,1973,Walls of Fire,False
+2455,1973,Background,False
+2456,1973,Children at Work (Paisti Ag Obair),False
+2457,1973,Christo's Valley Curtain,False
+2458,1973,Four Stones for Kanemitsu,False
+2459,1973,Princeton: A Search for Answers,True
+2460,1973,The Day of the Jackal,False
+2461,1973,Day for Night,True
+2462,1973,The House on Chelouche Street,False
+2463,1973,L'Invitation,False
+2464,1973,The Pedestrian,False
+2465,1973,Turkish Delight,False
+2466,1973,The Day of the Dolphin,False
+2467,1973,Papillon,False
+2468,1973,The Way We Were,True
+2469,1973,Jesus Christ Superstar,False
+2470,1973,Live and Let Die,False
+2471,1973,Robin Hood,False
+2472,1973,Frank Film,True
+2473,1973,The Legend of John Henry,False
+2474,1973,Pulcinella,False
+2475,1973,The Bolero,True
+2476,1973,Clockmaker,False
+2477,1973,Life Times Nine,False
+2478,1973,The Exorcist,True
+2479,1974,Harry and Tonto,True
+2480,1974,Lenny,False
+2481,1974,Thunderbolt and Lightfoot,False
+2482,1974,The Godfather Part II,True
+2483,1974,Alice Doesn't Live Here Anymore,True
+2484,1974,Claudine,False
+2485,1974,A Woman under the Influence,False
+2486,1974,Murder on the Orient Express,True
+2487,1974,Day for Night,False
+2488,1974,Blazing Saddles,False
+2489,1974,The Island at the Top of the World,False
+2490,1974,The Towering Inferno,True
+2491,1974,Daisy Miller,False
+2492,1974,The Great Gatsby,True
+2493,1974,Antonia: A Portrait of the Woman,False
+2494,1974,The Challenge...A Tribute to Modern Art,False
+2495,1974,The 81st Blow,False
+2496,1974,Hearts and Minds,True
+2497,1974,The Wild and the Brave,False
+2498,1974,City Out of Wilderness,False
+2499,1974,Don't,True
+2500,1974,Exploratorium,False
+2501,1974,John Muir's High Sierra,False
+2502,1974,Naked Yoga,False
+2503,1974,The Longest Yard,False
+2504,1974,Amarcord,True
+2505,1974,Cats' Play,False
+2506,1974,The Deluge,False
+2507,1974,"Lacombe, Lucien",False
+2508,1974,The Truce,False
+2509,1974,Shanks,False
+2510,1974,The Little Prince,False
+2511,1974,Phantom of the Paradise,False
+2512,1974,Benji,False
+2513,1974,Gold,False
+2514,1974,The Conversation,False
+2515,1974,Closed Mondays,True
+2516,1974,The Family That Dwelt Apart,False
+2517,1974,Hunger,False
+2518,1974,Voyage to Next,False
+2519,1974,Winnie the Pooh and Tigger Too,False
+2520,1974,Climb,False
+2521,1974,The Concert,False
+2522,1974,One-Eyed Men Are Kings,True
+2523,1974,Planet Ocean,False
+2524,1974,The Violin,False
+2525,1974,Earthquake,True
+2526,1974,Young Frankenstein,False
+2527,1974,Chinatown,True
+2528,1974,The Apprenticeship of Duddy Kravitz,False
+2529,1975,One Flew over the Cuckoo's Nest,True
+2530,1975,The Man in the Glass Booth,False
+2531,1975,"Give 'em Hell, Harry!",False
+2532,1975,The Sunshine Boys,True
+2533,1975,The Day of the Locust,False
+2534,1975,The Story of Adele H.,False
+2535,1975,Tommy,False
+2536,1975,Hedda,False
+2537,1975,Hester Street,False
+2538,1975,Shampoo,True
+2539,1975,"Farewell, My Lovely",False
+2540,1975,Jacqueline Susann's Once Is Not Enough,False
+2541,1975,Barry Lyndon,True
+2542,1975,The Man Who Would Be King,False
+2543,1975,Funny Lady,False
+2544,1975,The Four Musketeers,False
+2545,1975,The Magic Flute,False
+2546,1975,Amarcord,False
+2547,1975,The California Reich,False
+2548,1975,Fighting for Our Lives,False
+2549,1975,The Incredible Machine,False
+2550,1975,The Man Who Skied down Everest,True
+2551,1975,The Other Half of the Sky: A China Memoir,False
+2552,1975,Arthur and Lillie,False
+2553,1975,The End of the Game,True
+2554,1975,Millions of Years Ahead of Man,False
+2555,1975,Probes in Space,False
+2556,1975,Whistling Smith,False
+2557,1975,Jaws,True
+2558,1975,Three Days of the Condor,False
+2559,1975,Dersu Uzala,True
+2560,1975,Land of Promise,False
+2561,1975,Letters from Marusia,False
+2562,1975,Sandakan No. 8,False
+2563,1975,Scent of a Woman,False
+2564,1975,"Birds Do It, Bees Do It",False
+2565,1975,Bite the Bullet,False
+2566,1975,The Wind and the Lion,False
+2567,1975,Nashville,True
+2568,1975,Whiffs,False
+2569,1975,The Other Side of the Mountain,False
+2570,1975,Mahogany,False
+2571,1975,Great,True
+2572,1975,Kick Me,False
+2573,1975,Monsieur Pointu,False
+2574,1975,Sisyphus,False
+2575,1975,Angel and Big Joe,True
+2576,1975,Conquest of Light,False
+2577,1975,Dawn Flight,False
+2578,1975,A Day in the Life of Bonnie Consolo,False
+2579,1975,Doubletalk,False
+2580,1975,And Now My Love,False
+2581,1975,Dog Day Afternoon,True
+2582,1975,Lies My Father Told Me,False
+2583,1975,The Hindenburg,True
+2584,1976,Taxi Driver,False
+2585,1976,Network,True
+2586,1976,Seven Beauties,False
+2587,1976,Marathon Man,False
+2588,1976,All the President's Men,True
+2589,1976,"Cousin, Cousine",False
+2590,1976,Carrie,False
+2591,1976,Face to Face,False
+2592,1976,Voyage of the Damned,False
+2593,1976,The Incredible Sarah,False
+2594,1976,The Last Tycoon,False
+2595,1976,The Shootist,False
+2596,1976,Bound for Glory,True
+2597,1976,Fellini's Casanova,True
+2598,1976,The Passover Plot,False
+2599,1976,The Seven-per-cent Solution,False
+2600,1976,Rocky,True
+2601,1976,"Harlan County, U.S.A.",True
+2602,1976,Hollywood on Trial,False
+2603,1976,Off the Edge,False
+2604,1976,People of the Wind,False
+2605,1976,Volcano:  An Inquiry into the Life and Death of Malcolm Lowry,False
+2606,1976,American Shoeshine,False
+2607,1976,Blackwood,False
+2608,1976,The End of the Road,False
+2609,1976,Number Our Days,True
+2610,1976,Universe,False
+2611,1976,Two-Minute Warning,False
+2612,1976,Black and White in Color,True
+2613,1976,"Jacob, the Liar",False
+2614,1976,Nights and Days,False
+2615,1976,Obsession,False
+2616,1976,The Omen,True
+2617,1976,The Outlaw Josey Wales,False
+2618,1976,Bugsy Malone,False
+2619,1976,Half a House,False
+2620,1976,The Pink Panther Strikes Again,False
+2621,1976,A Star Is Born,True
+2622,1976,Dedalo,False
+2623,1976,Leisure,True
+2624,1976,The Street,False
+2625,1976,In the Region of Ice,True
+2626,1976,Kudzu,False
+2627,1976,The Morning Spider,False
+2628,1976,Nightlife,False
+2629,1976,Number One,False
+2630,1976,Silver Streak,False
+2631,1976,The Front,False
+2632,1976,King Kong,True
+2633,1976,Logan's Run,True
+2634,1977,Equus,False
+2635,1977,The Goodbye Girl,True
+2636,1977,A Special Day,False
+2637,1977,Saturday Night Fever,False
+2638,1977,The Turning Point,False
+2639,1977,Julia,True
+2640,1977,Annie Hall,True
+2641,1977,Looking for Mr. Goodbar,False
+2642,1977,Airport '77,False
+2643,1977,The Spy Who Loved Me,False
+2644,1977,Star Wars,True
+2645,1977,Close Encounters of the Third Kind,True
+2646,1977,Islands in the Stream,False
+2647,1977,The Other Side of Midnight,False
+2648,1977,The Children of Theatre Street,False
+2649,1977,High Grass Circus,False
+2650,1977,Homage to Chagall--The Colours of Love,False
+2651,1977,Union Maids,False
+2652,1977,Who Are the DeBolts? And Where Did They Get Nineteen Kids?,True
+2653,1977,"Agueda Martinez: Our People, Our Country",False
+2654,1977,First Edition,False
+2655,1977,Gravity Is My Enemy,True
+2656,1977,"Of Time, Tombs and Treasure",False
+2657,1977,The Shetland Experience,False
+2658,1977,Smokey and the Bandit,False
+2659,1977,Iphigenia,False
+2660,1977,Madame Rosa,True
+2661,1977,Operation Thunderbolt,False
+2662,1977,That Obscure Object of Desire,False
+2663,1977,Mohammad - Messenger of God,False
+2664,1977,A Little Night Music,True
+2665,1977,Pete's Dragon,False
+2666,1977,The Slipper and the Rose--The Story of Cinderella,False
+2667,1977,The Rescuers,False
+2668,1977,You Light Up My Life,True
+2669,1977,The Bead Game,False
+2670,1977,The Doonesbury Special,False
+2671,1977,Jimmy the C,False
+2672,1977,The Sand Castle,True
+2673,1977,The Absent-Minded Waiter,False
+2674,1977,Floating Free,False
+2675,1977,I'll Find a Way,True
+2676,1977,Notes on the Popular Arts,False
+2677,1977,Spaceborne,False
+2678,1977,The Deep,False
+2679,1977,Sorcerer,False
+2680,1977,I Never Promised You a Rose Garden,False
+2681,1977,"Oh, God!",False
+2682,1977,The Late Show,False
+2683,1978,The Boys from Brazil,False
+2684,1978,Coming Home,True
+2685,1978,Comes a Horseman,False
+2686,1978,The Deer Hunter,True
+2687,1978,Autumn Sonata,False
+2688,1978,"Same Time, Next Year",False
+2689,1978,An Unmarried Woman,False
+2690,1978,Interiors,False
+2691,1978,California Suite,True
+2692,1978,The Brink's Job,False
+2693,1978,Heaven Can Wait,True
+2694,1978,The Wiz,False
+2695,1978,Days of Heaven,True
+2696,1978,Caravans,False
+2697,1978,Death on the Nile,True
+2698,1978,The Swarm,False
+2699,1978,The Lovers' Wind,False
+2700,1978,Mysterious Castles of Clay,False
+2701,1978,Raoni,False
+2702,1978,Scared Straight!,True
+2703,1978,With Babies and Banners: Story of the Women's Emergency Brigade,False
+2704,1978,The Divided Trail: A Native American Odyssey,False
+2705,1978,An Encounter with Faces,False
+2706,1978,The Flight of the Gossamer Condor,True
+2707,1978,Goodnight Miss Ann,False
+2708,1978,Squires of San Quentin,False
+2709,1978,Get Out Your Handkerchiefs,True
+2710,1978,The Glass Cell,False
+2711,1978,Hungarians,False
+2712,1978,Viva Italia!,False
+2713,1978,White Bim Black Ear,False
+2714,1978,The Buddy Holly Story,True
+2715,1978,Pretty Baby,False
+2716,1978,Midnight Express,True
+2717,1978,Grease,False
+2718,1978,Thank God It's Friday,True
+2719,1978,Foul Play,False
+2720,1978,The Magic of Lassie,False
+2721,1978,Oh My Darling,False
+2722,1978,Rip Van Winkle,False
+2723,1978,Special Delivery,True
+2724,1978,A Different Approach,False
+2725,1978,Mandy's Grandmother,False
+2726,1978,Strange Fruit,False
+2727,1978,Teenage Father,True
+2728,1978,Hooper,False
+2729,1978,Bloodbrothers,False
+2730,1978,Superman,True
+2731,1979,Kramer vs. Kramer,True
+2732,1979,The China Syndrome,False
+2733,1979,...And Justice for All,False
+2734,1979,Being There,True
+2735,1979,The Rose,False
+2736,1979,Starting Over,False
+2737,1979,Norma Rae,True
+2738,1979,Chapter Two,False
+2739,1979,Manhattan,False
+2740,1979,All That Jazz,True
+2741,1979,Star Trek - The Motion Picture,False
+2742,1979,Apocalypse Now,True
+2743,1979,The Black Hole,False
+2744,1979,1941,False
+2745,1979,Agatha,False
+2746,1979,Butch and Sundance: The Early Days,False
+2747,1979,The Europeans,False
+2748,1979,La Cage aux Folles,False
+2749,1979,Best Boy,True
+2750,1979,Generation on the Wind,False
+2751,1979,Going the Distance,False
+2752,1979,The Killing Ground,False
+2753,1979,The War at Home,False
+2754,1979,Dae,False
+2755,1979,Koryo Celadon,False
+2756,1979,Nails,False
+2757,1979,Paul Robeson: Tribute to an Artist,True
+2758,1979,Remember Me,False
+2759,1979,The Maids of Wilko,False
+2760,1979,Mama Turns a Hundred,False
+2761,1979,A Simple Story,False
+2762,1979,The Tin Drum,True
+2763,1979,To Forget Venice,False
+2764,1979,The Amityville Horror,False
+2765,1979,The Champ,False
+2766,1979,A Little Romance,True
+2767,1979,10,False
+2768,1979,The Muppet Movie,False
+2769,1979,The Promise,False
+2770,1979,Ice Castles,False
+2771,1979,Dream Doll,False
+2772,1979,Every Child,True
+2773,1979,It's So Nice to Have a Wolf around the House,False
+2774,1979,Board and Care,True
+2775,1979,Bravery in the Field,False
+2776,1979,"Oh Brother, My Brother",False
+2777,1979,The Solar Film,False
+2778,1979,Solly's Diner,False
+2779,1979,The Electric Horseman,False
+2780,1979,Meteor,False
+2781,1979,Alien,True
+2782,1979,Moonraker,False
+2783,1979,Breaking Away,True
+2784,1979,The Black Stallion,True
+2785,1980,Raging Bull,True
+2786,1980,The Great Santini,False
+2787,1980,The Elephant Man,False
+2788,1980,Tribute,False
+2789,1980,The Stunt Man,False
+2790,1980,Ordinary People,True
+2791,1980,Resurrection,False
+2792,1980,Private Benjamin,False
+2793,1980,Gloria,False
+2794,1980,Coal Miner's Daughter,True
+2795,1980,Inside Moves,False
+2796,1980,Melvin and Howard,True
+2797,1980,Kagemusha (The Shadow Warrior),False
+2798,1980,Tess,True
+2799,1980,The Blue Lagoon,False
+2800,1980,The Formula,False
+2801,1980,My Brilliant Career,False
+2802,1980,Somewhere in Time,False
+2803,1980,When Time Ran Out,False
+2804,1980,Agee,False
+2805,1980,The Day after Trinity,False
+2806,1980,From Mao to Mozart: Isaac Stern in China,True
+2807,1980,Front Line,False
+2808,1980,The Yellow Star - The Persecution of the Jews in Europe 1933-45,False
+2809,1980,Don't Mess with Bill,False
+2810,1980,The Eruption of Mount St. Helens,False
+2811,1980,It's the Same World,False
+2812,1980,Karl Hess: Toward Liberty,True
+2813,1980,Luther Metke at 94,False
+2814,1980,The Competition,False
+2815,1980,Confidence,False
+2816,1980,The Last Metro,False
+2817,1980,Moscow Does Not Believe in Tears,True
+2818,1980,The Nest,False
+2819,1980,Altered States,False
+2820,1980,Fame,True
+2821,1980,Nine to Five,False
+2822,1980,Honeysuckle Rose,False
+2823,1980,All Nothing,False
+2824,1980,The Fly,True
+2825,1980,History of the World in Three Minutes Flat,False
+2826,1980,The Dollar Bottom,True
+2827,1980,Fall Line,False
+2828,1980,A Jury of Her Peers,False
+2829,1980,The Empire Strikes Back,True
+2830,1980,Breaker Morant,False
+2831,1980,Brubaker,False
+2832,1980,Mon Oncle D'Amerique,False
+2833,1981,On Golden Pond,True
+2834,1981,Atlantic City,False
+2835,1981,Absence of Malice,False
+2836,1981,Only When I Laugh,False
+2837,1981,Arthur,True
+2838,1981,Ragtime,False
+2839,1981,The French Lieutenant's Woman,False
+2840,1981,Reds,True
+2841,1981,Heaven's Gate,False
+2842,1981,Raiders of the Lost Ark,True
+2843,1981,Excalibur,False
+2844,1981,Chariots of Fire,True
+2845,1981,Pennies from Heaven,False
+2846,1981,Against Wind and Tide: A Cuban Odyssey,False
+2847,1981,Brooklyn Bridge,False
+2848,1981,Eight Minutes to Midnight: A Portrait of Dr. Helen Caldicott,False
+2849,1981,El Salvador: Another Vietnam,False
+2850,1981,Genocide,True
+2851,1981,Americas in Transition,False
+2852,1981,Close Harmony,True
+2853,1981,Journey for Survival,False
+2854,1981,See What I Say,False
+2855,1981,Urge to Build,False
+2856,1981,The Boat Is Full,False
+2857,1981,Man of Iron,False
+2858,1981,Mephisto,True
+2859,1981,Muddy River,False
+2860,1981,Three Brothers,False
+2861,1981,An American Werewolf in London,True
+2862,1981,Heartbeeps,False
+2863,1981,Dragonslayer,False
+2864,1981,Endless Love,False
+2865,1981,The Great Muppet Caper,False
+2866,1981,For Your Eyes Only,False
+2867,1981,Crac,True
+2868,1981,The Creation,False
+2869,1981,The Tender Tale of Cinderella Penguin,False
+2870,1981,Couples and Robbers,False
+2871,1981,First Winter,False
+2872,1981,Violet,True
+2873,1981,Outland,False
+2874,1981,Prince of the City,False
+2875,1982,Gandhi,True
+2876,1982,The Verdict,False
+2877,1982,My Favorite Year,False
+2878,1982,The Best Little Whorehouse in Texas,False
+2879,1982,An Officer and a Gentleman,True
+2880,1982,The World According to Garp,False
+2881,1982,Frances,False
+2882,1982,Sophie's Choice,True
+2883,1982,Tootsie,True
+2884,1982,Annie,False
+2885,1982,Blade Runner,False
+2886,1982,La Traviata,False
+2887,1982,Das Boot,False
+2888,1982,Tron,False
+2889,1982,After the Axe,False
+2890,1982,Ben's Mill,False
+2891,1982,In Our Water,False
+2892,1982,Just Another Missing Kid,True
+2893,1982,A Portrait of Giselle,False
+2894,1982,Gods of Metal,False
+2895,1982,If You Love This Planet,True
+2896,1982,The Klan: A Legacy of Hate in America,False
+2897,1982,To Live or Let Die,False
+2898,1982,Traveling Hopefully,False
+2899,1982,Alsino and the Condor,False
+2900,1982,Coup de Torchon ('Clean Slate'),False
+2901,1982,The Flight of the Eagle,False
+2902,1982,Private Life,False
+2903,1982,Volver a Empezar ('To Begin Again'),True
+2904,1982,Quest for Fire,True
+2905,1982,E.T. The Extra-Terrestrial,True
+2906,1982,Poltergeist,False
+2907,1982,One from the Heart,False
+2908,1982,Victor/Victoria,True
+2909,1982,Rocky III,False
+2910,1982,Best Friends,False
+2911,1982,"Yes, Giorgio",False
+2912,1982,The Great Cognito,False
+2913,1982,The Snowman,False
+2914,1982,Tango,True
+2915,1982,Ballet Robotique,False
+2916,1982,A Shocking Accident,True
+2917,1982,The Silence,False
+2918,1982,Split Cherry Tree,False
+2919,1982,Sredni Vashtar,False
+2920,1982,Missing,True
+2921,1982,Diner,False
+2922,1983,Educating Rita,False
+2923,1983,"Reuben, Reuben",False
+2924,1983,The Dresser,False
+2925,1983,Tender Mercies,True
+2926,1983,To Be or Not to Be,False
+2927,1983,Terms of Endearment,True
+2928,1983,Cross Creek,False
+2929,1983,Testament,False
+2930,1983,Silkwood,False
+2931,1983,The Big Chill,False
+2932,1983,The Year of Living Dangerously,True
+2933,1983,Fanny & Alexander,True
+2934,1983,WarGames,False
+2935,1983,Zelig,False
+2936,1983,Heart Like a Wheel,False
+2937,1983,The Return of Martin Guerre,False
+2938,1983,Children of Darkness,False
+2939,1983,First Contact,False
+2940,1983,He Makes Me Feel Like Dancin',True
+2941,1983,The Profession of Arms,False
+2942,1983,Seeing Red,False
+2943,1983,Flamenco at 5:15,True
+2944,1983,In the Nuclear Shadow: What Can the Children Tell Us?,False
+2945,1983,Sewing Woman,False
+2946,1983,Spaces: The Architecture of Paul Rudolph,False
+2947,1983,You Are Free  (Ihr Zent Frei),False
+2948,1983,Blue Thunder,False
+2949,1983,The Right Stuff,True
+2950,1983,Carmen,False
+2951,1983,Entre Nous,False
+2952,1983,Job's Revolt,False
+2953,1983,Le Bal,False
+2954,1983,Under Fire,False
+2955,1983,The Sting II,False
+2956,1983,Trading Places,False
+2957,1983,Yentl,True
+2958,1983,Flashdance,True
+2959,1983,Mickey's Christmas Carol,False
+2960,1983,Sound of Sunshine - Sound of Rain,False
+2961,1983,Sundae in New York,True
+2962,1983,Boys and Girls,True
+2963,1983,Goodie-Two-Shoes,False
+2964,1983,Overnight Sensation,False
+2965,1983,Never Cry Wolf,False
+2966,1983,Betrayal,False
+2967,1983,Return of the Jedi,True
+2968,1984,Amadeus,True
+2969,1984,Starman,False
+2970,1984,Under the Volcano,False
+2971,1984,A Soldier's Story,False
+2972,1984,The Karate Kid,False
+2973,1984,The Killing Fields,True
+2974,1984,"Greystoke: The Legend of Tarzan, Lord of the Apes",False
+2975,1984,Places in the Heart,True
+2976,1984,Country,False
+2977,1984,The Bostonians,False
+2978,1984,A Passage to India,True
+2979,1984,The Natural,False
+2980,1984,Swing Shift,False
+2981,1984,The Pope of Greenwich Village,False
+2982,1984,The Cotton Club,False
+2983,1984,2010,False
+2984,1984,Broadway Danny Rose,False
+2985,1984,High Schools,False
+2986,1984,In the Name of the People,False
+2987,1984,Marlene,False
+2988,1984,Streetwise,False
+2989,1984,The Times of Harvey Milk,True
+2990,1984,The Children of Soong Ching Ling,False
+2991,1984,Code Gray: Ethical Dilemmas in Nursing,False
+2992,1984,The Garden of Eden,False
+2993,1984,Recollections of Pavlovsk,False
+2994,1984,The Stone Carvers,True
+2995,1984,Romancing the Stone,False
+2996,1984,Beyond the Walls,False
+2997,1984,Camila,False
+2998,1984,Dangerous Moves,True
+2999,1984,Double Feature,False
+3000,1984,Wartime Romance,False
+3001,1984,The Muppets Take Manhattan,False
+3002,1984,Purple Rain,True
+3003,1984,Songwriter,False
+3004,1984,Against All Odds,False
+3005,1984,Footloose,False
+3006,1984,Ghostbusters,False
+3007,1984,The Woman in Red,True
+3008,1984,Charade,True
+3009,1984,Doctor De Soto,False
+3010,1984,Paradise,False
+3011,1984,The Painted Door,False
+3012,1984,Tales of Meeting and Parting,False
+3013,1984,Up,True
+3014,1984,Dune,False
+3015,1984,Indiana Jones and the Temple of Doom,True
+3016,1984,Beverly Hills Cop,False
+3017,1984,El Norte,False
+3018,1984,Splash,False
+3019,1984,The River,True
+3020,1985,Murphy's Romance,False
+3021,1985,Kiss of the Spider Woman,True
+3022,1985,Runaway Train,False
+3023,1985,Cocoon,True
+3024,1985,Jagged Edge,False
+3025,1985,Agnes of God,False
+3026,1985,The Color Purple,False
+3027,1985,Sweet Dreams,False
+3028,1985,The Trip to Bountiful,True
+3029,1985,Prizzi's Honor,True
+3030,1985,Twice in a Lifetime,False
+3031,1985,Brazil,False
+3032,1985,Out of Africa,True
+3033,1985,The Journey of Natty Gann,False
+3034,1985,Ran,True
+3035,1985,Broken Rainbow,True
+3036,1985,Las Madres--The Mothers of Plaza de Mayo,False
+3037,1985,Soldiers in Hiding,False
+3038,1985,The Statue of Liberty,False
+3039,1985,Unfinished Business,False
+3040,1985,The Courage to Care,False
+3041,1985,Keats and His Nightingale: A Blind Date,False
+3042,1985,Making Overtures--The Story of a Community Orchestra,False
+3043,1985,Witness to War: Dr. Charlie Clements,True
+3044,1985,The Wizard of the Strings,False
+3045,1985,A Chorus Line,False
+3046,1985,Witness,True
+3047,1985,Angry Harvest,False
+3048,1985,Colonel Redl,False
+3049,1985,The Official Story,True
+3050,1985,Three Men and a Cradle,False
+3051,1985,When Father Was Away on Business,False
+3052,1985,Mask,True
+3053,1985,Remo Williams: The Adventure Begins,False
+3054,1985,Silverado,False
+3055,1985,White Nights,True
+3056,1985,Anna & Bella,True
+3057,1985,The Big Snit,False
+3058,1985,Second Class Mail,False
+3059,1985,Graffiti,False
+3060,1985,Molly's Pilgrim,True
+3061,1985,Rainbow War,False
+3062,1985,Ladyhawke,False
+3063,1985,Back to the Future,True
+3064,1985,Rambo: First Blood Part II,False
+3065,1985,Return to Oz,False
+3066,1985,Young Sherlock Holmes,False
+3067,1985,The Purple Rose of Cairo,False
+3068,1986,Mona Lisa,False
+3069,1986,The Color of Money,True
+3070,1986,Salvador,False
+3071,1986,Hannah and Her Sisters,True
+3072,1986,Hoosiers,False
+3073,1986,The Morning After,False
+3074,1986,Children of a Lesser God,True
+3075,1986,Crimes of the Heart,False
+3076,1986,Peggy Sue Got Married,False
+3077,1986,A Room with a View,True
+3078,1986,The Mission,True
+3079,1986,Star Trek IV: The Voyage Home,False
+3080,1986,Otello,False
+3081,1986,Pirates,False
+3082,1986,Blue Velvet,False
+3083,1986,Platoon,True
+3084,1986,Artie Shaw: Time Is All You've Got,True
+3085,1986,Chile: Hasta Cuando?,False
+3086,1986,Down and Out in America,True
+3087,1986,Isaac in America: A Journey with Isaac Bashevis Singer,False
+3088,1986,Witness to Apartheid,False
+3089,1986,Debonair Dancers,False
+3090,1986,The Masters of Disaster,False
+3091,1986,Red Grooms: Sunflower in a Hothouse,False
+3092,1986,Sam,False
+3093,1986,"Women--for America, for the World",True
+3094,1986,The Assault,True
+3095,1986,Betty Blue,False
+3096,1986,The Decline of the American Empire,False
+3097,1986,My Sweet Little Village,False
+3098,1986,'38',False
+3099,1986,The Clan of the Cave Bear,False
+3100,1986,The Fly,True
+3101,1986,Legend,False
+3102,1986,'Round Midnight,True
+3103,1986,The Karate Kid Part II,False
+3104,1986,That's Life,False
+3105,1986,Little Shop of Horrors,False
+3106,1986,An American Tail,False
+3107,1986,Top Gun,True
+3108,1986,"The Frog, the Dog and the Devil",False
+3109,1986,A Greek Tragedy,True
+3110,1986,Luxo Jr.,False
+3111,1986,Exit,False
+3112,1986,Love Struck,False
+3113,1986,Precious Images,True
+3114,1986,Heartbreak Ridge,False
+3115,1986,Aliens,True
+3116,1986,Poltergeist II: The Other Side,False
+3117,1986,Stand by Me,False
+3118,1986,'Crocodile' Dundee,False
+3119,1986,My Beautiful Laundrette,False
+3120,1987,Wall Street,True
+3121,1987,Broadcast News,False
+3122,1987,Dark Eyes,False
+3123,1987,Ironweed,False
+3124,1987,"Good Morning, Vietnam",False
+3125,1987,The Untouchables,True
+3126,1987,Street Smart,False
+3127,1987,Cry Freedom,False
+3128,1987,Moonstruck,True
+3129,1987,Fatal Attraction,False
+3130,1987,Anna,False
+3131,1987,Gaby - A True Story,False
+3132,1987,Throw Momma from the Train,False
+3133,1987,The Whales of August,False
+3134,1987,Empire of the Sun,False
+3135,1987,Hope and Glory,False
+3136,1987,The Last Emperor,True
+3137,1987,Radio Days,False
+3138,1987,Matewan,False
+3139,1987,The Dead,False
+3140,1987,Maurice,False
+3141,1987,My Life as a Dog,False
+3142,1987,Eyes on the Prize: America's Civil Rights Years/Bridge to Freedom 1965,False
+3143,1987,Hellfire: A Journey from Hiroshima,False
+3144,1987,Radio Bikini,False
+3145,1987,A Stitch for Time,False
+3146,1987,The Ten-Year Lunch: The Wit and Legend of the Algonquin Round Table,True
+3147,1987,Frances Steloff: Memoirs of a Bookseller,False
+3148,1987,In the Wee Wee Hours...,False
+3149,1987,Language Says It All,False
+3150,1987,Silver into Gold,False
+3151,1987,Young at Heart,True
+3152,1987,"Au Revoir Les Enfants (Goodbye, Children)",False
+3153,1987,Babette's Feast,True
+3154,1987,Course Completed,False
+3155,1987,The Family,False
+3156,1987,Pathfinder,False
+3157,1987,Happy New Year,False
+3158,1987,Harry and the Hendersons,True
+3159,1987,The Witches of Eastwick,False
+3160,1987,Dirty Dancing,True
+3161,1987,Mannequin,False
+3162,1987,Beverly Hills Cop II,False
+3163,1987,The Princess Bride,False
+3164,1987,George and Rosemary,False
+3165,1987,The Man Who Planted Trees,True
+3166,1987,Your Face,False
+3167,1987,Making Waves,False
+3168,1987,Ray's Male Heterosexual Dance Hall,True
+3169,1987,Shoeshine,False
+3170,1987,Lethal Weapon,False
+3171,1987,Innerspace,True
+3172,1987,Predator,False
+3173,1987,Full Metal Jacket,False
+3174,1987,RoboCop,True
+3175,1988,Big,False
+3176,1988,Rain Man,True
+3177,1988,Stand and Deliver,False
+3178,1988,Little Dorrit,False
+3179,1988,A Fish Called Wanda,True
+3180,1988,Tucker The Man and His Dream,False
+3181,1988,Running on Empty,False
+3182,1988,Married to the Mob,False
+3183,1988,The Accused,True
+3184,1988,A Cry in the Dark,False
+3185,1988,Gorillas in the Mist,False
+3186,1988,The Accidental Tourist,True
+3187,1988,Beaches,False
+3188,1988,Dangerous Liaisons,True
+3189,1988,Mississippi Burning,True
+3190,1988,Tequila Sunrise,False
+3191,1988,The Unbearable Lightness of Being,False
+3192,1988,Coming to America,False
+3193,1988,A Handful of Dust,False
+3194,1988,Sunset,False
+3195,1988,The Last Temptation of Christ,False
+3196,1988,The Cry of Reason - Beyers Naudé: An Afrikaner Speaks Out,False
+3197,1988,Hotel Terminus: The Life and Times of Klaus Barbie,True
+3198,1988,Let's Get Lost,False
+3199,1988,Promises to Keep,False
+3200,1988,Who Killed Vincent Chin?,False
+3201,1988,The Children's Storefront,False
+3202,1988,Family Gathering,False
+3203,1988,Gang Cops,False
+3204,1988,Portrait of Imogen,False
+3205,1988,You Don't Have to Die,True
+3206,1988,Die Hard,False
+3207,1988,Who Framed Roger Rabbit,True
+3208,1988,Hanussen,False
+3209,1988,The Music Teacher,False
+3210,1988,Pelle the Conqueror,True
+3211,1988,Salaam Bombay!,False
+3212,1988,Women on the Verge of a Nervous Breakdown,False
+3213,1988,Beetlejuice,True
+3214,1988,Scrooged,False
+3215,1988,The Milagro Beanfield War,True
+3216,1988,Bagdad Cafe,False
+3217,1988,Working Girl,True
+3218,1988,Buster,False
+3219,1988,The Cat Came Back,False
+3220,1988,Technological Threat,False
+3221,1988,Tin Toy,True
+3222,1988,The Appointments of Dennis Jennings,True
+3223,1988,Cadillac Dreams,False
+3224,1988,Gullah Tales,False
+3225,1988,Bird,True
+3226,1988,Willow,False
+3227,1988,Bull Durham,False
+3228,1989,My Left Foot,True
+3229,1989,Do the Right Thing,False
+3230,1989,A Dry White Season,False
+3231,1989,Crimes and Misdemeanors,False
+3232,1989,Glory,True
+3233,1989,Camille Claudel,False
+3234,1989,Shirley Valentine,False
+3235,1989,Music Box,False
+3236,1989,The Fabulous Baker Boys,False
+3237,1989,Driving Miss Daisy,True
+3238,1989,"Enemies, A Love Story",False
+3239,1989,Steel Magnolias,False
+3240,1989,Parenthood,False
+3241,1989,The Adventures of Baron Munchausen,False
+3242,1989,Batman,True
+3243,1989,Blaze,False
+3244,1989,Harlem Nights,False
+3245,1989,Henry V,True
+3246,1989,Valmont,False
+3247,1989,Born on the Fourth of July,True
+3248,1989,Adam Clayton Powell,False
+3249,1989,Common Threads: Stories from the Quilt,True
+3250,1989,Crack USA: County under Siege,False
+3251,1989,For All Mankind,False
+3252,1989,Super Chief: The Life and Legacy of Earl Warren,False
+3253,1989,"Fine Food, Fine Pastries, Open 6 to 9",False
+3254,1989,The Johnstown Flood,True
+3255,1989,Yad Vashem: Preserving the Past to Ensure the Future,False
+3256,1989,The Bear,False
+3257,1989,Cinema Paradiso,True
+3258,1989,Jesus of Montreal,False
+3259,1989,Waltzing Regitze,False
+3260,1989,What Happened to Santiago,False
+3261,1989,Dad,False
+3262,1989,Field of Dreams,False
+3263,1989,The Little Mermaid,True
+3264,1989,Chances Are,False
+3265,1989,Balance,True
+3266,1989,The Cow,False
+3267,1989,The Hill Farm,False
+3268,1989,Amazon Diary,False
+3269,1989,The Childeater,False
+3270,1989,Work Experience,True
+3271,1989,Black Rain,False
+3272,1989,Indiana Jones and the Last Crusade,True
+3273,1989,Lethal Weapon 2,False
+3274,1989,The Abyss,True
+3275,1989,Back to the Future Part II,False
+3276,1989,Dead Poets Society,True
+3277,1989,"sex, lies, and videotape",False
+3278,1989,When Harry Met Sally...,False
+3279,1990,Awakenings,False
+3280,1990,The Field,False
+3281,1990,Reversal of Fortune,True
+3282,1990,Longtime Companion,False
+3283,1990,"The Godfather, Part III",False
+3284,1990,Good Fellas,True
+3285,1990,Misery,True
+3286,1990,The Grifters,False
+3287,1990,Pretty Woman,False
+3288,1990,Postcards from the Edge,False
+3289,1990,Mr. & Mrs. Bridge,False
+3290,1990,Ghost,True
+3291,1990,Wild at Heart,False
+3292,1990,Dick Tracy,True
+3293,1990,Hamlet,False
+3294,1990,Avalon,False
+3295,1990,Dances With Wolves,True
+3296,1990,Henry & June,False
+3297,1990,Cyrano de Bergerac,True
+3298,1990,American Dream,True
+3299,1990,Berkeley in the Sixties,False
+3300,1990,Building Bombs,False
+3301,1990,Forever Activists: Stories from the Veterans of the Abraham Lincoln Brigade,False
+3302,1990,Waldo Salt: A Screenwriter's Journey,False
+3303,1990,Burning Down Tomorrow,False
+3304,1990,Chimps: So Like Us,False
+3305,1990,Days of Waiting,True
+3306,1990,Journey into Life: The World of the Unborn,False
+3307,1990,Rose Kennedy: A Life to Remember,False
+3308,1990,Journey of Hope,True
+3309,1990,Ju Dou,False
+3310,1990,The Nasty Girl,False
+3311,1990,Open Doors,False
+3312,1990,Edward Scissorhands,False
+3313,1990,Havana,False
+3314,1990,Home Alone,False
+3315,1990,Young Guns II,False
+3316,1990,Creature Comforts,True
+3317,1990,A Grand Day Out,False
+3318,1990,Grasshoppers (Cavallette),False
+3319,1990,Bronx Cheers,False
+3320,1990,Dear Rosie,False
+3321,1990,The Lunch Date,True
+3322,1990,Senzeni Na? (What Have We Done?),False
+3323,1990,12:01 PM,False
+3324,1990,Days of Thunder,False
+3325,1990,Flatliners,False
+3326,1990,The Hunt for Red October,True
+3327,1990,Alice,False
+3328,1990,Green Card,False
+3329,1990,Metropolitan,False
+3330,1990,Total Recall,True
+3331,1991,Cape Fear,False
+3332,1991,The Silence of the Lambs,True
+3333,1991,The Prince of Tides,False
+3334,1991,Barton Fink,False
+3335,1991,City Slickers,True
+3336,1991,Rambling Rose,False
+3337,1991,For the Boys,False
+3338,1991,The Fisher King,True
+3339,1991,Fried Green Tomatoes,False
+3340,1991,Bugsy,True
+3341,1991,Hook,False
+3342,1991,JFK,True
+3343,1991,The Addams Family,False
+3344,1991,Madame Bovary,False
+3345,1991,Boyz N the Hood,False
+3346,1991,Death on the Job,False
+3347,1991,Doing Time: Life inside the Big House,False
+3348,1991,In the Shadow of the Stars,True
+3349,1991,The Restless Conscience,False
+3350,1991,Wild by Law,False
+3351,1991,Birdnesters of Thailand (aka 'Shadow Hunters'),False
+3352,1991,"Deadly Deception: General Electric, Nuclear Weapons and Our Environment",True
+3353,1991,A Little Vicious,False
+3354,1991,The Mark of the Maker,False
+3355,1991,Memorial: Letters from American Soldiers,False
+3356,1991,The Commitments,False
+3357,1991,Children of Nature,False
+3358,1991,The Elementary School,False
+3359,1991,Mediterraneo,True
+3360,1991,The Ox,False
+3361,1991,Raise the Red Lantern,False
+3362,1991,Star Trek VI The Undiscovered Country,False
+3363,1991,Terminator 2: Judgment Day,True
+3364,1991,Beauty and the Beast,True
+3365,1991,Robin Hood: Prince of Thieves,False
+3366,1991,Blackfly,False
+3367,1991,Manipulation,True
+3368,1991,Strings,False
+3369,1991,Birch Street Gym,False
+3370,1991,Last Breeze of Summer,False
+3371,1991,Session Man,True
+3372,1991,Backdraft,False
+3373,1991,Europa Europa,False
+3374,1991,Grand Canyon,False
+3375,1991,Thelma & Louise,True
+3376,1992,Chaplin,False
+3377,1992,Scent of a Woman,True
+3378,1992,Malcolm X,False
+3379,1992,Unforgiven,True
+3380,1992,A Few Good Men,False
+3381,1992,Glengarry Glen Ross,False
+3382,1992,Mr. Saturday Night,False
+3383,1992,Passion Fish,False
+3384,1992,Love Field,False
+3385,1992,Lorenzo's Oil,False
+3386,1992,Howards End,True
+3387,1992,Husbands and Wives,False
+3388,1992,Enchanted April,False
+3389,1992,Damage,False
+3390,1992,My Cousin Vinny,True
+3391,1992,Toys,False
+3392,1992,Hoffa,False
+3393,1992,The Lover,False
+3394,1992,A River Runs through It,True
+3395,1992,Bram Stoker's Dracula,True
+3396,1992,The Player,False
+3397,1992,Changing Our Minds: The Story of Dr. Evelyn Hooker,False
+3398,1992,Fires of Kuwait,False
+3399,1992,Liberators: Fighting on Two Fronts in World War II,False
+3400,1992,Music for the Movies: Bernard Herrmann,False
+3401,1992,The Panama Deception,True
+3402,1992,At the Edge of Conquest: The Journey of Chief Wai-Wai,False
+3403,1992,Beyond Imagining: Margaret Anderson and the 'Little Review',False
+3404,1992,The Colours of My Father: A Portrait of Sam Borenstein,False
+3405,1992,Educating Peter,True
+3406,1992,When Abortion Was Illegal: Untold Stories,False
+3407,1992,Basic Instinct,False
+3408,1992,Close to Eden,False
+3409,1992,Daens,False
+3410,1992,Indochine,True
+3411,1992,A Place in the World,False
+3412,1992,Schtonk!,False
+3413,1992,Batman Returns,False
+3414,1992,Aladdin,True
+3415,1992,The Mambo Kings,False
+3416,1992,The Bodyguard,False
+3417,1992,Adam,False
+3418,1992,Mona Lisa Descending a Staircase,True
+3419,1992,"Reci, Reci, Reci... (Words, Words, Words)",False
+3420,1992,The Sandman,False
+3421,1992,Screen Play,False
+3422,1992,Contact,False
+3423,1992,Cruise Control,False
+3424,1992,The Lady in Waiting,False
+3425,1992,Omnibus,True
+3426,1992,Swan Song,False
+3427,1992,The Last of the Mohicans,True
+3428,1992,Under Siege,False
+3429,1992,Alien 3,False
+3430,1992,Death Becomes Her,True
+3431,1992,The Crying Game,True
+3432,1993,In the Name of the Father,False
+3433,1993,What's Love Got to Do with It,False
+3434,1993,Philadelphia,True
+3435,1993,The Remains of the Day,False
+3436,1993,What's Eating Gilbert Grape,False
+3437,1993,The Fugitive,True
+3438,1993,In the Line of Fire,False
+3439,1993,Six Degrees of Separation,False
+3440,1993,The Piano,True
+3441,1993,Shadowlands,False
+3442,1993,The Firm,False
+3443,1993,Fearless,False
+3444,1993,Addams Family Values,False
+3445,1993,Orlando,False
+3446,1993,Schindler's List,True
+3447,1993,Farewell My Concubine,False
+3448,1993,Searching for Bobby Fischer,False
+3449,1993,The Age of Innocence,True
+3450,1993,Short Cuts,False
+3451,1993,The Broadcast Tapes of Dr. Peter,False
+3452,1993,Children of Fate,False
+3453,1993,For Better or for Worse,False
+3454,1993,I Am a Promise: The Children of Stanton Elementary School,True
+3455,1993,The War Room,False
+3456,1993,Blood Ties: The Life and Work of Sally Mann,False
+3457,1993,Chicks in White Satin,False
+3458,1993,Defending Our Lives,True
+3459,1993,Belle Epoque,True
+3460,1993,Hedd Wyn,False
+3461,1993,The Scent of Green Papaya,False
+3462,1993,The Wedding Banquet,False
+3463,1993,Mrs. Doubtfire,True
+3464,1993,Poetic Justice,False
+3465,1993,Beethoven's 2nd,False
+3466,1993,Sleepless in Seattle,False
+3467,1993,Blindscape,False
+3468,1993,The Mighty River,False
+3469,1993,Small Talk,False
+3470,1993,The Village,False
+3471,1993,The Wrong Trousers,True
+3472,1993,Black Rider (Schwarzfahrer),True
+3473,1993,Down on the Waterfront,False
+3474,1993,The Dutch Master,False
+3475,1993,Partners,False
+3476,1993,The Screw (La Vis),False
+3477,1993,Cliffhanger,False
+3478,1993,Geronimo: An American Legend,False
+3479,1993,Jurassic Park,True
+3480,1993,The Nightmare before Christmas,False
+3481,1993,Dave,False
+3482,1994,The Shawshank Redemption,False
+3483,1994,Forrest Gump,True
+3484,1994,Nobody's Fool,False
+3485,1994,Ed Wood,True
+3486,1994,Quiz Show,False
+3487,1994,Nell,False
+3488,1994,Blue Sky,True
+3489,1994,Tom & Viv,False
+3490,1994,Little Women,False
+3491,1994,The Client,False
+3492,1994,Bullets over Broadway,True
+3493,1994,Interview with the Vampire,False
+3494,1994,The Madness of King George,True
+3495,1994,Legends of the Fall,True
+3496,1994,Red,False
+3497,1994,Wyatt Earp,False
+3498,1994,"The Adventures of Priscilla, Queen of the Desert",True
+3499,1994,Maverick,False
+3500,1994,Queen Margot,False
+3501,1994,Complaints of a Dutiful Daughter,False
+3502,1994,D-Day Remembered,False
+3503,1994,Freedom on My Mind,False
+3504,1994,A Great Day in Harlem,False
+3505,1994,Maya Lin: A Strong Clear Vision,True
+3506,1994,Blues Highway,False
+3507,1994,89mm od Europy (89mm from Europe),False
+3508,1994,School of Assassins,False
+3509,1994,Straight from the Heart,False
+3510,1994,A Time for Justice,True
+3511,1994,Hoop Dreams,False
+3512,1994,Before the Rain,False
+3513,1994,Burnt by the Sun,True
+3514,1994,Eat Drink Man Woman,False
+3515,1994,Farinelli: Il Castrato,False
+3516,1994,Strawberry and Chocolate,False
+3517,1994,Mary Shelley's Frankenstein,False
+3518,1994,The Lion King,True
+3519,1994,Junior,False
+3520,1994,The Paper,False
+3521,1994,Four Weddings and a Funeral,False
+3522,1994,The Big Story,False
+3523,1994,Bob's Birthday,True
+3524,1994,The Janitor,False
+3525,1994,The Monk and the Fish,False
+3526,1994,Triangle,False
+3527,1994,Franz Kafka's It's a Wonderful Life,True
+3528,1994,Kangaroo Court,False
+3529,1994,On Hope,False
+3530,1994,Syrup,False
+3531,1994,Trevor,True
+3532,1994,Clear and Present Danger,False
+3533,1994,Speed,True
+3534,1994,The Mask,False
+3535,1994,True Lies,False
+3536,1994,Heavenly Creatures,False
+3537,1994,Pulp Fiction,True
+3538,1995,Leaving Las Vegas,True
+3539,1995,Mr. Holland's Opus,False
+3540,1995,Nixon,False
+3541,1995,12 Monkeys,False
+3542,1995,Rob Roy,False
+3543,1995,The Usual Suspects,True
+3544,1995,Dead Man Walking,True
+3545,1995,Casino,False
+3546,1995,The Bridges of Madison County,False
+3547,1995,Mighty Aphrodite,True
+3548,1995,Georgia,False
+3549,1995,A Little Princess,False
+3550,1995,Restoration,True
+3551,1995,Richard III,False
+3552,1995,Batman Forever,False
+3553,1995,Braveheart,True
+3554,1995,Shanghai Triad,False
+3555,1995,Anne Frank Remembered,True
+3556,1995,The Battle over Citizen Kane,False
+3557,1995,Fiddlefest--Roberta Tzavaras and Her East Harlem Violin Program,False
+3558,1995,Hank Aaron: Chasing the Dream,False
+3559,1995,Troublesome Creek: A Midwestern,False
+3560,1995,Jim Dine: A Self-Portrait on the Walls,False
+3561,1995,The Living Sea,False
+3562,1995,Never Give Up: The 20th Century Odyssey of Herbert Zipper,False
+3563,1995,One Survivor Remembers,True
+3564,1995,The Shadow of Hate,False
+3565,1995,Apollo 13,True
+3566,1995,Crimson Tide,False
+3567,1995,Seven,False
+3568,1995,All Things Fair,False
+3569,1995,Antonia's Line,True
+3570,1995,Dust of Life,False
+3571,1995,O Quatrilho,False
+3572,1995,The Star Maker,False
+3573,1995,"My Family, Mi Familia",False
+3574,1995,Roommates,False
+3575,1995,The Postman (Il Postino),True
+3576,1995,The American President,False
+3577,1995,Pocahontas,True
+3578,1995,Sabrina,False
+3579,1995,Toy Story,False
+3580,1995,Unstrung Heroes,False
+3581,1995,Don Juan DeMarco,False
+3582,1995,The Chicken from Outer Space,False
+3583,1995,A Close Shave,True
+3584,1995,the end,False
+3585,1995,Gagarin,False
+3586,1995,Runaway Brain,False
+3587,1995,Brooms,False
+3588,1995,Duke of Groove,False
+3589,1995,Lieberman in Love,True
+3590,1995,Little Surprises,False
+3591,1995,Tuesday Morning Ride,False
+3592,1995,Waterworld,False
+3593,1995,Babe,True
+3594,1995,Sense and Sensibility,True
+3595,1996,The People vs. Larry Flynt,False
+3596,1996,Shine,True
+3597,1996,Jerry Maguire,True
+3598,1996,Primal Fear,False
+3599,1996,Ghosts of Mississippi,False
+3600,1996,Secrets & Lies,False
+3601,1996,Marvin's Room,False
+3602,1996,Fargo,True
+3603,1996,Breaking the Waves,False
+3604,1996,The Crucible,False
+3605,1996,The Mirror Has Two Faces,False
+3606,1996,The English Patient,True
+3607,1996,The Portrait of a Lady,False
+3608,1996,The Birdcage,False
+3609,1996,Hamlet,False
+3610,1996,William Shakespeare's Romeo & Juliet,False
+3611,1996,Fly Away Home,False
+3612,1996,Michael Collins,False
+3613,1996,Angels and Insects,False
+3614,1996,The Line King: The Al Hirschfeld Story,False
+3615,1996,Mandela,False
+3616,1996,Suzanne Farrell: Elusive Muse,False
+3617,1996,Tell the Truth and Run: George Seldes and the American Press,False
+3618,1996,When We Were Kings,True
+3619,1996,Breathing Lessons: The Life and Work of Mark O'Brien,True
+3620,1996,Cosmic Voyage,False
+3621,1996,An Essay on Matisse,False
+3622,1996,Special Effects,False
+3623,1996,The Wild Bunch: An Album in Montage,False
+3624,1996,A Chef in Love,False
+3625,1996,Kolya,True
+3626,1996,The Other Side of Sunday,False
+3627,1996,Prisoner of the Mountains,False
+3628,1996,Ridicule,False
+3629,1996,The Nutty Professor,True
+3630,1996,Star Trek: First Contact,False
+3631,1996,Sleepers,False
+3632,1996,Emma,True
+3633,1996,The First Wives Club,False
+3634,1996,The Hunchback of Notre Dame,False
+3635,1996,James and the Giant Peach,False
+3636,1996,The Preacher's Wife,False
+3637,1996,Up Close and Personal,False
+3638,1996,One Fine Day,False
+3639,1996,That Thing You Do!,False
+3640,1996,Evita,True
+3641,1996,Canhead,False
+3642,1996,La Salla,False
+3643,1996,Quest,True
+3644,1996,Wat's Pig,False
+3645,1996,"De Tripas, Corazon",False
+3646,1996,Dear Diary,True
+3647,1996,Ernst & Lyset,False
+3648,1996,Esposados,False
+3649,1996,Wordless,False
+3650,1996,The Rock,False
+3651,1996,Twister,False
+3652,1996,Daylight,False
+3653,1996,Eraser,False
+3654,1996,The Ghost and the Darkness,True
+3655,1996,Dragonheart,False
+3656,1996,Independence Day,True
+3657,1996,Sling Blade,True
+3658,1996,Trainspotting,False
+3659,1996,Lone Star,False
+3660,1997,The Apostle,False
+3661,1997,Ulee's Gold,False
+3662,1997,Wag the Dog,False
+3663,1997,As Good as It Gets,True
+3664,1997,Jackie Brown,False
+3665,1997,Amistad,False
+3666,1997,Boogie Nights,False
+3667,1997,Good Will Hunting,True
+3668,1997,The Wings of the Dove,False
+3669,1997,Afterglow,False
+3670,1997,Mrs. Brown,False
+3671,1997,L.A. Confidential,True
+3672,1997,In & Out,False
+3673,1997,Gattaca,False
+3674,1997,Kundun,False
+3675,1997,Titanic,True
+3676,1997,Oscar and Lucinda,False
+3677,1997,The Sweet Hereafter,False
+3678,1997,Ayn Rand: A Sense of Life,False
+3679,1997,Colors Straight Up,False
+3680,1997,4 Little Girls,False
+3681,1997,The Long Way Home,True
+3682,1997,Waco: The Rules of Engagement,False
+3683,1997,Alaska: Spirit of the Wild,False
+3684,1997,Amazon,False
+3685,1997,Daughter of the Bride,False
+3686,1997,Still Kicking: The Fabulous Palm Springs Follies,False
+3687,1997,A Story of Healing,True
+3688,1997,Air Force One,False
+3689,1997,Beyond Silence,False
+3690,1997,Character,True
+3691,1997,Four Days in September,False
+3692,1997,Secrets of the Heart,False
+3693,1997,The Thief,False
+3694,1997,Men in Black,True
+3695,1997,Anastasia,False
+3696,1997,The Full Monty,True
+3697,1997,My Best Friend's Wedding,False
+3698,1997,Hercules,False
+3699,1997,Con Air,False
+3700,1997,Famous Fred,False
+3701,1997,Geri's Game,True
+3702,1997,La Vieille Dame et les Pigeons (The Old Lady and the Pigeons),False
+3703,1997,The Mermaid,False
+3704,1997,Redux Riding Hood,False
+3705,1997,Dance Lexie Dance,False
+3706,1997,It's Good to Talk,False
+3707,1997,Sweethearts?,False
+3708,1997,Visas and Virtue,True
+3709,1997,Wolfgang,False
+3710,1997,Contact,False
+3711,1997,Face/Off,False
+3712,1997,The Fifth Element,False
+3713,1997,The Lost World: Jurassic Park,False
+3714,1997,Starship Troopers,False
+3715,1997,Donnie Brasco,False
+3716,1997,Deconstructing Harry,False
+3717,1998,Life Is Beautiful,True
+3718,1998,American History X,False
+3719,1998,Affliction,True
+3720,1998,A Civil Action,False
+3721,1998,The Truman Show,False
+3722,1998,A Simple Plan,False
+3723,1998,Central Station,False
+3724,1998,Shakespeare in Love,True
+3725,1998,One True Thing,False
+3726,1998,Hilary and Jackie,False
+3727,1998,Primary Colors,False
+3728,1998,Little Voice,False
+3729,1998,Pleasantville,False
+3730,1998,Saving Private Ryan,True
+3731,1998,The Thin Red Line,False
+3732,1998,Beloved,False
+3733,1998,Velvet Goldmine,False
+3734,1998,Dancemaker,False
+3735,1998,"The Farm: Angola, U.S.A.",False
+3736,1998,The Last Days,True
+3737,1998,Lenny Bruce: Swear to Tell the Truth,False
+3738,1998,Regret to Inform,False
+3739,1998,The Personals: Improvisations on Romance in the Golden Years,True
+3740,1998,A Place in the Land,False
+3741,1998,Sunrise over Tiananmen Square,False
+3742,1998,Out of Sight,False
+3743,1998,Children of Heaven,False
+3744,1998,The Grandfather,False
+3745,1998,Tango,False
+3746,1998,Elizabeth,True
+3747,1998,A Bug's Life,False
+3748,1998,Mulan,False
+3749,1998,Patch Adams,False
+3750,1998,Armageddon,False
+3751,1998,Quest for Camelot,False
+3752,1998,The Horse Whisperer,False
+3753,1998,Babe: Pig in the City,False
+3754,1998,The Prince of Egypt,True
+3755,1998,Bunny,True
+3756,1998,The Canterbury Tales,False
+3757,1998,Jolly Roger,False
+3758,1998,More,False
+3759,1998,When Life Departs,False
+3760,1998,Culture,False
+3761,1998,Election Night (Valgaften),True
+3762,1998,Holiday Romance,False
+3763,1998,La Carte Postale (The Postcard),False
+3764,1998,Victor,False
+3765,1998,The Mask of Zorro,False
+3766,1998,Mighty Joe Young,False
+3767,1998,What Dreams May Come,True
+3768,1998,Gods and Monsters,True
+3769,1998,Bulworth,False
+3770,1999,The Insider,False
+3771,1999,The Straight Story,False
+3772,1999,Sweet and Lowdown,False
+3773,1999,American Beauty,True
+3774,1999,The Hurricane,False
+3775,1999,The Cider House Rules,True
+3776,1999,Magnolia,False
+3777,1999,The Green Mile,False
+3778,1999,The Talented Mr. Ripley,False
+3779,1999,The Sixth Sense,False
+3780,1999,Tumbleweeds,False
+3781,1999,The End of the Affair,False
+3782,1999,Music of the Heart,False
+3783,1999,Boys Don't Cry,True
+3784,1999,"Girl, Interrupted",True
+3785,1999,Being John Malkovich,False
+3786,1999,Anna and the King,False
+3787,1999,Sleepy Hollow,True
+3788,1999,Snow Falling on Cedars,False
+3789,1999,Titus,False
+3790,1999,Topsy-Turvy,True
+3791,1999,Buena Vista Social Club,False
+3792,1999,Genghis Blues,False
+3793,1999,On the Ropes,False
+3794,1999,One Day in September,True
+3795,1999,Speaking in Strings,False
+3796,1999,Eyewitness,False
+3797,1999,King Gimp,True
+3798,1999,The Wildest Show in the South: The Angola Prison Rodeo,False
+3799,1999,The Matrix,True
+3800,1999,All about My Mother,True
+3801,1999,Caravan,False
+3802,1999,East-West,False
+3803,1999,Solomon and Gaenor,False
+3804,1999,Under the Sun,False
+3805,1999,Austin Powers: The Spy Who Shagged Me,False
+3806,1999,Bicentennial Man,False
+3807,1999,Life,False
+3808,1999,Angela's Ashes,False
+3809,1999,The Red Violin,True
+3810,1999,"South Park: Bigger, Longer & Uncut",False
+3811,1999,Toy Story 2,False
+3812,1999,Tarzan,True
+3813,1999,Humdrum,False
+3814,1999,My Grandmother Ironed the King's Shirts,False
+3815,1999,The Old Man and the Sea,True
+3816,1999,3 Misses,False
+3817,1999,When the Day Breaks,False
+3818,1999,"Bror, Min Bror (Teis and Nico)",False
+3819,1999,Killing Joe,False
+3820,1999,Kleingeld (Small Change),False
+3821,1999,Major and Minor Miracles,False
+3822,1999,My Mother Dreams the Satan's Disciples in New York,True
+3823,1999,The Mummy,False
+3824,1999,Star Wars Episode I: The Phantom Menace,False
+3825,1999,Fight Club,False
+3826,1999,Stuart Little,False
+3827,1999,Election,False
+3828,2000,Before Night Falls,False
+3829,2000,Gladiator,True
+3830,2000,Cast Away,False
+3831,2000,Quills,False
+3832,2000,The Contender,False
+3833,2000,Shadow of the Vampire,False
+3834,2000,Traffic,True
+3835,2000,Chocolat,False
+3836,2000,Requiem for a Dream,False
+3837,2000,You Can Count on Me,False
+3838,2000,Erin Brockovich,True
+3839,2000,Pollock,True
+3840,2000,Billy Elliot,False
+3841,2000,"Crouching Tiger, Hidden Dragon",True
+3842,2000,Vatel,False
+3843,2000,Malèna,False
+3844,2000,"O Brother, Where Art Thou?",False
+3845,2000,The Patriot,False
+3846,2000,102 Dalmatians,False
+3847,2000,Into the Arms of Strangers: Stories of the Kindertransport,True
+3848,2000,Legacy,False
+3849,2000,Long Night's Journey into Day,False
+3850,2000,Scottsboro: An American Tragedy,False
+3851,2000,Sound and Fury,False
+3852,2000,Big Mama,True
+3853,2000,Curtain Call,False
+3854,2000,Dolphins,False
+3855,2000,The Man on Lincoln's Nose,False
+3856,2000,On Tiptoe: Gentle Steps to Freedom,False
+3857,2000,Amores Perros,False
+3858,2000,Divided We Fall,False
+3859,2000,Everybody Famous!,False
+3860,2000,The Taste of Others,False
+3861,2000,The Cell,False
+3862,2000,Dr. Seuss' How the Grinch Stole Christmas,True
+3863,2000,Meet the Parents,False
+3864,2000,Dancer in the Dark,False
+3865,2000,The Emperor's New Groove,False
+3866,2000,Wonder Boys,True
+3867,2000,Father and Daughter,True
+3868,2000,The Periwig-Maker,False
+3869,2000,Rejected,False
+3870,2000,By Courier,False
+3871,2000,One Day Crossing,False
+3872,2000,Quiero Ser (I want to be...),True
+3873,2000,Seraglio,False
+3874,2000,A Soccer Story (Uma Historia de Futebol),False
+3875,2000,The Perfect Storm,False
+3876,2000,Space Cowboys,False
+3877,2000,U-571,True
+3878,2000,Hollow Man,False
+3879,2000,Almost Famous,True
+3880,2001,I Am Sam,False
+3881,2001,Ali,False
+3882,2001,Training Day,True
+3883,2001,In the Bedroom,False
+3884,2001,Iris,True
+3885,2001,Sexy Beast,False
+3886,2001,Monster's Ball,True
+3887,2001,Bridget Jones's Diary,False
+3888,2001,A Beautiful Mind,True
+3889,2001,Jimmy Neutron: Boy Genius,False
+3890,2001,Shrek,True
+3891,2001,Amélie,False
+3892,2001,Harry Potter and the Sorcerer's Stone,False
+3893,2001,Moulin Rouge,True
+3894,2001,The Lord of the Rings: The Fellowship of the Ring,True
+3895,2001,The Man Who Wasn't There,False
+3896,2001,The Affair of the Necklace,False
+3897,2001,Mulholland Drive,False
+3898,2001,Children Underground,False
+3899,2001,LaLee's Kin: The Legacy of Cotton,False
+3900,2001,Murder on a Sunday Morning,True
+3901,2001,Promises,False
+3902,2001,War Photographer,False
+3903,2001,Artists and Orphans: A True Drama,False
+3904,2001,Sing!,False
+3905,2001,Thoth,True
+3906,2001,Black Hawk Down,True
+3907,2001,Memento,False
+3908,2001,Elling,False
+3909,2001,Lagaan,False
+3910,2001,No Man's Land,True
+3911,2001,Son of the Bride,False
+3912,2001,A.I. Artificial Intelligence,False
+3913,2001,"Monsters, Inc.",True
+3914,2001,Kate & Leopold,False
+3915,2001,Vanilla Sky,False
+3916,2001,Fifty Percent Grey,False
+3917,2001,For the Birds,True
+3918,2001,Give Up Yer Aul Sins,False
+3919,2001,Strange Invaders,False
+3920,2001,Stubble Trouble,False
+3921,2001,the accountant,True
+3922,2001,Copy Shop,False
+3923,2001,Gregor's Greatest Invention,False
+3924,2001,A Man Thing (Meska Sprawa),False
+3925,2001,Speed for Thespians,False
+3926,2001,Pearl Harbor,True
+3927,2001,Ghost World,False
+3928,2001,Gosford Park,True
+3929,2001,The Royal Tenenbaums,False
+3930,2002,The Pianist,True
+3931,2002,The Quiet American,False
+3932,2002,Gangs of New York,False
+3933,2002,About Schmidt,False
+3934,2002,Adaptation,True
+3935,2002,Catch Me If You Can,False
+3936,2002,The Hours,True
+3937,2002,Unfaithful,False
+3938,2002,Far from Heaven,False
+3939,2002,Chicago,True
+3940,2002,Ice Age,False
+3941,2002,Lilo & Stitch,False
+3942,2002,Spirit: Stallion of the Cimarron,False
+3943,2002,Spirited Away,True
+3944,2002,Treasure Planet,False
+3945,2002,Road to Perdition,True
+3946,2002,Bowling for Columbine,True
+3947,2002,Daughter from Danang,False
+3948,2002,Prisoner of Paradise,False
+3949,2002,Spellbound,False
+3950,2002,Winged Migration,False
+3951,2002,The Collector of Bedford Street,False
+3952,2002,Mighty Times: The Legacy of Rosa Parks,False
+3953,2002,Twin Towers,True
+3954,2002,Why Can't We Be a Family Again?,False
+3955,2002,El Crimen del Padre Amaro,False
+3956,2002,Hero,False
+3957,2002,The Man without a Past,False
+3958,2002,Nowhere in Africa,True
+3959,2002,Zus & Zo,False
+3960,2002,Frida,True
+3961,2002,The Time Machine,False
+3962,2002,The Wild Thornberrys Movie,False
+3963,2002,8 Mile,True
+3964,2002,The Cathedral,False
+3965,2002,The ChubbChubbs!,True
+3966,2002,Das Rad,False
+3967,2002,Mike's New Car,False
+3968,2002,Mt. Head,False
+3969,2002,Fait D'Hiver,False
+3970,2002,I'll Wait for the Next One... (J'Attendrai Le Suivant...),False
+3971,2002,Inja (Dog),False
+3972,2002,Johnny Flynton,False
+3973,2002,This Charming Man (Der Er En Yndig Mand),True
+3974,2002,Spider-Man,False
+3975,2002,The Lord of the Rings: The Two Towers,True
+3976,2002,Minority Report,False
+3977,2002,Star Wars Episode II Attack of the Clones,False
+3978,2002,About a Boy,False
+3979,2002,My Big Fat Greek Wedding,False
+3980,2002,Talk to Her,True
+3981,2002,Y Tu Mamá También,False
+3982,2003,Pirates of the Caribbean: The Curse of the Black Pearl,False
+3983,2003,House of Sand and Fog,False
+3984,2003,Mystic River,True
+3985,2003,The Cooler,False
+3986,2003,21 Grams,False
+3987,2003,In America,False
+3988,2003,The Last Samurai,False
+3989,2003,Whale Rider,False
+3990,2003,Something's Gotta Give,False
+3991,2003,Monster,True
+3992,2003,Pieces of April,False
+3993,2003,Thirteen,False
+3994,2003,Cold Mountain,True
+3995,2003,Brother Bear,False
+3996,2003,Finding Nemo,True
+3997,2003,The Triplets of Belleville,False
+3998,2003,Girl with a Pearl Earring,False
+3999,2003,The Lord of the Rings: The Return of the King,True
+4000,2003,Seabiscuit,False
+4001,2003,City of God,False
+4002,2003,Master and Commander: The Far Side of the World,True
+4003,2003,Balseros,False
+4004,2003,Capturing the Friedmans,False
+4005,2003,The Fog of War,True
+4006,2003,My Architect,False
+4007,2003,The Weather Underground,False
+4008,2003,Asylum,False
+4009,2003,Chernobyl Heart,True
+4010,2003,Ferry Tales,False
+4011,2003,The Barbarian Invasions,True
+4012,2003,Evil,False
+4013,2003,The Twilight Samurai,False
+4014,2003,Twin Sisters,False
+4015,2003,Zelary,False
+4016,2003,Big Fish,False
+4017,2003,A Mighty Wind,False
+4018,2003,Boundin',False
+4019,2003,Destino,False
+4020,2003,Gone Nutty,False
+4021,2003,Harvie Krumpet,True
+4022,2003,Nibbles,False
+4023,2003,Die Rote Jacke (The Red Jacket),False
+4024,2003,Most (The Bridge),False
+4025,2003,Squash,False
+4026,2003,(A) Torzija [(A) Torsion],False
+4027,2003,Two Soldiers,True
+4028,2003,American Splendor,False
+4029,2003,Dirty Pretty Things,False
+4030,2003,Lost in Translation,True
+4031,2004,Hotel Rwanda,False
+4032,2004,Ray,True
+4033,2004,Collateral,False
+4034,2004,Million Dollar Baby,True
+4035,2004,Closer,False
+4036,2004,Being Julia,False
+4037,2004,Maria Full of Grace,False
+4038,2004,Vera Drake,False
+4039,2004,The Aviator,True
+4040,2004,Kinsey,False
+4041,2004,The Incredibles,True
+4042,2004,Shark Tale,False
+4043,2004,Shrek 2,False
+4044,2004,The Phantom of the Opera,False
+4045,2004,A Very Long Engagement,False
+4046,2004,House of Flying Daggers,False
+4047,2004,The Passion of the Christ,False
+4048,2004,Troy,False
+4049,2004,Born into Brothels,True
+4050,2004,The Story of the Weeping Camel,False
+4051,2004,Super Size Me,False
+4052,2004,Tupac: Resurrection,False
+4053,2004,Twist of Faith,False
+4054,2004,Autism Is a World,False
+4055,2004,The Children of Leningradsky,False
+4056,2004,Hardwood,False
+4057,2004,Mighty Times: The Children's March,True
+4058,2004,Sister Rose's Passion,False
+4059,2004,As It Is in Heaven,False
+4060,2004,The Chorus (Les Choristes),False
+4061,2004,Downfall,False
+4062,2004,The Sea Inside,True
+4063,2004,Yesterday,False
+4064,2004,Lemony Snicket's A Series of Unfortunate Events,True
+4065,2004,Finding Neverland,True
+4066,2004,Harry Potter and the Prisoner of Azkaban,False
+4067,2004,The Village,False
+4068,2004,The Motorcycle Diaries,True
+4069,2004,The Polar Express,False
+4070,2004,Birthday Boy,False
+4071,2004,Gopher Broke,False
+4072,2004,Guard Dog,False
+4073,2004,Lorenzo,False
+4074,2004,Ryan,True
+4075,2004,Everything in This Country Must,False
+4076,2004,Little Terrorist,False
+4077,2004,7:35 in the Morning (7:35 de la Mañana),False
+4078,2004,"Two Cars, One Night",False
+4079,2004,Wasp,True
+4080,2004,"I, Robot",False
+4081,2004,Spider-Man 2,True
+4082,2004,Before Sunset,False
+4083,2004,Sideways,True
+4084,2004,Eternal Sunshine of the Spotless Mind,True
+4085,2005,Capote,True
+4086,2005,"Good Night, and Good Luck.",False
+4087,2005,Syriana,True
+4088,2005,Cinderella Man,False
+4089,2005,A History of Violence,False
+4090,2005,Mrs. Henderson Presents,False
+4091,2005,Transamerica,False
+4092,2005,Pride & Prejudice,False
+4093,2005,North Country,False
+4094,2005,Walk the Line,True
+4095,2005,Junebug,False
+4096,2005,The Constant Gardener,True
+4097,2005,Howl's Moving Castle,False
+4098,2005,Tim Burton's Corpse Bride,False
+4099,2005,Wallace & Gromit in The Curse of the Were-Rabbit,True
+4100,2005,Harry Potter and the Goblet of Fire,False
+4101,2005,Memoirs of a Geisha,True
+4102,2005,Batman Begins,False
+4103,2005,The New World,False
+4104,2005,Charlie and the Chocolate Factory,False
+4105,2005,Brokeback Mountain,True
+4106,2005,Munich,False
+4107,2005,Darwin's Nightmare,False
+4108,2005,Enron: The Smartest Guys in the Room,False
+4109,2005,March of the Penguins,True
+4110,2005,Murderball,False
+4111,2005,Street Fight,False
+4112,2005,The Death of Kevin Carter: Casualty of the Bang Bang Club,False
+4113,2005,God Sleeps in Rwanda,False
+4114,2005,The Mushroom Club,False
+4115,2005,A Note of Triumph: The Golden Age of Norman Corwin,True
+4116,2005,Crash,True
+4117,2005,Don't Tell,False
+4118,2005,Joyeux Noël,False
+4119,2005,Paradise Now,False
+4120,2005,Sophie Scholl - The Final Days,False
+4121,2005,Tsotsi,True
+4122,2005,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",True
+4123,2005,Star Wars: Episode III Revenge of the Sith,False
+4124,2005,Hustle & Flow,True
+4125,2005,Badgered,False
+4126,2005,The Moon and the Son: An Imagined Conversation,True
+4127,2005,The Mysterious Geographic Explorations of Jasper Morello,False
+4128,2005,9,False
+4129,2005,One Man Band,False
+4130,2005,Ausreisser (The Runaway),False
+4131,2005,Cashback,False
+4132,2005,The Last Farm,False
+4133,2005,Our Time Is Up,False
+4134,2005,Six Shooter,True
+4135,2005,King Kong,True
+4136,2005,War of the Worlds,False
+4137,2005,Match Point,False
+4138,2005,The Squid and the Whale,False
+4139,2006,Blood Diamond,False
+4140,2006,Half Nelson,False
+4141,2006,Venus,False
+4142,2006,The Pursuit of Happyness,False
+4143,2006,The Last King of Scotland,True
+4144,2006,Little Miss Sunshine,True
+4145,2006,Little Children,False
+4146,2006,Volver,False
+4147,2006,Notes on a Scandal,False
+4148,2006,The Queen,True
+4149,2006,The Devil Wears Prada,False
+4150,2006,Dreamgirls,True
+4151,2006,Cars,False
+4152,2006,Happy Feet,True
+4153,2006,Monster House,False
+4154,2006,The Good Shepherd,False
+4155,2006,Pan's Labyrinth,True
+4156,2006,The Prestige,False
+4157,2006,The Black Dahlia,False
+4158,2006,Children of Men,False
+4159,2006,The Illusionist,False
+4160,2006,Curse of the Golden Flower,False
+4161,2006,Marie Antoinette,True
+4162,2006,The Departed,True
+4163,2006,United 93,False
+4164,2006,Deliver Us from Evil,False
+4165,2006,An Inconvenient Truth,True
+4166,2006,Iraq in Fragments,False
+4167,2006,Jesus Camp,False
+4168,2006,"My Country, My Country",False
+4169,2006,The Blood of Yingzhou District,True
+4170,2006,Recycled Life,False
+4171,2006,Rehearsing a Dream,False
+4172,2006,Two Hands,False
+4173,2006,After the Wedding,False
+4174,2006,Days of Glory (Indigènes),False
+4175,2006,The Lives of Others,True
+4176,2006,Water,False
+4177,2006,Apocalypto,False
+4178,2006,Click,False
+4179,2006,Babel,True
+4180,2006,The Good German,False
+4181,2006,The Danish Poet,True
+4182,2006,Lifted,False
+4183,2006,The Little Matchgirl,False
+4184,2006,Maestro,False
+4185,2006,No Time for Nuts,False
+4186,2006,Binta and the Great Idea (Binta Y La Gran Idea),False
+4187,2006,Éramos Pocos (One Too Many),False
+4188,2006,Helmer & Son,False
+4189,2006,The Saviour,False
+4190,2006,West Bank Story,True
+4191,2006,Flags of Our Fathers,False
+4192,2006,Letters from Iwo Jima,True
+4193,2006,Pirates of the Caribbean: Dead Man's Chest,True
+4194,2006,Poseidon,False
+4195,2006,Superman Returns,False
+4196,2006,Borat Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,False
+4197,2007,There Will Be Blood,True
+4198,2007,In the Valley of Elah,False
+4199,2007,Eastern Promises,False
+4200,2007,The Assassination of Jesse James by the Coward Robert Ford,False
+4201,2007,No Country for Old Men,True
+4202,2007,Charlie Wilson's War,False
+4203,2007,Into the Wild,False
+4204,2007,Away from Her,False
+4205,2007,La Vie en Rose,True
+4206,2007,The Savages,False
+4207,2007,I'm Not There,False
+4208,2007,American Gangster,False
+4209,2007,Gone Baby Gone,False
+4210,2007,Michael Clayton,True
+4211,2007,Persepolis,False
+4212,2007,Ratatouille,True
+4213,2007,Surf's Up,False
+4214,2007,Sweeney Todd The Demon Barber of Fleet Street,True
+4215,2007,The Diving Bell and the Butterfly,False
+4216,2007,Across the Universe,False
+4217,2007,Elizabeth: The Golden Age,True
+4218,2007,No End in Sight,False
+4219,2007,Operation Homecoming: Writing the Wartime Experience,False
+4220,2007,Sicko,False
+4221,2007,Taxi to the Dark Side,True
+4222,2007,War/Dance,False
+4223,2007,Freeheld,True
+4224,2007,La Corona (The Crown),False
+4225,2007,Salim Baba,False
+4226,2007,Sari's Mother,False
+4227,2007,The Bourne Ultimatum,True
+4228,2007,Beaufort,False
+4229,2007,The Counterfeiters,True
+4230,2007,Katyn,False
+4231,2007,Mongol,False
+4232,2007,12,False
+4233,2007,Norbit,False
+4234,2007,Pirates of the Caribbean: At World's End,False
+4235,2007,Atonement,True
+4236,2007,The Kite Runner,False
+4237,2007,3:10 to Yuma,False
+4238,2007,Once,True
+4239,2007,Enchanted,False
+4240,2007,August Rush,False
+4241,2007,I Met the Walrus,False
+4242,2007,Madame Tutli-Putli,False
+4243,2007,Même les Pigeons Vont au Paradis (Even Pigeons Go to Heaven),False
+4244,2007,My Love (Moya Lyubov),False
+4245,2007,Peter & the Wolf,True
+4246,2007,At Night,False
+4247,2007,Il Supplente (The Substitute),False
+4248,2007,Le Mozart des Pickpockets (The Mozart of Pickpockets),True
+4249,2007,Tanghi Argentini,False
+4250,2007,The Tonto Woman,False
+4251,2007,Transformers,False
+4252,2007,The Golden Compass,True
+4253,2007,Juno,True
+4254,2007,Lars and the Real Girl,False
+4255,2008,The Visitor,False
+4256,2008,Frost/Nixon,False
+4257,2008,Milk,True
+4258,2008,The Wrestler,False
+4259,2008,Tropic Thunder,False
+4260,2008,Doubt,False
+4261,2008,The Dark Knight,True
+4262,2008,Revolutionary Road,False
+4263,2008,Rachel Getting Married,False
+4264,2008,Changeling,False
+4265,2008,Frozen River,False
+4266,2008,The Reader,True
+4267,2008,Vicky Cristina Barcelona,True
+4268,2008,Bolt,False
+4269,2008,Kung Fu Panda,False
+4270,2008,WALL-E,True
+4271,2008,The Curious Case of Benjamin Button,True
+4272,2008,Slumdog Millionaire,True
+4273,2008,Australia,False
+4274,2008,The Duchess,True
+4275,2008,The Betrayal (Nerakhoon),False
+4276,2008,Encounters at the End of the World,False
+4277,2008,The Garden,False
+4278,2008,Man on Wire,True
+4279,2008,Trouble the Water,False
+4280,2008,The Conscience of Nhem En,False
+4281,2008,The Final Inch,False
+4282,2008,Smile Pinki,True
+4283,2008,The Witness - From the Balcony of Room 306,False
+4284,2008,The Baader Meinhof Complex,False
+4285,2008,The Class,False
+4286,2008,Departures,True
+4287,2008,Revanche,False
+4288,2008,Waltz with Bashir,False
+4289,2008,Hellboy II: The Golden Army,False
+4290,2008,Defiance,False
+4291,2008,La Maison en Petits Cubes,True
+4292,2008,Lavatory - Lovestory,False
+4293,2008,Oktapodi,False
+4294,2008,Presto,False
+4295,2008,This Way Up,False
+4296,2008,Auf der Strecke (On the Line),False
+4297,2008,Manon on the Asphalt,False
+4298,2008,New Boy,False
+4299,2008,The Pig,False
+4300,2008,Spielzeugland (Toyland),True
+4301,2008,Iron Man,False
+4302,2008,Wanted,False
+4303,2008,Happy-Go-Lucky,False
+4304,2008,In Bruges,False
+4305,2009,Crazy Heart,True
+4306,2009,Up in the Air,False
+4307,2009,A Single Man,False
+4308,2009,Invictus,False
+4309,2009,The Messenger,False
+4310,2009,The Last Station,False
+4311,2009,The Lovely Bones,False
+4312,2009,Inglourious Basterds,True
+4313,2009,The Blind Side,True
+4314,2009,An Education,False
+4315,2009,Julie & Julia,False
+4316,2009,Nine,False
+4317,2009,Precious: Based on the Novel 'Push' by Sapphire,True
+4318,2009,Coraline,False
+4319,2009,Fantastic Mr. Fox,False
+4320,2009,The Princess and the Frog,False
+4321,2009,The Secret of Kells,False
+4322,2009,Up,True
+4323,2009,Avatar,True
+4324,2009,The Imaginarium of Doctor Parnassus,False
+4325,2009,Sherlock Holmes,False
+4326,2009,Harry Potter and the Half-Blood Prince,False
+4327,2009,The White Ribbon,False
+4328,2009,Bright Star,False
+4329,2009,Coco before Chanel,False
+4330,2009,The Young Victoria,True
+4331,2009,The Hurt Locker,True
+4332,2009,Burma VJ,False
+4333,2009,The Cove,True
+4334,2009,"Food, Inc.",False
+4335,2009,The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers,False
+4336,2009,Which Way Home,False
+4337,2009,China's Unnatural Disaster: The Tears of Sichuan Province,False
+4338,2009,The Last Campaign of Governor Booth Gardner,False
+4339,2009,The Last Truck: Closing of a GM Plant,False
+4340,2009,Music by Prudence,True
+4341,2009,Rabbit à la Berlin,False
+4342,2009,District 9,False
+4343,2009,Ajami,False
+4344,2009,The Milk of Sorrow,False
+4345,2009,A Prophet,False
+4346,2009,The Secret in Their Eyes,True
+4347,2009,Il Divo,False
+4348,2009,Star Trek,True
+4349,2009,Paris 36,False
+4350,2009,A Serious Man,False
+4351,2009,French Roast,False
+4352,2009,Granny O'Grimm's Sleeping Beauty,False
+4353,2009,The Lady and the Reaper (La Dama y la Muerte),False
+4354,2009,Logorama,True
+4355,2009,A Matter of Loaf and Death,False
+4356,2009,The Door,False
+4357,2009,Instead of Abracadabra,False
+4358,2009,Kavi,False
+4359,2009,Miracle Fish,False
+4360,2009,The New Tenants,True
+4361,2009,Transformers: Revenge of the Fallen,False
+4362,2009,In the Loop,False
+4363,2010,Biutiful,False
+4364,2010,True Grit,False
+4365,2010,The King's Speech,True
+4366,2010,127 Hours,False
+4367,2010,The Fighter,True
+4368,2010,Winter's Bone,False
+4369,2010,The Town,False
+4370,2010,The Kids Are All Right,False
+4371,2010,Rabbit Hole,False
+4372,2010,Black Swan,True
+4373,2010,Blue Valentine,False
+4374,2010,Animal Kingdom,False
+4375,2010,How to Train Your Dragon,False
+4376,2010,The Illusionist,False
+4377,2010,Toy Story 3,True
+4378,2010,Alice in Wonderland,True
+4379,2010,Harry Potter and the Deathly Hallows Part 1,False
+4380,2010,Inception,True
+4381,2010,I Am Love,False
+4382,2010,The Tempest,False
+4383,2010,Exit through the Gift Shop,False
+4384,2010,Gasland,False
+4385,2010,Inside Job,True
+4386,2010,Restrepo,False
+4387,2010,Waste Land,False
+4388,2010,Killing in the Name,False
+4389,2010,Poster Girl,False
+4390,2010,Strangers No More,True
+4391,2010,Sun Come Up,False
+4392,2010,The Warriors of Qiugang,False
+4393,2010,The Social Network,True
+4394,2010,Dogtooth,False
+4395,2010,In a Better World,True
+4396,2010,Incendies,False
+4397,2010,Outside the Law (Hors-la-loi),False
+4398,2010,Barney's Version,False
+4399,2010,The Way Back,False
+4400,2010,The Wolfman,True
+4401,2010,Country Strong,False
+4402,2010,Tangled,False
+4403,2010,Day & Night,False
+4404,2010,The Gruffalo,False
+4405,2010,Let's Pollute,False
+4406,2010,The Lost Thing,True
+4407,2010,"Madagascar, carnet de voyage (Madagascar, a Journey Diary)",False
+4408,2010,The Confession,False
+4409,2010,The Crush,False
+4410,2010,God of Love,True
+4411,2010,Na Wewe,False
+4412,2010,Wish 143,False
+4413,2010,Tron: Legacy,False
+4414,2010,Unstoppable,False
+4415,2010,Salt,False
+4416,2010,Hereafter,False
+4417,2010,Iron Man 2,False
+4418,2010,Another Year,False
+4419,2011,A Better Life,False
+4420,2011,The Artist,True
+4421,2011,Tinker Tailor Soldier Spy,False
+4422,2011,Moneyball,False
+4423,2011,My Week with Marilyn,False
+4424,2011,Warrior,False
+4425,2011,Beginners,True
+4426,2011,Extremely Loud & Incredibly Close,False
+4427,2011,Albert Nobbs,False
+4428,2011,The Iron Lady,True
+4429,2011,Bridesmaids,False
+4430,2011,The Help,True
+4431,2011,A Cat in Paris,False
+4432,2011,Chico & Rita,False
+4433,2011,Kung Fu Panda 2,False
+4434,2011,Puss in Boots,False
+4435,2011,Rango,True
+4436,2011,Harry Potter and the Deathly Hallows Part 2,False
+4437,2011,Hugo,True
+4438,2011,War Horse,False
+4439,2011,The Tree of Life,False
+4440,2011,Anonymous,False
+4441,2011,Jane Eyre,False
+4442,2011,W.E.,False
+4443,2011,Hell and Back Again,False
+4444,2011,If a Tree Falls: A Story of the Earth Liberation Front,False
+4445,2011,Paradise Lost 3: Purgatory,False
+4446,2011,Pina,False
+4447,2011,Undefeated,True
+4448,2011,The Barber of Birmingham: Foot Soldier of the Civil Rights Movement,False
+4449,2011,God Is the Bigger Elvis,False
+4450,2011,Incident in New Baghdad,False
+4451,2011,Saving Face,True
+4452,2011,The Tsunami and the Cherry Blossom,False
+4453,2011,The Girl with the Dragon Tattoo,True
+4454,2011,Bullhead,False
+4455,2011,Footnote,False
+4456,2011,In Darkness,False
+4457,2011,Monsieur Lazhar,False
+4458,2011,A Separation,True
+4459,2011,The Adventures of Tintin,False
+4460,2011,The Muppets,True
+4461,2011,Rio,False
+4462,2011,Dimanche/Sunday,False
+4463,2011,The Fantastic Flying Books of Mr. Morris Lessmore,True
+4464,2011,La Luna,False
+4465,2011,A Morning Stroll,False
+4466,2011,Wild Life,False
+4467,2011,Pentecost,False
+4468,2011,Raju,False
+4469,2011,The Shore,True
+4470,2011,Time Freak,False
+4471,2011,Tuba Atlantic,False
+4472,2011,Drive,False
+4473,2011,Transformers: Dark of the Moon,False
+4474,2011,Real Steel,False
+4475,2011,Rise of the Planet of the Apes,False
+4476,2011,The Descendants,True
+4477,2011,The Ides of March,False
+4478,2011,Margin Call,False
+4479,2011,Midnight in Paris,True
+4480,2012,Lincoln,True
+4481,2012,The Master,False
+4482,2012,Flight,False
+4483,2012,Django Unchained,True
+4484,2012,Silver Linings Playbook,True
+4485,2012,Beasts of the Southern Wild,False
+4486,2012,The Impossible,False
+4487,2012,Les Misérables,True
+4488,2012,The Sessions,False
+4489,2012,Brave,True
+4490,2012,Frankenweenie,False
+4491,2012,ParaNorman,False
+4492,2012,The Pirates! Band of Misfits,False
+4493,2012,Wreck-It Ralph,False
+4494,2012,Life of Pi,True
+4495,2012,Anna Karenina,True
+4496,2012,Mirror Mirror,False
+4497,2012,Snow White and the Huntsman,False
+4498,2012,5 Broken Cameras,False
+4499,2012,The Gatekeepers,False
+4500,2012,How to Survive a Plague,False
+4501,2012,The Invisible War,False
+4502,2012,Searching for Sugar Man,True
+4503,2012,Inocente,True
+4504,2012,Kings Point,False
+4505,2012,Mondays at Racine,False
+4506,2012,Open Heart,False
+4507,2012,Redemption,False
+4508,2012,Argo,True
+4509,2012,Amour,True
+4510,2012,Kon-Tiki,False
+4511,2012,No,False
+4512,2012,A Royal Affair,False
+4513,2012,War Witch,False
+4514,2012,Hitchcock,False
+4515,2012,The Hobbit: An Unexpected Journey,False
+4516,2012,Chasing Ice,False
+4517,2012,Ted,False
+4518,2012,Skyfall,True
+4519,2012,Adam and Dog,False
+4520,2012,Fresh Guacamole,False
+4521,2012,Head over Heels,False
+4522,2012,"Maggie Simpson in ""The Longest Daycare""",False
+4523,2012,Paperman,True
+4524,2012,Asad,False
+4525,2012,Buzkashi Boys,False
+4526,2012,Curfew,True
+4527,2012,Death of a Shadow (Dood van een Schaduw),False
+4528,2012,Henry,False
+4529,2012,Zero Dark Thirty,True
+4530,2012,Marvel's The Avengers,False
+4531,2012,Prometheus,False
+4532,2012,Moonrise Kingdom,False
+4533,2013,American Hustle,False
+4534,2013,Nebraska,False
+4535,2013,The Wolf of Wall Street,False
+4536,2013,Dallas Buyers Club,True
+4537,2013,Captain Phillips,False
+4538,2013,Blue Jasmine,True
+4539,2013,Philomena,False
+4540,2013,August: Osage County,False
+4541,2013,12 Years a Slave,True
+4542,2013,The Croods,False
+4543,2013,Despicable Me 2,False
+4544,2013,Ernest & Celestine,False
+4545,2013,Frozen,True
+4546,2013,The Wind Rises,False
+4547,2013,The Grandmaster,False
+4548,2013,Gravity,True
+4549,2013,Inside Llewyn Davis,False
+4550,2013,Prisoners,False
+4551,2013,The Great Gatsby,True
+4552,2013,The Invisible Woman,False
+4553,2013,The Act of Killing,False
+4554,2013,Cutie and the Boxer,False
+4555,2013,Dirty Wars,False
+4556,2013,The Square,False
+4557,2013,20 Feet from Stardom,True
+4558,2013,CaveDigger,False
+4559,2013,Facing Fear,False
+4560,2013,Karama Has No Walls,False
+4561,2013,The Lady in Number 6: Music Saved My Life,True
+4562,2013,Prison Terminal: The Last Days of Private Jack Hall,False
+4563,2013,The Broken Circle Breakdown,False
+4564,2013,The Great Beauty,True
+4565,2013,The Hunt,False
+4566,2013,The Missing Picture,False
+4567,2013,Omar,False
+4568,2013,Jackass Presents: Bad Grandpa,False
+4569,2013,The Lone Ranger,False
+4570,2013,The Book Thief,False
+4571,2013,Saving Mr. Banks,False
+4572,2013,Alone Yet Not Alone,False
+4573,2013,Mandela: Long Walk to Freedom,False
+4574,2013,Feral,False
+4575,2013,Get a Horse!,False
+4576,2013,Mr. Hublot,True
+4577,2013,Possessions,False
+4578,2013,Room on the Broom,False
+4579,2013,Aquel No Era Yo (That Wasn't Me),False
+4580,2013,Avant Que De Tout Perdre (Just before Losing Everything),False
+4581,2013,Helium,True
+4582,2013,Pitääkö Mun Kaikki Hoitaa? (Do I Have to Take Care of Everything?),False
+4583,2013,The Voorman Problem,False
+4584,2013,All Is Lost,False
+4585,2013,The Hobbit: The Desolation of Smaug,False
+4586,2013,Lone Survivor,False
+4587,2013,Iron Man 3,False
+4588,2013,Star Trek Into Darkness,False
+4589,2013,Before Midnight,False
+4590,2013,Her,True
+4591,2014,Foxcatcher,False
+4592,2014,The Theory of Everything,True
+4593,2014,The Judge,False
+4594,2014,Whiplash,True
+4595,2014,"Two Days, One Night",False
+4596,2014,Still Alice,True
+4597,2014,Gone Girl,False
+4598,2014,Wild,False
+4599,2014,Boyhood,True
+4600,2014,Into the Woods,False
+4601,2014,Big Hero 6,True
+4602,2014,The Boxtrolls,False
+4603,2014,How to Train Your Dragon 2,False
+4604,2014,Song of the Sea,False
+4605,2014,The Tale of the Princess Kaguya,False
+4606,2014,Birdman or (The Unexpected Virtue of Ignorance),True
+4607,2014,Mr. Turner,False
+4608,2014,Unbroken,False
+4609,2014,The Grand Budapest Hotel,True
+4610,2014,Inherent Vice,False
+4611,2014,Maleficent,False
+4612,2014,CitizenFour,True
+4613,2014,Finding Vivian Maier,False
+4614,2014,Last Days in Vietnam,False
+4615,2014,The Salt of the Earth,False
+4616,2014,Virunga,False
+4617,2014,Crisis Hotline: Veterans Press 1,True
+4618,2014,Joanna,False
+4619,2014,Our Curse,False
+4620,2014,The Reaper (La Parka),False
+4621,2014,White Earth,False
+4622,2014,Ida,True
+4623,2014,Leviathan,False
+4624,2014,Tangerines,False
+4625,2014,Timbuktu,False
+4626,2014,Wild Tales,False
+4627,2014,Guardians of the Galaxy,False
+4628,2014,The Lego Movie,False
+4629,2014,Selma,True
+4630,2014,Beyond the Lights,False
+4631,2014,Glen Campbell...I'll Be Me,False
+4632,2014,Begin Again,False
+4633,2014,The Bigger Picture,False
+4634,2014,The Dam Keeper,False
+4635,2014,Feast,True
+4636,2014,Me and My Moulton,False
+4637,2014,A Single Life,False
+4638,2014,Aya,False
+4639,2014,Boogaloo and Graham,False
+4640,2014,Butter Lamp (La Lampe Au Beurre De Yak),False
+4641,2014,Parvaneh,False
+4642,2014,The Phone Call,True
+4643,2014,American Sniper,True
+4644,2014,The Hobbit: The Battle of the Five Armies,False
+4645,2014,Captain America: The Winter Soldier,False
+4646,2014,Dawn of the Planet of the Apes,False
+4647,2014,Interstellar,True
+4648,2014,X-Men: Days of Future Past,False
+4649,2014,The Imitation Game,True
+4650,2014,Nightcrawler,False
+4651,2015,Trumbo,False
+4652,2015,The Martian,False
+4653,2015,The Revenant,True
+4654,2015,Steve Jobs,False
+4655,2015,Bridge of Spies,True
+4656,2015,Creed,False
+4657,2015,Carol,False
+4658,2015,Room,True
+4659,2015,Joy,False
+4660,2015,45 Years,False
+4661,2015,Brooklyn,False
+4662,2015,The Danish Girl,True
+4663,2015,Anomalisa,False
+4664,2015,Boy and the World,False
+4665,2015,Inside Out,True
+4666,2015,Shaun the Sheep Movie,False
+4667,2015,When Marnie Was There,False
+4668,2015,Sicario,False
+4669,2015,Cinderella,False
+4670,2015,Mad Max: Fury Road,True
+4671,2015,Amy,True
+4672,2015,Cartel Land,False
+4673,2015,The Look of Silence,False
+4674,2015,"What Happened, Miss Simone?",False
+4675,2015,Winter on Fire: Ukraine's Fight for Freedom,False
+4676,2015,Body Team 12,False
+4677,2015,"Chau, beyond the Lines",False
+4678,2015,Claude Lanzmann: Spectres of the Shoah,False
+4679,2015,A Girl in the River: The Price of Forgiveness,True
+4680,2015,Last Day of Freedom,False
+4681,2015,Star Wars: The Force Awakens,False
+4682,2015,Embrace of the Serpent,False
+4683,2015,Mustang,False
+4684,2015,Son of Saul,True
+4685,2015,Theeb,False
+4686,2015,A War,False
+4687,2015,The 100-Year-Old Man Who Climbed out the Window and Disappeared,False
+4688,2015,The Hateful Eight,True
+4689,2015,Fifty Shades of Grey,False
+4690,2015,Racing Extinction,False
+4691,2015,Youth,False
+4692,2015,The Hunting Ground,False
+4693,2015,Spectre,True
+4694,2015,Spotlight,True
+4695,2015,Bear Story,True
+4696,2015,Prologue,False
+4697,2015,Sanjay's Super Team,False
+4698,2015,We Can't Live without Cosmos,False
+4699,2015,World of Tomorrow,False
+4700,2015,Ave Maria,False
+4701,2015,Day One,False
+4702,2015,Everything Will Be Okay (Alles Wird Gut),False
+4703,2015,Shok,False
+4704,2015,Stutterer,True
+4705,2015,Ex Machina,True
+4706,2015,The Big Short,True
+4707,2015,Straight Outta Compton,False
+4708,2016,Manchester by the Sea,True
+4709,2016,Captain Fantastic,False
+4710,2016,Moonlight,True
+4711,2016,Hell or High Water,False
+4712,2016,Lion,False
+4713,2016,Nocturnal Animals,False
+4714,2016,Elle,False
+4715,2016,Loving,False
+4716,2016,Jackie,False
+4717,2016,La La Land,True
+4718,2016,Florence Foster Jenkins,False
+4719,2016,Fences,True
+4720,2016,Hidden Figures,False
+4721,2016,Kubo and the Two Strings,False
+4722,2016,Moana,False
+4723,2016,My Life as a Zucchini,False
+4724,2016,The Red Turtle,False
+4725,2016,Zootopia,True
+4726,2016,Silence,False
+4727,2016,Allied,False
+4728,2016,Fantastic Beasts and Where to Find Them,True
+4729,2016,Fire at Sea,False
+4730,2016,I Am Not Your Negro,False
+4731,2016,"Life, Animated",False
+4732,2016,O.J.: Made in America,True
+4733,2016,13th,False
+4734,2016,Extremis,False
+4735,2016,4.1 Miles,False
+4736,2016,Joe's Violin,False
+4737,2016,Watani: My Homeland,False
+4738,2016,The White Helmets,True
+4739,2016,Hacksaw Ridge,True
+4740,2016,Land of Mine,False
+4741,2016,A Man Called Ove,False
+4742,2016,The Salesman,True
+4743,2016,Tanna,False
+4744,2016,Toni Erdmann,False
+4745,2016,Star Trek Beyond,False
+4746,2016,Suicide Squad,True
+4747,2016,Passengers,False
+4748,2016,Trolls,False
+4749,2016,Jim: The James Foley Story,False
+4750,2016,"Hail, Caesar!",False
+4751,2016,Blind Vaysha,False
+4752,2016,Borrowed Time,False
+4753,2016,Pear Cider and Cigarettes,False
+4754,2016,Pearl,False
+4755,2016,Piper,True
+4756,2016,Ennemis Intérieurs,False
+4757,2016,La Femme et le TGV,False
+4758,2016,Silent Nights,False
+4759,2016,Sing,True
+4760,2016,Timecode,False
+4761,2016,Arrival,True
+4762,2016,Deepwater Horizon,False
+4763,2016,Sully,False
+4764,2016,Rogue One: A Star Wars Story,False
+4765,2016,13 Hours: The Secret Soldiers of Benghazi,False
+4766,2016,Doctor Strange,False
+4767,2016,The Jungle Book,True
+4768,2016,The Lobster,False
+4769,2016,20th Century Women,False
+4770,2017,Darkest Hour,True
+4771,2017,"Roman J. Israel, Esq.",False
+4772,2017,The Florida Project,False
+4773,2017,All the Money in the World,False
+4774,2017,"Three Billboards outside Ebbing, Missouri",True
+4775,2017,Lady Bird,False
+4776,2017,The Post,False
+4777,2017,Mudbound,False
+4778,2017,"I, Tonya",True
+4779,2017,The Boss Baby,False
+4780,2017,The Breadwinner,False
+4781,2017,Coco,True
+4782,2017,Ferdinand,False
+4783,2017,Loving Vincent,False
+4784,2017,Blade Runner 2049,True
+4785,2017,Beauty and the Beast,False
+4786,2017,Phantom Thread,True
+4787,2017,Victoria & Abdul,False
+4788,2017,The Shape of Water,True
+4789,2017,Abacus: Small Enough to Jail,False
+4790,2017,Faces Places,False
+4791,2017,Icarus,True
+4792,2017,Last Men in Aleppo,False
+4793,2017,Strong Island,False
+4794,2017,Edith+Eddie,False
+4795,2017,Heaven Is a Traffic Jam on the 405,True
+4796,2017,Heroin(e),False
+4797,2017,Knife Skills,False
+4798,2017,Traffic Stop,False
+4799,2017,Baby Driver,False
+4800,2017,Dunkirk,True
+4801,2017,A Fantastic Woman,True
+4802,2017,The Insult,False
+4803,2017,Loveless,False
+4804,2017,On Body and Soul,False
+4805,2017,The Square,False
+4806,2017,Wonder,False
+4807,2017,Star Wars: The Last Jedi,False
+4808,2017,Marshall,False
+4809,2017,The Greatest Showman,False
+4810,2017,Dear Basketball,True
+4811,2017,Garden Party,False
+4812,2017,Lou,False
+4813,2017,Negative Space,False
+4814,2017,Revolting Rhymes,False
+4815,2017,DeKalb Elementary,False
+4816,2017,The Eleven O'Clock,False
+4817,2017,My Nephew Emmett,False
+4818,2017,The Silent Child,True
+4819,2017,Watu Wote/All of Us,False
+4820,2017,Guardians of the Galaxy Vol. 2,False
+4821,2017,Kong: Skull Island,False
+4822,2017,War for the Planet of the Apes,False
+4823,2017,Call Me by Your Name,True
+4824,2017,The Disaster Artist,False
+4825,2017,Logan,False
+4826,2017,Molly's Game,False
+4827,2017,The Big Sick,False
+4828,2017,Get Out,True
+4829,2018,At Eternity's Gate,False
+4830,2018,Bohemian Rhapsody,True
+4831,2018,Green Book,True
+4832,2018,Can You Ever Forgive Me?,False
+4833,2018,The Wife,False
+4834,2018,The Favourite,True
+4835,2018,If Beale Street Could Talk,True
+4836,2018,Incredibles 2,False
+4837,2018,Isle of Dogs,False
+4838,2018,Mirai,False
+4839,2018,Ralph Breaks the Internet,False
+4840,2018,Spider-Man: Into the Spider-Verse,True
+4841,2018,Cold War,False
+4842,2018,Never Look Away,False
+4843,2018,Roma,True
+4844,2018,The Ballad of Buster Scruggs,False
+4845,2018,Black Panther,True
+4846,2018,Mary Poppins Returns,False
+4847,2018,Mary Queen of Scots,False
+4848,2018,Free Solo,True
+4849,2018,"Hale County This Morning, This Evening",False
+4850,2018,Minding the Gap,False
+4851,2018,Of Fathers and Sons,False
+4852,2018,RBG,False
+4853,2018,Black Sheep,False
+4854,2018,End Game,False
+4855,2018,Lifeboat,False
+4856,2018,A Night at The Garden,False
+4857,2018,Period. End of Sentence.,True
+4858,2018,Capernaum,False
+4859,2018,Shoplifters,False
+4860,2018,Border,False
+4861,2018,Vice,True
+4862,2018,A Star Is Born,True
+4863,2018,Animal Behaviour,False
+4864,2018,Bao,True
+4865,2018,Late Afternoon,False
+4866,2018,One Small Step,False
+4867,2018,Weekends,False
+4868,2018,Detainment,False
+4869,2018,Fauve,False
+4870,2018,Marguerite,False
+4871,2018,Mother,False
+4872,2018,Skin,True
+4873,2018,A Quiet Place,False
+4874,2018,Avengers: Infinity War,False
+4875,2018,Christopher Robin,False
+4876,2018,First Man,True
+4877,2018,Ready Player One,False
+4878,2018,Solo: A Star Wars Story,False
+4879,2018,BlacKkKlansman,True
+4880,2018,First Reformed,False
+4881,2019,Pain and Glory,False
+4882,2019,Joker,True
+4883,2019,The Two Popes,False
+4884,2019,A Beautiful Day in the Neighborhood,False
+4885,2019,The Irishman,False
+4886,2019,Once upon a Time...in Hollywood,True
+4887,2019,Harriet,False
+4888,2019,Judy,True
+4889,2019,Richard Jewell,False
+4890,2019,Marriage Story,True
+4891,2019,How to Train Your Dragon: The Hidden World,False
+4892,2019,I Lost My Body,False
+4893,2019,Klaus,False
+4894,2019,Missing Link,False
+4895,2019,Toy Story 4,True
+4896,2019,The Lighthouse,False
+4897,2019,1917,True
+4898,2019,Little Women,True
+4899,2019,Parasite,True
+4900,2019,American Factory,True
+4901,2019,The Cave,False
+4902,2019,The Edge of Democracy,False
+4903,2019,For Sama,False
+4904,2019,Honeyland,False
+4905,2019,In the Absence,False
+4906,2019,Learning to Skateboard in a Warzone (If You're a Girl),True
+4907,2019,Life Overtakes Me,False
+4908,2019,St. Louis Superman,False
+4909,2019,Walk Run Cha-Cha,False
+4910,2019,Ford v Ferrari,True
+4911,2019,Corpus Christi,False
+4912,2019,Les Misérables,False
+4913,2019,Bombshell,True
+4914,2019,Maleficent: Mistress of Evil,False
+4915,2019,Star Wars: The Rise of Skywalker,False
+4916,2019,Rocketman,True
+4917,2019,Breakthrough,False
+4918,2019,Frozen II,False
+4919,2019,Dcera (Daughter),False
+4920,2019,Hair Love,True
+4921,2019,Kitbull,False
+4922,2019,Memorable,False
+4923,2019,Sister,False
+4924,2019,Brotherhood,False
+4925,2019,Nefta Football Club,False
+4926,2019,The Neighbors' Window,True
+4927,2019,Saria,False
+4928,2019,A Sister,False
+4929,2019,Ad Astra,False
+4930,2019,Avengers: Endgame,False
+4931,2019,The Lion King,False
+4932,2019,Jojo Rabbit,True
+4933,2019,Knives Out,False
+4934,2020,The Father,True
+4935,2020,The Trial of the Chicago 7,False
+4936,2020,Judas and the Black Messiah,True
+4937,2020,One Night in Miami...,False
+4938,2020,The United States vs. Billie Holiday,False
+4939,2020,Pieces of a Woman,False
+4940,2020,Nomadland,True
+4941,2020,Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan,False
+4942,2020,Hillbilly Elegy,False
+4943,2020,Minari,True
+4944,2020,Onward,False
+4945,2020,Over the Moon,False
+4946,2020,A Shaun the Sheep Movie: Farmageddon,False
+4947,2020,Soul,True
+4948,2020,Wolfwalkers,False
+4949,2020,Mank,True
+4950,2020,News of the World,False
+4951,2020,Emma,False
+4952,2020,Ma Rainey's Black Bottom,True
+4953,2020,Mulan,False
+4954,2020,Pinocchio,False
+4955,2020,Collective,False
+4956,2020,Crip Camp,False
+4957,2020,The Mole Agent,False
+4958,2020,My Octopus Teacher,True
+4959,2020,Time,False
+4960,2020,Colette,True
+4961,2020,A Concerto Is a Conversation,False
+4962,2020,Do Not Split,False
+4963,2020,Hunger Ward,False
+4964,2020,A Love Song for Latasha,False
+4965,2020,Sound of Metal,True
+4966,2020,Another Round,True
+4967,2020,Better Days,False
+4968,2020,The Man Who Sold His Skin,False
+4969,2020,"Quo Vadis, Aida?",False
+4970,2020,Da 5 Bloods,False
+4971,2020,Eurovision Song Contest: The Story of Fire Saga,False
+4972,2020,The Life Ahead (La Vita Davanti a Se),False
+4973,2020,Burrow,False
+4974,2020,Genius Loci,False
+4975,2020,If Anything Happens I Love You,True
+4976,2020,Opera,False
+4977,2020,Yes-People,False
+4978,2020,Feeling Through,False
+4979,2020,The Letter Room,False
+4980,2020,The Present,False
+4981,2020,Two Distant Strangers,True
+4982,2020,White Eye,False
+4983,2020,Greyhound,False
+4984,2020,Love and Monsters,False
+4985,2020,The Midnight Sky,False
+4986,2020,The One and Only Ivan,False
+4987,2020,Tenet,True
+4988,2020,The White Tiger,False
+4989,2020,Promising Young Woman,True
+4990,2021,Being the Ricardos,False
+4991,2021,"tick, tick...BOOM!",False
+4992,2021,King Richard,True
+4993,2021,The Tragedy of Macbeth,False
+4994,2021,CODA,True
+4995,2021,The Eyes of Tammy Faye,True
+4996,2021,The Lost Daughter,False
+4997,2021,Parallel Mothers,False
+4998,2021,Spencer,False
+4999,2021,West Side Story,True
+5000,2021,Encanto,True
+5001,2021,Flee,False
+5002,2021,Luca,False
+5003,2021,The Mitchells vs. the Machines,False
+5004,2021,Raya and the Last Dragon,False
+5005,2021,Dune,True
+5006,2021,Nightmare Alley,False
+5007,2021,Cruella,True
+5008,2021,Cyrano,False
+5009,2021,Licorice Pizza,False
+5010,2021,The Power of the Dog,True
+5011,2021,Ascension,False
+5012,2021,Attica,False
+5013,2021,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",True
+5014,2021,Writing with Fire,False
+5015,2021,Audible,False
+5016,2021,Lead Me Home,False
+5017,2021,The Queen of Basketball,True
+5018,2021,Three Songs for Benazir,False
+5019,2021,When We Were Bullies,False
+5020,2021,Don't Look Up,False
+5021,2021,Drive My Car,True
+5022,2021,The Hand of God,False
+5023,2021,Lunana: A Yak in the Classroom,False
+5024,2021,The Worst Person in the World,False
+5025,2021,Coming 2 America,False
+5026,2021,House of Gucci,False
+5027,2021,No Time to Die,True
+5028,2021,Four Good Days,False
+5029,2021,Affairs of the Art,False
+5030,2021,Bestia,False
+5031,2021,Boxballet,False
+5032,2021,Robin Robin,False
+5033,2021,The Windshield Wiper,True
+5034,2021,Ala Kachuu - Take and Run,False
+5035,2021,The Dress,False
+5036,2021,The Long Goodbye,True
+5037,2021,On My Mind,False
+5038,2021,Please Hold,False
+5039,2021,Free Guy,False
+5040,2021,Shang-Chi and the Legend of the Ten Rings,False
+5041,2021,Spider-Man: No Way Home,False
+5042,2021,Belfast,True
+5043,2022,Elvis,False
+5044,2022,The Banshees of Inisherin,False
+5045,2022,The Whale,True
+5046,2022,Aftersun,False
+5047,2022,Living,False
+5048,2022,Causeway,False
+5049,2022,The Fabelmans,False
+5050,2022,Everything Everywhere All at Once,True
+5051,2022,Tár,False
+5052,2022,Blonde,False
+5053,2022,To Leslie,False
+5054,2022,Guillermo del Toro's Pinocchio,True
+5055,2022,Marcel the Shell with Shoes On,False
+5056,2022,Puss in Boots: The Last Wish,False
+5057,2022,The Sea Beast,False
+5058,2022,Turning Red,False
+5059,2022,All Quiet on the Western Front,True
+5060,2022,"Bardo, False Chronicle of a Handful of Truths",False
+5061,2022,Empire of Light,False
+5062,2022,Babylon,False
+5063,2022,Black Panther: Wakanda Forever,True
+5064,2022,Mrs. Harris Goes to Paris,False
+5065,2022,Triangle of Sadness,False
+5066,2022,All That Breathes,False
+5067,2022,All the Beauty and the Bloodshed,False
+5068,2022,Fire of Love,False
+5069,2022,A House Made of Splinters,False
+5070,2022,Navalny,True
+5071,2022,The Elephant Whisperers,True
+5072,2022,Haulout,False
+5073,2022,How Do You Measure a Year?,False
+5074,2022,The Martha Mitchell Effect,False
+5075,2022,Stranger at the Gate,False
+5076,2022,"Argentina, 1985",False
+5077,2022,Close,False
+5078,2022,EO,False
+5079,2022,The Quiet Girl,False
+5080,2022,The Batman,False
+5081,2022,Tell It like a Woman,False
+5082,2022,RRR,True
+5083,2022,"The Boy, the Mole, the Fox and the Horse",True
+5084,2022,The Flying Sailor,False
+5085,2022,Ice Merchants,False
+5086,2022,My Year of Dicks,False
+5087,2022,An Ostrich Told Me the World Is Fake and I Think I Believe It,False
+5088,2022,An Irish Goodbye,True
+5089,2022,Ivalu,False
+5090,2022,Le Pupille,False
+5091,2022,Night Ride,False
+5092,2022,The Red Suitcase,False
+5093,2022,Top Gun: Maverick,True
+5094,2022,Avatar: The Way of Water,True
+5095,2022,Glass Onion: A Knives Out Mystery,False
+5096,2022,Women Talking,True
+5097,2022,Welcome to Chechnya,True
