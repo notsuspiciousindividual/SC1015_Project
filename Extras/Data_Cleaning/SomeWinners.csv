@@ -1,0 +1,244 @@
+Index,year_film,film,winner
+0,1927,The Last Command,True
+1,1927,7th Heaven,True
+2,1927,Wings,True
+3,1928,In Old Arizona,True
+4,1928,Coquette,True
+5,1928,The Broadway Melody,True
+6,1929,Disraeli,True
+7,1929,The Divorcee,True
+8,1929,All Quiet on the Western Front,True
+9,1930,A Free Soul,True
+10,1930,Min and Bill,True
+11,1930,Cimarron,True
+12,1931,The Champ,True
+13,1931,Dr. Jekyll and Mr. Hyde,True
+14,1931,The Sin of Madelon Claudet,True
+15,1931,Grand Hotel,True
+16,1932,The Private Life of Henry VIII,True
+17,1932,Morning Glory,True
+18,1932,Cavalcade,True
+19,1934,It Happened One Night,True
+20,1935,The Informer,True
+21,1935,Dangerous,True
+22,1935,Mutiny on the Bounty,True
+23,1936,The Story of Louis Pasteur,True
+24,1936,The Great Ziegfeld,True
+25,1937,Captains Courageous,True
+26,1937,The Good Earth,True
+27,1937,The Life of Emile Zola,True
+28,1938,Boys Town,True
+29,1938,Jezebel,True
+30,1938,You Can't Take It with You,True
+31,1939,"Goodbye, Mr. Chips",True
+32,1939,Gone with the Wind,True
+33,1940,The Philadelphia Story,True
+34,1940,Kitty Foyle,True
+35,1940,Rebecca,True
+36,1941,Sergeant York,True
+37,1941,Suspicion,True
+38,1941,How Green Was My Valley,True
+39,1942,Yankee Doodle Dandy,True
+40,1942,Mrs. Miniver,True
+41,1943,Watch on the Rhine,True
+42,1943,The Song of Bernadette,True
+43,1943,Casablanca,True
+44,1944,Going My Way,True
+45,1944,Gaslight,True
+46,1945,The Lost Weekend,True
+47,1945,Mildred Pierce,True
+48,1946,The Best Years of Our Lives,True
+49,1946,To Each His Own,True
+50,1947,A Double Life,True
+51,1947,The Farmer's Daughter,True
+52,1947,Gentleman's Agreement,True
+53,1948,Hamlet,True
+54,1948,Johnny Belinda,True
+55,1949,All the King's Men,True
+56,1949,The Heiress,True
+57,1950,Cyrano de Bergerac,True
+58,1950,Born Yesterday,True
+59,1950,All about Eve,True
+60,1951,The African Queen,True
+61,1951,A Streetcar Named Desire,True
+62,1951,An American in Paris,True
+63,1952,High Noon,True
+64,1952,"Come Back, Little Sheba",True
+65,1952,The Greatest Show on Earth,True
+66,1953,Stalag 17,True
+67,1953,Roman Holiday,True
+68,1953,From Here to Eternity,True
+69,1954,On the Waterfront,True
+70,1954,The Country Girl,True
+71,1955,Marty,True
+72,1955,The Rose Tattoo,True
+73,1956,The King and I,True
+74,1956,Anastasia,True
+75,1956,Around the World in 80 Days,True
+76,1957,The Bridge on the River Kwai,True
+77,1957,The Three Faces of Eve,True
+78,1958,Separate Tables,True
+79,1958,I Want to Live!,True
+80,1958,Gigi,True
+81,1959,Ben-Hur,True
+82,1959,Room at the Top,True
+83,1960,Elmer Gantry,True
+84,1960,Butterfield 8,True
+85,1960,The Apartment,True
+86,1961,Judgment at Nuremberg,True
+87,1961,Two Women,True
+88,1961,West Side Story,True
+89,1962,To Kill a Mockingbird,True
+90,1962,The Miracle Worker,True
+91,1962,Lawrence of Arabia,True
+92,1963,Lilies of the Field,True
+93,1963,Hud,True
+94,1963,Tom Jones,True
+95,1964,My Fair Lady,True
+96,1964,Mary Poppins,True
+97,1965,Cat Ballou,True
+98,1965,Darling,True
+99,1965,The Sound of Music,True
+100,1966,A Man for All Seasons,True
+101,1966,Who's Afraid of Virginia Woolf?,True
+102,1967,In the Heat of the Night,True
+103,1967,Guess Who's Coming to Dinner,True
+104,1968,Charly,True
+105,1968,The Lion in Winter,True
+106,1968,Funny Girl,True
+107,1968,Oliver!,True
+108,1969,True Grit,True
+109,1969,The Prime of Miss Jean Brodie,True
+110,1969,Midnight Cowboy,True
+111,1970,Patton,True
+112,1970,Women in Love,True
+113,1971,The French Connection,True
+114,1971,Klute,True
+115,1972,The Godfather,True
+116,1972,Cabaret,True
+117,1973,Save the Tiger,True
+118,1973,A Touch of Class,True
+119,1973,The Sting,True
+120,1974,Harry and Tonto,True
+121,1974,Alice Doesn't Live Here Anymore,True
+122,1974,The Godfather Part II,True
+123,1975,One Flew over the Cuckoo's Nest,True
+124,1976,Network,True
+125,1976,Rocky,True
+126,1977,The Goodbye Girl,True
+127,1977,Annie Hall,True
+128,1978,Coming Home,True
+129,1978,The Deer Hunter,True
+130,1979,Kramer vs. Kramer,True
+131,1979,Norma Rae,True
+132,1980,Raging Bull,True
+133,1980,Coal Miner's Daughter,True
+134,1980,Ordinary People,True
+135,1981,On Golden Pond,True
+136,1981,Chariots of Fire,True
+137,1982,Gandhi,True
+138,1982,Sophie's Choice,True
+139,1983,Tender Mercies,True
+140,1983,Terms of Endearment,True
+141,1984,Amadeus,True
+142,1984,Places in the Heart,True
+143,1985,Kiss of the Spider Woman,True
+144,1985,The Trip to Bountiful,True
+145,1985,Out of Africa,True
+146,1986,The Color of Money,True
+147,1986,Children of a Lesser God,True
+148,1986,Platoon,True
+149,1987,Wall Street,True
+150,1987,Moonstruck,True
+151,1987,The Last Emperor,True
+152,1988,Rain Man,True
+153,1988,The Accused,True
+154,1989,My Left Foot,True
+155,1989,Driving Miss Daisy,True
+156,1990,Reversal of Fortune,True
+157,1990,Misery,True
+158,1990,Dances With Wolves,True
+159,1991,The Silence of the Lambs,True
+160,1992,Scent of a Woman,True
+161,1992,Howards End,True
+162,1992,Unforgiven,True
+163,1993,Philadelphia,True
+164,1993,The Piano,True
+165,1993,Schindler's List,True
+166,1994,Forrest Gump,True
+167,1994,Blue Sky,True
+168,1995,Leaving Las Vegas,True
+169,1995,Dead Man Walking,True
+170,1995,Braveheart,True
+171,1996,Shine,True
+172,1996,Fargo,True
+173,1996,The English Patient,True
+174,1997,As Good as It Gets,True
+175,1997,Titanic,True
+176,1998,Life Is Beautiful,True
+177,1998,Shakespeare in Love,True
+178,1999,American Beauty,True
+179,1999,Boys Don't Cry,True
+180,2000,Gladiator,True
+181,2000,Erin Brockovich,True
+182,2001,Training Day,True
+183,2001,Monster's Ball,True
+184,2001,A Beautiful Mind,True
+185,2002,The Pianist,True
+186,2002,The Hours,True
+187,2002,Chicago,True
+188,2003,Mystic River,True
+189,2003,Monster,True
+190,2003,The Lord of the Rings: The Return of the King,True
+191,2004,Ray,True
+192,2004,Million Dollar Baby,True
+193,2005,Capote,True
+194,2005,Walk the Line,True
+195,2005,Crash,True
+196,2006,The Last King of Scotland,True
+197,2006,The Queen,True
+198,2006,The Departed,True
+199,2007,There Will Be Blood,True
+200,2007,La Vie en Rose,True
+201,2007,No Country for Old Men,True
+202,2008,Milk,True
+203,2008,The Reader,True
+204,2008,Slumdog Millionaire,True
+205,2009,Crazy Heart,True
+206,2009,The Blind Side,True
+207,2009,The Hurt Locker,True
+208,2010,The King's Speech,True
+209,2010,Black Swan,True
+210,2011,The Artist,True
+211,2011,The Iron Lady,True
+212,2012,Lincoln,True
+213,2012,Silver Linings Playbook,True
+214,2012,Argo,True
+215,2013,Dallas Buyers Club,True
+216,2013,Blue Jasmine,True
+217,2013,12 Years a Slave,True
+218,2014,The Theory of Everything,True
+219,2014,Still Alice,True
+220,2014,Birdman or (The Unexpected Virtue of Ignorance),True
+221,2015,The Revenant,True
+222,2015,Room,True
+223,2015,Spotlight,True
+224,2016,Manchester by the Sea,True
+225,2016,La La Land,True
+226,2016,Moonlight,True
+227,2017,Darkest Hour,True
+228,2017,"Three Billboards outside Ebbing, Missouri",True
+229,2017,The Shape of Water,True
+230,2018,Bohemian Rhapsody,True
+231,2018,The Favourite,True
+232,2018,Green Book,True
+233,2019,Joker,True
+234,2019,Judy,True
+235,2019,Parasite,True
+236,2020,The Father,True
+237,2020,Nomadland,True
+238,2021,King Richard,True
+239,2021,The Eyes of Tammy Faye,True
+240,2021,CODA,True
+241,2022,The Whale,True
+242,2022,Everything Everywhere All at Once,True
