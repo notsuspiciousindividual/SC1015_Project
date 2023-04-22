@@ -1,5 +1,5 @@
 # SC1015 Mini Project
-## Predicting possible Movie nominations and winners at the Academy Awards (Oscars)
+## Predicting winners at the Academy Awards (Oscars)
 
 
 ### About
@@ -8,8 +8,9 @@ A mini Project of SC1015 (Introduction to Data Science and Artificial Intelligen
 1. Learning_TMDB_API.ipynb
 2. Data_Extraction.ipynb
 3. Data_Cleaning.ipynb
-4. Data_Anaylsis.ipynb
-5. Resampling.ipynb
+4. Data_EDA.ipynb
+5. Data_Anaylsis.ipynb
+6. Resampling.ipynb
 
 ### Contributors
 ---
@@ -19,24 +20,29 @@ A mini Project of SC1015 (Introduction to Data Science and Artificial Intelligen
 
 ### Problem Definition
 ---
-- WIP
+- Which model best predict whether a movie would win Oscars?
 
 ### Models Used
 ---
 - Decision Tree
 - K-Nearest Neighbour (kNN)
+- Random Forest
 - Logistic Regression
 
 ### Conclusion
 ---
 
-- WIP
+- RandomOverSampler together with Random Forest Classification gave the best overall accuracy but low True Positive Rate
+- ADASYN resampling with KNN gave decent overall accuracy and True Positive Rate of above 70%
+- KNN classification generally gave consistently high True Positive Rate of above 70%
 
 ### Learnings
 ---
 - WIP
 - API Usage
 - Collaborating using GitHub
+- Handling imbalanced datasets using over-sampling techniques
+- Using SimpleImputer to fill in missing numerical variables with median
 
 ### References
 ---
