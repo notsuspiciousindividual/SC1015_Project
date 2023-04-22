@@ -13,6 +13,10 @@ A mini Project of SC1015 (Introduction to Data Science and Artificial Intelligen
 6. [Data_Anaylsis.ipynb](https://github.com/notsuspiciousindividual/SC1015_Project/blob/main/data_analysis.ipynb)
 7. [Resampling.ipynb](https://github.com/notsuspiciousindividual/SC1015_Project/blob/main/resampling.ipynb)
 
+### Video
+Video Presentation
+[Link](https://youtu.be/zYE2KUYWkaM)
+
 ### Contributors
 ---
 - @notsuspiciousindividual
