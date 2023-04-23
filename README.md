@@ -6,12 +6,12 @@
 ___
 A mini Project of SC1015 (Introduction to Data Science and Artificial Intelligence) aiming to predict winners of Oscars. Please refer to our code in the following order:
 1. [Learning_TMDB_API.ipynb](https://github.com/notsuspiciousindividual/SC1015_Project/blob/main/Learning_TMDB_API.ipynb)
-2. [Data_Extraction.ipynb](https://github.com/notsuspiciousindividual/SC1015_Project/blob/main/data_extraction.ipynb)
+2. [Data_Extraction.ipynb](https://github.com/notsuspiciousindividual/SC1015_Project/blob/main/Data_Extraction.ipynb)
 3. [Exporting_Oscar_Winners.ipynb](https://github.com/notsuspiciousindividual/SC1015_Project/blob/main/Exporting_Oscar_Winners.ipynb)
 4. [Data_Cleaning.ipynb](https://github.com/notsuspiciousindividual/SC1015_Project/blob/main/Data_Cleaning.ipynb)
-5. [Data_EDA.ipynb](https://github.com/notsuspiciousindividual/SC1015_Project/blob/main/data_EDA.ipynb)
-6. [Data_Anaylsis.ipynb](https://github.com/notsuspiciousindividual/SC1015_Project/blob/main/data_analysis.ipynb)
-7. [Resampling.ipynb](https://github.com/notsuspiciousindividual/SC1015_Project/blob/main/resampling.ipynb)
+5. [Data_EDA.ipynb](https://github.com/notsuspiciousindividual/SC1015_Project/blob/main/Data_EDA.ipynb)
+6. [Data_Anaylsis.ipynb](https://github.com/notsuspiciousindividual/SC1015_Project/blob/main/Data_Analysis.ipynb)
+7. [Resampling.ipynb](https://github.com/notsuspiciousindividual/SC1015_Project/blob/main/Resampling.ipynb)
 
 ### Video
 Video Presentation
